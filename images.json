@@ -1,7 +1,97 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2024-01-15T10:00:00Z",
+  "lastUpdated": "2025-12-05T19:46:43Z",
   "images": [
+    {
+      "name": "做饭-做蛋糕",
+      "displayName": "做蛋糕",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-做饭杂菜",
+      "displayName": "做饭杂菜",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-做饼干",
+      "displayName": "做饼干",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-切菜",
+      "displayName": "切菜",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-学习菜谱",
+      "displayName": "学习菜谱",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-揉面",
+      "displayName": "揉面",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-烘焙",
+      "displayName": "烘焙",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-烤&炒",
+      "displayName": "烤&炒",
+      "category": "做饭"
+    },
+    {
+      "name": "做饭-煲汤",
+      "displayName": "煲汤",
+      "category": "做饭"
+    },
+    {
+      "name": "北京-天安门",
+      "displayName": "天安门",
+      "category": "北京"
+    },
+    {
+      "name": "北京-茶",
+      "displayName": "茶",
+      "category": "北京"
+    },
+    {
+      "name": "北京-长城",
+      "displayName": "长城",
+      "category": "北京"
+    },
+    {
+      "name": "吃饭-果汁",
+      "displayName": "果汁",
+      "category": "吃饭"
+    },
+    {
+      "name": "吃饭-烧烤",
+      "displayName": "烧烤",
+      "category": "吃饭"
+    },
+    {
+      "name": "吃饭-野餐",
+      "displayName": "野餐",
+      "category": "吃饭"
+    },
+    {
+      "name": "吃饭-面条",
+      "displayName": "面条",
+      "category": "吃饭"
+    },
+    {
+      "name": "吃饭-高碳水",
+      "displayName": "高碳水",
+      "category": "吃饭"
+    },
+    {
+      "name": "吃饭-麦当劳",
+      "displayName": "麦当劳",
+      "category": "吃饭"
+    },
     {
       "name": "学习-上学1",
       "displayName": "上学1",
@@ -10,6 +100,11 @@
     {
       "name": "学习-上课",
       "displayName": "上课",
+      "category": "学习"
+    },
+    {
+      "name": "学习-伤心学习",
+      "displayName": "伤心学习",
       "category": "学习"
     },
     {
@@ -28,6 +123,21 @@
       "category": "学习"
     },
     {
+      "name": "学习-开心写作业",
+      "displayName": "开心写作业",
+      "category": "学习"
+    },
+    {
+      "name": "学习-熬夜学习",
+      "displayName": "熬夜学习",
+      "category": "学习"
+    },
+    {
+      "name": "学习-电脑学习",
+      "displayName": "电脑学习",
+      "category": "学习"
+    },
+    {
       "name": "学习-看书",
       "displayName": "看书",
       "category": "学习"
@@ -38,19 +148,104 @@
       "category": "学习"
     },
     {
-      "name": "学习-读书",
-      "displayName": "读书",
-      "category": "学习"
-    },
-    {
       "name": "学习-计算机&金融",
       "displayName": "计算机&金融",
       "category": "学习"
     },
     {
+      "name": "学习-读书",
+      "displayName": "读书",
+      "category": "学习"
+    },
+    {
+      "name": "工作-伤心工作",
+      "displayName": "伤心工作",
+      "category": "工作"
+    },
+    {
+      "name": "工作-修理",
+      "displayName": "修理",
+      "category": "工作"
+    },
+    {
+      "name": "工作-厨师",
+      "displayName": "厨师",
+      "category": "工作"
+    },
+    {
+      "name": "工作-家庭主妇",
+      "displayName": "家庭主妇",
+      "category": "工作"
+    },
+    {
+      "name": "工作-开心工作",
+      "displayName": "开心工作",
+      "category": "工作"
+    },
+    {
       "name": "工作-电脑",
       "displayName": "电脑",
       "category": "工作"
+    },
+    {
+      "name": "工作-送外卖",
+      "displayName": "送外卖",
+      "category": "工作"
+    },
+    {
+      "name": "恋爱-下午茶",
+      "displayName": "下午茶",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-公园",
+      "displayName": "公园",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-吃饭",
+      "displayName": "吃饭",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-居家吃饭",
+      "displayName": "居家吃饭",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-水族馆",
+      "displayName": "水族馆",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-睡觉",
+      "displayName": "睡觉",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-礼物",
+      "displayName": "礼物",
+      "category": "恋爱"
+    },
+    {
+      "name": "恋爱-逛街",
+      "displayName": "逛街",
+      "category": "恋爱"
+    },
+    {
+      "name": "拍照-可爱",
+      "displayName": "可爱",
+      "category": "拍照"
+    },
+    {
+      "name": "生活-下午茶",
+      "displayName": "下午茶",
+      "category": "生活"
+    },
+    {
+      "name": "生活-冥想",
+      "displayName": "冥想",
+      "category": "生活"
     },
     {
       "name": "生活-出去玩",
@@ -68,8 +263,33 @@
       "category": "生活"
     },
     {
+      "name": "生活-天文",
+      "displayName": "天文",
+      "category": "生活"
+    },
+    {
+      "name": "生活-护肤",
+      "displayName": "护肤",
+      "category": "生活"
+    },
+    {
+      "name": "生活-拍照",
+      "displayName": "拍照",
+      "category": "生活"
+    },
+    {
+      "name": "生活-拼图",
+      "displayName": "拼图",
+      "category": "生活"
+    },
+    {
       "name": "生活-收拾家里",
       "displayName": "收拾家里",
+      "category": "生活"
+    },
+    {
+      "name": "生活-桌游",
+      "displayName": "桌游",
       "category": "生活"
     },
     {
@@ -83,8 +303,23 @@
       "category": "生活"
     },
     {
+      "name": "生活-电动",
+      "displayName": "电动",
+      "category": "生活"
+    },
+    {
       "name": "生活-看医生",
       "displayName": "看医生",
+      "category": "生活"
+    },
+    {
+      "name": "生活-看电影",
+      "displayName": "看电影",
+      "category": "生活"
+    },
+    {
+      "name": "生活-看闲书",
+      "displayName": "看闲书",
       "category": "生活"
     },
     {
@@ -113,89 +348,159 @@
       "category": "生活"
     },
     {
-      "name": "生活-逛街",
-      "displayName": "逛街",
-      "category": "生活"
-    },
-    {
-      "name": "生活-拍照",
-      "displayName": "拍照",
-      "category": "生活"
-    },
-    {
-      "name": "生活-冥想",
-      "displayName": "冥想",
-      "category": "生活"
-    },
-    {
       "name": "生活-织毛线",
       "displayName": "织毛线",
       "category": "生活"
     },
     {
-      "name": "生活-电动",
-      "displayName": "电动",
+      "name": "生活-逛街",
+      "displayName": "逛街",
       "category": "生活"
     },
     {
-      "name": "生活-天文",
-      "displayName": "天文",
-      "category": "生活"
+      "name": "社交-Party",
+      "displayName": "Party",
+      "category": "社交"
     },
     {
-      "name": "生活-护肤",
-      "displayName": "护肤",
-      "category": "生活"
+      "name": "社交-唱歌",
+      "displayName": "唱歌",
+      "category": "社交"
     },
     {
-      "name": "生活-下午茶",
-      "displayName": "下午茶",
-      "category": "生活"
+      "name": "社交-喝茶",
+      "displayName": "喝茶",
+      "category": "社交"
     },
     {
-      "name": "生活-看电影",
-      "displayName": "看电影",
-      "category": "生活"
+      "name": "社交-帮助",
+      "displayName": "帮助",
+      "category": "社交"
     },
     {
-      "name": "生活-拼图",
-      "displayName": "拼图",
-      "category": "生活"
+      "name": "社交-打招呼",
+      "displayName": "打招呼",
+      "category": "社交"
     },
     {
-      "name": "生活-桌游",
-      "displayName": "桌游",
-      "category": "生活"
+      "name": "社交-演讲",
+      "displayName": "演讲",
+      "category": "社交"
     },
     {
-      "name": "生活-看闲书",
-      "displayName": "看闲书",
-      "category": "生活"
+      "name": "社交-讨论",
+      "displayName": "讨论",
+      "category": "社交"
     },
     {
-      "name": "运动-冲浪",
-      "displayName": "冲浪",
-      "category": "运动"
+      "name": "纽约-地铁",
+      "displayName": "地铁",
+      "category": "纽约"
     },
     {
-      "name": "运动-园艺",
-      "displayName": "园艺",
-      "category": "运动"
+      "name": "纽约-大厦",
+      "displayName": "大厦",
+      "category": "纽约"
     },
     {
-      "name": "运动-拉伸",
-      "displayName": "拉伸",
-      "category": "运动"
+      "name": "纽约-大桥",
+      "displayName": "大桥",
+      "category": "纽约"
     },
     {
-      "name": "运动-撸铁",
-      "displayName": "撸铁",
-      "category": "运动"
+      "name": "纽约-时代广场",
+      "displayName": "时代广场",
+      "category": "纽约"
     },
     {
-      "name": "运动-钓鱼",
-      "displayName": "钓鱼",
-      "category": "运动"
+      "name": "纽约-自由女生像",
+      "displayName": "自由女生像",
+      "category": "纽约"
+    },
+    {
+      "name": "纽约-马车",
+      "displayName": "马车",
+      "category": "纽约"
+    },
+    {
+      "name": "美食-taco",
+      "displayName": "taco",
+      "category": "美食"
+    },
+    {
+      "name": "美食-东坡肉",
+      "displayName": "东坡肉",
+      "category": "美食"
+    },
+    {
+      "name": "美食-两个包子",
+      "displayName": "两个包子",
+      "category": "美食"
+    },
+    {
+      "name": "美食-冰激凌",
+      "displayName": "冰激凌",
+      "category": "美食"
+    },
+    {
+      "name": "美食-冷面",
+      "displayName": "冷面",
+      "category": "美食"
+    },
+    {
+      "name": "美食-包子",
+      "displayName": "包子",
+      "category": "美食"
+    },
+    {
+      "name": "美食-汉堡",
+      "displayName": "汉堡",
+      "category": "美食"
+    },
+    {
+      "name": "美食-汤",
+      "displayName": "汤",
+      "category": "美食"
+    },
+    {
+      "name": "美食-烤鸭",
+      "displayName": "烤鸭",
+      "category": "美食"
+    },
+    {
+      "name": "美食-牛角面包",
+      "displayName": "牛角面包",
+      "category": "美食"
+    },
+    {
+      "name": "美食-粉丝",
+      "displayName": "粉丝",
+      "category": "美食"
+    },
+    {
+      "name": "美食-腊肉",
+      "displayName": "腊肉",
+      "category": "美食"
+    },
+    {
+      "name": "美食-野餐",
+      "displayName": "野餐",
+      "category": "美食"
+    },
+    {
+      "name": "美食-面条",
+      "displayName": "面条",
+      "category": "美食"
+    },
+    {
+      "name": "美食-鱼肉",
+      "displayName": "鱼肉",
+      "category": "美食"
+    },
+    {
+      "name": "美食-鸭肉",
+      "displayName": "鸭肉",
+      "category": "美食"
     },
     {
       "name": "艺术-弹唱",
@@ -218,54 +523,139 @@
       "category": "艺术"
     },
     {
-      "name": "拍照-可爱",
-      "displayName": "可爱",
-      "category": "拍照"
+      "name": "节日-万圣节",
+      "displayName": "万圣节",
+      "category": "节日"
     },
     {
-      "name": "吃饭-麦当劳",
-      "displayName": "麦当劳",
-      "category": "吃饭"
+      "name": "节日-圣诞树",
+      "displayName": "圣诞树",
+      "category": "节日"
     },
     {
-      "name": "吃饭-面条",
-      "displayName": "面条",
-      "category": "吃饭"
+      "name": "节日-圣诞火炉",
+      "displayName": "圣诞火炉",
+      "category": "节日"
     },
     {
-      "name": "吃饭-野餐",
-      "displayName": "野餐",
-      "category": "吃饭"
+      "name": "运动-举重🏋🏻",
+      "displayName": "举重🏋🏻",
+      "category": "运动"
     },
     {
-      "name": "吃饭-烧烤",
-      "displayName": "烧烤",
-      "category": "吃饭"
+      "name": "运动-乒乓球",
+      "displayName": "乒乓球",
+      "category": "运动"
     },
     {
-      "name": "吃饭-果汁",
-      "displayName": "果汁",
-      "category": "吃饭"
+      "name": "运动-保龄",
+      "displayName": "保龄",
+      "category": "运动"
     },
     {
-      "name": "吃饭-高碳水",
-      "displayName": "高碳水",
-      "category": "吃饭"
+      "name": "运动-冲浪",
+      "displayName": "冲浪",
+      "category": "运动"
     },
     {
-      "name": "做饭-烤&炒",
-      "displayName": "烤&炒",
-      "category": "做饭"
+      "name": "运动-哑铃",
+      "displayName": "哑铃",
+      "category": "运动"
     },
     {
-      "name": "做饭-烘焙",
-      "displayName": "烘焙",
-      "category": "做饭"
+      "name": "运动-啦啦队",
+      "displayName": "啦啦队",
+      "category": "运动"
     },
     {
-      "name": "做饭-做蛋糕",
-      "displayName": "做蛋糕",
-      "category": "做饭"
+      "name": "运动-园艺",
+      "displayName": "园艺",
+      "category": "运动"
+    },
+    {
+      "name": "运动-壶铃",
+      "displayName": "壶铃",
+      "category": "运动"
+    },
+    {
+      "name": "运动-好天气划船",
+      "displayName": "好天气划船",
+      "category": "运动"
+    },
+    {
+      "name": "运动-射箭",
+      "displayName": "射箭",
+      "category": "运动"
+    },
+    {
+      "name": "运动-拉伸",
+      "displayName": "拉伸",
+      "category": "运动"
+    },
+    {
+      "name": "运动-排球",
+      "displayName": "排球",
+      "category": "运动"
+    },
+    {
+      "name": "运动-撸铁",
+      "displayName": "撸铁",
+      "category": "运动"
+    },
+    {
+      "name": "运动-攀岩",
+      "displayName": "攀岩",
+      "category": "运动"
+    },
+    {
+      "name": "运动-棒球",
+      "displayName": "棒球",
+      "category": "运动"
+    },
+    {
+      "name": "运动-棒球-2",
+      "displayName": "棒球-2",
+      "category": "运动"
+    },
+    {
+      "name": "运动-滑板",
+      "displayName": "滑板",
+      "category": "运动"
+    },
+    {
+      "name": "运动-玩水",
+      "displayName": "玩水",
+      "category": "运动"
+    },
+    {
+      "name": "运动-篮球",
+      "displayName": "篮球",
+      "category": "运动"
+    },
+    {
+      "name": "运动-网球户外",
+      "displayName": "网球户外",
+      "category": "运动"
+    },
+    {
+      "name": "运动-足球",
+      "displayName": "足球",
+      "category": "运动"
+    },
+    {
+      "name": "运动-跳舞",
+      "displayName": "跳舞",
+      "category": "运动"
+    },
+    {
+      "name": "运动-跳舞1",
+      "displayName": "跳舞1",
+      "category": "运动"
+    },
+    {
+      "name": "运动-钓鱼",
+      "displayName": "钓鱼",
+      "category": "运动"
     }
   ]
 }
