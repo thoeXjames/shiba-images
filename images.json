@@ -148,11 +148,6 @@
       "category": "学习"
     },
     {
-      "name": "学习-计算机&金融",
-      "displayName": "计算机&金融",
-      "category": "学习"
-    },
-    {
       "name": "学习-读书",
       "displayName": "读书",
       "category": "学习"
@@ -238,16 +233,6 @@
       "category": "拍照"
     },
     {
-      "name": "生活-下午茶",
-      "displayName": "下午茶",
-      "category": "生活"
-    },
-    {
-      "name": "生活-冥想",
-      "displayName": "冥想",
-      "category": "生活"
-    },
-    {
       "name": "生活-出去玩",
       "displayName": "出去玩",
       "category": "生活"
@@ -263,33 +248,8 @@
       "category": "生活"
     },
     {
-      "name": "生活-天文",
-      "displayName": "天文",
-      "category": "生活"
-    },
-    {
-      "name": "生活-护肤",
-      "displayName": "护肤",
-      "category": "生活"
-    },
-    {
-      "name": "生活-拍照",
-      "displayName": "拍照",
-      "category": "生活"
-    },
-    {
-      "name": "生活-拼图",
-      "displayName": "拼图",
-      "category": "生活"
-    },
-    {
       "name": "生活-收拾家里",
       "displayName": "收拾家里",
-      "category": "生活"
-    },
-    {
-      "name": "生活-桌游",
-      "displayName": "桌游",
       "category": "生活"
     },
     {
@@ -303,23 +263,8 @@
       "category": "生活"
     },
     {
-      "name": "生活-电动",
-      "displayName": "电动",
-      "category": "生活"
-    },
-    {
       "name": "生活-看医生",
       "displayName": "看医生",
-      "category": "生活"
-    },
-    {
-      "name": "生活-看电影",
-      "displayName": "看电影",
-      "category": "生活"
-    },
-    {
-      "name": "生活-看闲书",
-      "displayName": "看闲书",
       "category": "生活"
     },
     {
@@ -345,11 +290,6 @@
     {
       "name": "生活-种花",
       "displayName": "种花",
-      "category": "生活"
-    },
-    {
-      "name": "生活-织毛线",
-      "displayName": "织毛线",
       "category": "生活"
     },
     {
@@ -655,6 +595,66 @@
     {
       "name": "运动-钓鱼",
       "displayName": "钓鱼",
+      "category": "运动"
+    },
+    {
+      "name": "运动-动感单车",
+      "displayName": "动感单车",
+      "category": "运动"
+    },
+    {
+      "name": "运动-平躺举重",
+      "displayName": "平躺举重",
+      "category": "运动"
+    },
+    {
+      "name": "运动-划船机",
+      "displayName": "划船机",
+      "category": "运动"
+    },
+    {
+      "name": "运动-卷腹机器",
+      "displayName": "卷腹机器",
+      "category": "运动"
+    },
+    {
+      "name": "运动-坐姿推胸",
+      "displayName": "坐姿推胸",
+      "category": "运动"
+    },
+    {
+      "name": "运动-引体向上",
+      "displayName": "引体向上",
+      "category": "运动"
+    },
+    {
+      "name": "运动-弹力绳夹胸",
+      "displayName": "弹力绳夹胸",
+      "category": "运动"
+    },
+    {
+      "name": "运动-推肩机",
+      "displayName": "推肩机",
+      "category": "运动"
+    },
+    {
+      "name": "运动-椭圆仪",
+      "displayName": "椭圆仪",
+      "category": "运动"
+    },
+    {
+      "name": "运动-泡沫轴细腿",
+      "displayName": "泡沫轴细腿",
+      "category": "运动"
+    },
+    {
+      "name": "运动-蝶式夹胸",
+      "displayName": "蝶式夹胸",
+      "category": "运动"
+    },
+    {
+      "name": "运动-跑步机（0°）",
+      "displayName": "跑步机（0°）",
       "category": "运动"
     }
   ]
