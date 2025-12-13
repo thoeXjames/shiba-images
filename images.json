@@ -656,6 +656,26 @@
       "name": "运动-跑步机（0°）",
       "displayName": "跑步机（0°）",
       "category": "运动"
+    },
+    {
+      "name": "运动-器材上推",
+      "displayName": "器材上推",
+      "category": "运动"
+    },
+    {
+      "name": "运动-辅助引体向上",
+      "displayName": "辅助引体向上",
+      "category": "运动"
+    },
+    {
+      "name": "运动-器材练背",
+      "displayName": "器材练背",
+      "category": "运动"
+    },
+    {
+      "name": "运动-器材平举",
+      "displayName": "器材平举",
+      "category": "运动"
     }
   ]
 }
