@@ -676,6 +676,36 @@
       "name": "运动-器材平举",
       "displayName": "器材平举",
       "category": "运动"
+    },
+    {
+      "name": "个护-刷牙",
+      "displayName": "刷牙",
+      "category": "个护"
+    },
+    {
+      "name": "个护-洗脸护肤",
+      "displayName": "洗脸护肤",
+      "category": "个护"
+    },
+    {
+      "name": "个护-快速洗澡",
+      "displayName": "快速洗澡",
+      "category": "个护"
+    },
+    {
+      "name": "个护-洗澡",
+      "displayName": "洗澡",
+      "category": "个护"
+    },
+    {
+      "name": "个护-小柴拉屎",
+      "displayName": "小柴拉屎",
+      "category": "个护"
+    },
+    {
+      "name": "个护-剃须",
+      "displayName": "剃须",
+      "category": "个护"
     }
   ]
 }
