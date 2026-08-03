@@ -1,7 +1,84 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-05T19:46:43Z",
+  "lastUpdated": "2026-08-03T12:26:02Z",
   "images": [
+    {
+      "name": "个护-刷牙",
+      "displayName": "刷牙",
+      "displayNameEn": "Brushing Teeth",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-剃须",
+      "displayName": "剃须",
+      "displayNameEn": "Shaving",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-剪指甲",
+      "displayName": "剪指甲",
+      "displayNameEn": "Trimming Nails",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-化妆",
+      "displayName": "化妆",
+      "displayNameEn": "Putting on Makeup",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-小柴拉屎",
+      "displayName": "小柴拉屎",
+      "displayNameEn": "Little Shiba Pooping",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-快速洗澡",
+      "displayName": "快速洗澡",
+      "displayNameEn": "Quick Shower",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-收拾衣服",
+      "displayName": "收拾衣服",
+      "displayNameEn": "Organizing Clothes",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-洗头",
+      "displayName": "洗头",
+      "displayNameEn": "Washing Hair",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-洗澡",
+      "displayName": "洗澡",
+      "displayNameEn": "Bathing",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-洗脸护肤",
+      "displayName": "洗脸护肤",
+      "displayNameEn": "Face Washing & Skincare",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-面膜",
+      "displayName": "面膜",
+      "displayNameEn": "Face Mask",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
     {
       "name": "做饭-做蛋糕",
       "displayName": "做蛋糕",
@@ -59,11 +136,74 @@
       "categoryEn": "Cooking"
     },
     {
+      "name": "做饭-烧糊了",
+      "displayName": "烧糊了",
+      "displayNameEn": "Burned the Food",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
       "name": "做饭-煲汤",
       "displayName": "煲汤",
       "displayNameEn": "Making Soup",
       "category": "做饭",
       "categoryEn": "Cooking"
+    },
+    {
+      "name": "健康-体检",
+      "displayName": "体检",
+      "displayNameEn": "Health Checkup",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-发烧休息",
+      "displayName": "发烧休息",
+      "displayNameEn": "Resting with a Fever",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-受伤休养",
+      "displayName": "受伤休养",
+      "displayNameEn": "Injury Recovery",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-吃药",
+      "displayName": "吃药",
+      "displayNameEn": "Taking Medicine",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-康复训练",
+      "displayName": "康复训练",
+      "displayNameEn": "Rehabilitation Exercise",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-晕车",
+      "displayName": "晕车",
+      "displayNameEn": "Motion Sickness",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-看牙医",
+      "displayName": "看牙医",
+      "displayNameEn": "Dental Visit",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-过敏",
+      "displayName": "过敏",
+      "displayNameEn": "Allergies",
+      "category": "健康",
+      "categoryEn": "Health"
     },
     {
       "name": "北京-天安门",
@@ -150,6 +290,20 @@
       "categoryEn": "Study"
     },
     {
+      "name": "学习-做实验",
+      "displayName": "做实验",
+      "displayNameEn": "Doing an Experiment",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-做笔记",
+      "displayName": "做笔记",
+      "displayNameEn": "Taking Notes",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
       "name": "学习-去上学",
       "displayName": "去上学",
       "displayNameEn": "Going to School",
@@ -171,9 +325,30 @@
       "categoryEn": "Study"
     },
     {
+      "name": "学习-学习走神",
+      "displayName": "学习走神",
+      "displayNameEn": "Distracted While Studying",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
       "name": "学习-开心写作业",
       "displayName": "开心写作业",
       "displayNameEn": "Happy Doing Homework",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-忘交作业",
+      "displayName": "忘交作业",
+      "displayNameEn": "Forgot to Submit Homework",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-查资料",
+      "displayName": "查资料",
+      "displayNameEn": "Researching",
       "category": "学习",
       "categoryEn": "Study"
     },
@@ -206,11 +381,46 @@
       "categoryEn": "Study"
     },
     {
+      "name": "学习-线上课程",
+      "displayName": "线上课程",
+      "displayNameEn": "Online Class",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-考试",
+      "displayName": "考试",
+      "displayNameEn": "Taking an Exam",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-考试没准备",
+      "displayName": "考试没准备",
+      "displayNameEn": "Unprepared for an Exam",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-背单词",
+      "displayName": "背单词",
+      "displayNameEn": "Studying Vocabulary",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
       "name": "学习-读书",
       "displayName": "读书",
       "displayNameEn": "Reading",
       "category": "学习",
       "categoryEn": "Study"
+    },
+    {
+      "name": "工作-会议",
+      "displayName": "会议",
+      "displayNameEn": "Meeting",
+      "category": "工作",
+      "categoryEn": "Work"
     },
     {
       "name": "工作-伤心工作",
@@ -227,9 +437,30 @@
       "categoryEn": "Work"
     },
     {
+      "name": "工作-写作",
+      "displayName": "写作",
+      "displayNameEn": "Writing",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-出差候机",
+      "displayName": "出差候机",
+      "displayNameEn": "Waiting for a Business Flight",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
       "name": "工作-厨师",
       "displayName": "厨师",
       "displayNameEn": "Chef",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-多任务",
+      "displayName": "多任务",
+      "displayNameEn": "Multitasking",
       "category": "工作",
       "categoryEn": "Work"
     },
@@ -241,6 +472,13 @@
       "categoryEn": "Work"
     },
     {
+      "name": "工作-居家办公",
+      "displayName": "居家办公",
+      "displayNameEn": "Working from Home",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
       "name": "工作-开心工作",
       "displayName": "开心工作",
       "displayNameEn": "Happy Working",
@@ -248,9 +486,79 @@
       "categoryEn": "Work"
     },
     {
+      "name": "工作-整理文件",
+      "displayName": "整理文件",
+      "displayNameEn": "Organizing Files",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-灵感枯竭",
+      "displayName": "灵感枯竭",
+      "displayNameEn": "Creative Block",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
       "name": "工作-电脑",
       "displayName": "电脑",
       "displayNameEn": "Computer Work",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-电话沟通",
+      "displayName": "电话沟通",
+      "displayNameEn": "Work Phone Call",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-等待反馈",
+      "displayName": "等待反馈",
+      "displayNameEn": "Waiting for Feedback",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-被打断",
+      "displayName": "被打断",
+      "displayNameEn": "Interrupted at Work",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-视频会议",
+      "displayName": "视频会议",
+      "displayNameEn": "Video Meeting",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-请假休息",
+      "displayName": "请假休息",
+      "displayNameEn": "Taking Time Off",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-赶截止日期",
+      "displayName": "赶截止日期",
+      "displayNameEn": "Racing a Deadline",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-返工",
+      "displayName": "返工",
+      "displayNameEn": "Reworking",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-迟到",
+      "displayName": "迟到",
+      "displayNameEn": "Late for Work",
       "category": "工作",
       "categoryEn": "Work"
     },
@@ -318,11 +626,81 @@
       "categoryEn": "Romance"
     },
     {
+      "name": "情绪-失望",
+      "displayName": "失望",
+      "displayNameEn": "Disappointed",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
+      "name": "情绪-委屈",
+      "displayName": "委屈",
+      "displayNameEn": "Feeling Hurt",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
+      "name": "情绪-愤怒冷静",
+      "displayName": "愤怒冷静",
+      "displayNameEn": "Calming Down from Anger",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
+      "name": "情绪-焦虑",
+      "displayName": "焦虑",
+      "displayNameEn": "Anxious",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
+      "name": "情绪-犹豫纠结",
+      "displayName": "犹豫纠结",
+      "displayNameEn": "Indecisive",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
+      "name": "情绪-独自庆祝",
+      "displayName": "独自庆祝",
+      "displayNameEn": "Celebrating a Personal Win",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
+      "name": "情绪-释然",
+      "displayName": "释然",
+      "displayNameEn": "Relieved",
+      "category": "情绪",
+      "categoryEn": "Emotions"
+    },
+    {
       "name": "拍照-可爱",
       "displayName": "可爱",
       "displayNameEn": "Cute Photo",
       "category": "拍照",
       "categoryEn": "Photography"
+    },
+    {
+      "name": "生活-下雨出门",
+      "displayName": "下雨出门",
+      "displayNameEn": "Going Out in the Rain",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-停电",
+      "displayName": "停电",
+      "displayNameEn": "Power Outage",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-冰箱空了",
+      "displayName": "冰箱空了",
+      "displayNameEn": "Empty Fridge",
+      "category": "生活",
+      "categoryEn": "Life"
     },
     {
       "name": "生活-出去玩",
@@ -346,6 +724,69 @@
       "categoryEn": "Life"
     },
     {
+      "name": "生活-堵车",
+      "displayName": "堵车",
+      "displayNameEn": "Stuck in Traffic",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-失眠",
+      "displayName": "失眠",
+      "displayNameEn": "Insomnia",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-忘带钥匙",
+      "displayName": "忘带钥匙",
+      "displayNameEn": "Forgot the Keys",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-忘带雨伞",
+      "displayName": "忘带雨伞",
+      "displayNameEn": "Forgot the Umbrella",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-手机没电",
+      "displayName": "手机没电",
+      "displayNameEn": "Dead Phone Battery",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-打翻饮料",
+      "displayName": "打翻饮料",
+      "displayNameEn": "Spilled a Drink",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-找不到东西",
+      "displayName": "找不到东西",
+      "displayNameEn": "Looking for a Lost Item",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-排队等待",
+      "displayName": "排队等待",
+      "displayNameEn": "Waiting in Line",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-搬家打包",
+      "displayName": "搬家打包",
+      "displayNameEn": "Packing to Move",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
       "name": "生活-收拾家里",
       "displayName": "收拾家里",
       "displayNameEn": "Tidying Up Home",
@@ -353,9 +794,37 @@
       "categoryEn": "Life"
     },
     {
+      "name": "生活-旅行",
+      "displayName": "旅行",
+      "displayNameEn": "Traveling",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-水管漏水",
+      "displayName": "水管漏水",
+      "displayNameEn": "Leaking Pipe",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
       "name": "生活-泡澡澡",
       "displayName": "泡澡澡",
       "displayNameEn": "Taking a Bath",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-洗衣机故障",
+      "displayName": "洗衣机故障",
+      "displayNameEn": "Broken Washing Machine",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-爬楼梯",
+      "displayName": "爬楼梯",
+      "displayNameEn": "Taking the Stairs",
       "category": "生活",
       "categoryEn": "Life"
     },
@@ -374,6 +843,13 @@
       "categoryEn": "Life"
     },
     {
+      "name": "生活-看电视",
+      "displayName": "看电视",
+      "displayNameEn": "Watching TV",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
       "name": "生活-睡觉1",
       "displayName": "睡觉1",
       "displayNameEn": "Sleeping 1",
@@ -384,6 +860,13 @@
       "name": "生活-睡觉2",
       "displayName": "睡觉2",
       "displayNameEn": "Sleeping 2",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-睡过头",
+      "displayName": "睡过头",
+      "displayNameEn": "Overslept",
       "category": "生活",
       "categoryEn": "Life"
     },
@@ -409,9 +892,72 @@
       "categoryEn": "Life"
     },
     {
+      "name": "生活-等公交",
+      "displayName": "等公交",
+      "displayNameEn": "Waiting for the Bus",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-等待快递",
+      "displayName": "等待快递",
+      "displayNameEn": "Waiting for a Delivery",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-维修家里",
+      "displayName": "维修家里",
+      "displayNameEn": "Home Repair",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-网络故障",
+      "displayName": "网络故障",
+      "displayNameEn": "Internet Outage",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-行李超重",
+      "displayName": "行李超重",
+      "displayNameEn": "Overweight Luggage",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-计划取消",
+      "displayName": "计划取消",
+      "displayNameEn": "Canceled Plans",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-迷路",
+      "displayName": "迷路",
+      "displayNameEn": "Lost",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-通勤",
+      "displayName": "通勤",
+      "displayNameEn": "Commuting",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
       "name": "生活-逛街",
       "displayName": "逛街",
       "displayNameEn": "Shopping",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-遛狗",
+      "displayName": "遛狗",
+      "displayNameEn": "Walking the Dog",
       "category": "生活",
       "categoryEn": "Life"
     },
@@ -668,6 +1214,34 @@
       "categoryEn": "Holidays"
     },
     {
+      "name": "财务-存钱",
+      "displayName": "存钱",
+      "displayNameEn": "Saving Money",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
+      "name": "财务-缴账单",
+      "displayName": "缴账单",
+      "displayNameEn": "Paying Bills",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
+      "name": "财务-记账",
+      "displayName": "记账",
+      "displayNameEn": "Tracking Expenses",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
+      "name": "财务-超支",
+      "displayName": "超支",
+      "displayNameEn": "Over Budget",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
       "name": "运动-举重🏋🏻",
       "displayName": "举重🏋🏻",
       "displayNameEn": "Weightlifting 🏋🏻",
@@ -696,6 +1270,27 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-划船机",
+      "displayName": "划船机",
+      "displayNameEn": "Rowing Machine",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-动感单车",
+      "displayName": "动感单车",
+      "displayNameEn": "Spin Bike",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-卷腹机器",
+      "displayName": "卷腹机器",
+      "displayNameEn": "Ab Crunch Machine",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-哑铃",
       "displayName": "哑铃",
       "displayNameEn": "Dumbbell",
@@ -710,9 +1305,37 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-器材上推",
+      "displayName": "器材上推",
+      "displayNameEn": "Machine Overhead Press",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-器材平举",
+      "displayName": "器材平举",
+      "displayNameEn": "Machine Lateral Raise",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-器材练背",
+      "displayName": "器材练背",
+      "displayNameEn": "Machine Back Exercise",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-园艺",
       "displayName": "园艺",
       "displayNameEn": "Gardening",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-坐姿推胸",
+      "displayName": "坐姿推胸",
+      "displayNameEn": "Seated Chest Press",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -738,6 +1361,27 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-平躺举重",
+      "displayName": "平躺举重",
+      "displayNameEn": "Bench Press",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-引体向上",
+      "displayName": "引体向上",
+      "displayNameEn": "Pull-ups",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-弹力绳夹胸",
+      "displayName": "弹力绳夹胸",
+      "displayNameEn": "Resistance Band Chest Fly",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-拉伸",
       "displayName": "拉伸",
       "displayNameEn": "Stretching",
@@ -748,6 +1392,13 @@
       "name": "运动-排球",
       "displayName": "排球",
       "displayNameEn": "Volleyball",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-推肩机",
+      "displayName": "推肩机",
+      "displayNameEn": "Shoulder Press Machine",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -780,6 +1431,20 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-椭圆仪",
+      "displayName": "椭圆仪",
+      "displayNameEn": "Elliptical Machine",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-泡沫轴细腿",
+      "displayName": "泡沫轴细腿",
+      "displayNameEn": "Foam Roller Leg Slim",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-滑板",
       "displayName": "滑板",
       "displayNameEn": "Skateboarding",
@@ -808,9 +1473,30 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-蝶式夹胸",
+      "displayName": "蝶式夹胸",
+      "displayNameEn": "Butterfly Chest Fly",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-足球",
       "displayName": "足球",
       "displayNameEn": "Soccer",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-跑步",
+      "displayName": "跑步",
+      "displayNameEn": "Running",
+      "category": "运动",
+      "categoryEn": "Exercise"
+    },
+    {
+      "name": "运动-跑步机（0°）",
+      "displayName": "跑步机（0°）",
+      "displayNameEn": "Treadmill (0°)",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -829,104 +1515,6 @@
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-钓鱼",
-      "displayName": "钓鱼",
-      "displayNameEn": "Fishing",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-动感单车",
-      "displayName": "动感单车",
-      "displayNameEn": "Spin Bike",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-平躺举重",
-      "displayName": "平躺举重",
-      "displayNameEn": "Bench Press",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-划船机",
-      "displayName": "划船机",
-      "displayNameEn": "Rowing Machine",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-卷腹机器",
-      "displayName": "卷腹机器",
-      "displayNameEn": "Ab Crunch Machine",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-坐姿推胸",
-      "displayName": "坐姿推胸",
-      "displayNameEn": "Seated Chest Press",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-引体向上",
-      "displayName": "引体向上",
-      "displayNameEn": "Pull-ups",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-弹力绳夹胸",
-      "displayName": "弹力绳夹胸",
-      "displayNameEn": "Resistance Band Chest Fly",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-推肩机",
-      "displayName": "推肩机",
-      "displayNameEn": "Shoulder Press Machine",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-椭圆仪",
-      "displayName": "椭圆仪",
-      "displayNameEn": "Elliptical Machine",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-泡沫轴细腿",
-      "displayName": "泡沫轴细腿",
-      "displayNameEn": "Foam Roller Leg Slim",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-蝶式夹胸",
-      "displayName": "蝶式夹胸",
-      "displayNameEn": "Butterfly Chest Fly",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-跑步机（0°）",
-      "displayName": "跑步机（0°）",
-      "displayNameEn": "Treadmill (0°)",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "运动-器材上推",
-      "displayName": "器材上推",
-      "displayNameEn": "Machine Overhead Press",
-      "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
       "name": "运动-辅助引体向上",
       "displayName": "辅助引体向上",
       "displayNameEn": "Assisted Pull-ups",
@@ -934,116 +1522,18 @@
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-器材练背",
-      "displayName": "器材练背",
-      "displayNameEn": "Machine Back Exercise",
+      "name": "运动-钓鱼",
+      "displayName": "钓鱼",
+      "displayNameEn": "Fishing",
       "category": "运动",
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-器材平举",
-      "displayName": "器材平举",
-      "displayNameEn": "Machine Lateral Raise",
+      "name": "运动-骑行",
+      "displayName": "骑行",
+      "displayNameEn": "Cycling",
       "category": "运动",
-      "categoryEn": "Sports"
-    },
-    {
-      "name": "个护-刷牙",
-      "displayName": "刷牙",
-      "displayNameEn": "Brushing Teeth",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-洗脸护肤",
-      "displayName": "洗脸护肤",
-      "displayNameEn": "Face Washing & Skincare",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-快速洗澡",
-      "displayName": "快速洗澡",
-      "displayNameEn": "Quick Shower",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-洗澡",
-      "displayName": "洗澡",
-      "displayNameEn": "Bathing",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-小柴拉屎",
-      "displayName": "小柴拉屎",
-      "displayNameEn": "Little Shiba Pooping",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-剃须",
-      "displayName": "剃须",
-      "displayNameEn": "Shaving",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-洗头",
-      "displayName": "洗头",
-      "displayNameEn": "Washing Hair",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-收拾衣服",
-      "displayName": "收拾衣服",
-      "displayNameEn": "Organizing Clothes",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "生活-看电视",
-      "displayName": "看电视",
-      "displayNameEn": "Watching TV",
-      "category": "生活",
-      "categoryEn": "Life"
-    },
-    {
-      "name": "生活-维修家里",
-      "displayName": "维修家里",
-      "displayNameEn": "Home Repair",
-      "category": "生活",
-      "categoryEn": "Life"
-    },
-    {
-      "name": "个护-面膜",
-      "displayName": "面膜",
-      "displayNameEn": "Face Mask",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-剪指甲",
-      "displayName": "剪指甲",
-      "displayNameEn": "Trimming Nails",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "个护-化妆",
-      "displayName": "化妆",
-      "displayNameEn": "Putting on Makeup",
-      "category": "个护",
-      "categoryEn": "Personal Care"
-    },
-    {
-      "name": "生活-遛狗",
-      "displayName": "遛狗",
-      "displayNameEn": "Walking the Dog",
-      "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Exercise"
     }
   ]
 }
