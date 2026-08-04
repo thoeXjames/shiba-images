@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-04T07:40:55Z",
+  "lastUpdated": "2026-08-04T12:21:33Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -2129,6 +2129,286 @@
       "displayNameEn": "Stargazing",
       "category": "生活",
       "categoryEn": "Life"
+    },
+    {
+      "name": "交通-开车",
+      "displayName": "开车",
+      "displayNameEn": "Driving",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-乘高铁",
+      "displayName": "乘高铁",
+      "displayNameEn": "High-Speed Train",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-乘飞机",
+      "displayName": "乘飞机",
+      "displayNameEn": "Flying",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-打车",
+      "displayName": "打车",
+      "displayNameEn": "Taking a Taxi",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "家庭-家庭聚餐",
+      "displayName": "家庭聚餐",
+      "displayNameEn": "Family Dinner",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-陪伴孩子",
+      "displayName": "陪伴孩子",
+      "displayNameEn": "Spending Time with Children",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-照顾老人",
+      "displayName": "照顾老人",
+      "displayNameEn": "Caring for an Elder",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-家庭视频通话",
+      "displayName": "家庭视频通话",
+      "displayNameEn": "Family Video Call",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "宠物-喂猫",
+      "displayName": "喂猫",
+      "displayNameEn": "Feeding a Cat",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-宠物看医生",
+      "displayName": "宠物看医生",
+      "displayNameEn": "Veterinary Visit",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-给猫梳毛",
+      "displayName": "给猫梳毛",
+      "displayNameEn": "Brushing a Cat",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-清理猫砂",
+      "displayName": "清理猫砂",
+      "displayNameEn": "Cleaning the Litter Box",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "娱乐-玩电子游戏",
+      "displayName": "玩电子游戏",
+      "displayNameEn": "Playing Video Games",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "娱乐-看演出",
+      "displayName": "看演出",
+      "displayNameEn": "Watching a Performance",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "娱乐-游乐园",
+      "displayName": "游乐园",
+      "displayNameEn": "Amusement Park",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "娱乐-泡温泉",
+      "displayName": "泡温泉",
+      "displayNameEn": "Hot Spring",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "安全-急救包",
+      "displayName": "急救包",
+      "displayNameEn": "First-Aid Kit",
+      "category": "安全",
+      "categoryEn": "Safety"
+    },
+    {
+      "name": "安全-消防演练",
+      "displayName": "消防演练",
+      "displayNameEn": "Fire Drill",
+      "category": "安全",
+      "categoryEn": "Safety"
+    },
+    {
+      "name": "安全-地震避险",
+      "displayName": "地震避险",
+      "displayNameEn": "Earthquake Safety",
+      "category": "安全",
+      "categoryEn": "Safety"
+    },
+    {
+      "name": "安全-检查门窗",
+      "displayName": "检查门窗",
+      "displayNameEn": "Checking Doors and Windows",
+      "category": "安全",
+      "categoryEn": "Safety"
+    },
+    {
+      "name": "育儿-喂奶",
+      "displayName": "喂奶",
+      "displayNameEn": "Bottle Feeding",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-推婴儿车",
+      "displayName": "推婴儿车",
+      "displayNameEn": "Pushing a Stroller",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-亲子阅读",
+      "displayName": "亲子阅读",
+      "displayNameEn": "Parent-Child Reading",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-接孩子放学",
+      "displayName": "接孩子放学",
+      "displayNameEn": "School Pickup",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "公共服务-寄快递",
+      "displayName": "寄快递",
+      "displayNameEn": "Sending a Parcel",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-办理证件",
+      "displayName": "办理证件",
+      "displayNameEn": "Applying for Documents",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-社区咨询",
+      "displayName": "社区咨询",
+      "displayNameEn": "Community Information",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-图书馆借书",
+      "displayName": "图书馆借书",
+      "displayNameEn": "Borrowing Library Books",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公益-社区志愿者",
+      "displayName": "社区志愿者",
+      "displayNameEn": "Community Volunteering",
+      "category": "公益",
+      "categoryEn": "Community Service"
+    },
+    {
+      "name": "公益-捐赠物品",
+      "displayName": "捐赠物品",
+      "displayNameEn": "Donating Items",
+      "category": "公益",
+      "categoryEn": "Community Service"
+    },
+    {
+      "name": "公益-清理公园",
+      "displayName": "清理公园",
+      "displayNameEn": "Cleaning a Park",
+      "category": "公益",
+      "categoryEn": "Community Service"
+    },
+    {
+      "name": "公益-帮助迷路者",
+      "displayName": "帮助迷路者",
+      "displayNameEn": "Helping a Lost Traveler",
+      "category": "公益",
+      "categoryEn": "Community Service"
+    },
+    {
+      "name": "无障碍-使用轮椅",
+      "displayName": "使用轮椅",
+      "displayNameEn": "Using a Wheelchair",
+      "category": "无障碍",
+      "categoryEn": "Accessibility"
+    },
+    {
+      "name": "无障碍-使用盲杖",
+      "displayName": "使用盲杖",
+      "displayNameEn": "Using a Mobility Cane",
+      "category": "无障碍",
+      "categoryEn": "Accessibility"
+    },
+    {
+      "name": "无障碍-手语交流",
+      "displayName": "手语交流",
+      "displayNameEn": "Sign Language Communication",
+      "category": "无障碍",
+      "categoryEn": "Accessibility"
+    },
+    {
+      "name": "无障碍-无障碍坡道",
+      "displayName": "无障碍坡道",
+      "displayNameEn": "Accessible Ramp",
+      "category": "无障碍",
+      "categoryEn": "Accessibility"
+    },
+    {
+      "name": "天气-高温防暑",
+      "displayName": "高温防暑",
+      "displayNameEn": "Heat Safety",
+      "category": "天气",
+      "categoryEn": "Weather"
+    },
+    {
+      "name": "天气-大雪出行",
+      "displayName": "大雪出行",
+      "displayNameEn": "Traveling in Heavy Snow",
+      "category": "天气",
+      "categoryEn": "Weather"
+    },
+    {
+      "name": "天气-大风天气",
+      "displayName": "大风天气",
+      "displayNameEn": "Strong Wind",
+      "category": "天气",
+      "categoryEn": "Weather"
+    },
+    {
+      "name": "天气-空气污染",
+      "displayName": "空气污染",
+      "displayNameEn": "Air Pollution",
+      "category": "天气",
+      "categoryEn": "Weather"
     }
   ]
 }
