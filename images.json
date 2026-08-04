@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-04T04:30:00Z",
+  "lastUpdated": "2026-08-04T07:40:55Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -2010,6 +2010,125 @@
       "displayNameEn": "Cycling",
       "category": "运动",
       "categoryEn": "Exercise"
+    },
+    {
+      "name": "美食-麻婆豆腐",
+      "displayName": "麻婆豆腐",
+      "displayNameEn": "Mapo Tofu",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-广式早茶",
+      "displayName": "广式早茶",
+      "displayNameEn": "Cantonese Dim Sum",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-糖醋鲤鱼",
+      "displayName": "糖醋鲤鱼",
+      "displayNameEn": "Sweet and Sour Carp",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-狮子头",
+      "displayName": "狮子头",
+      "displayNameEn": "Braised Lion's Head Meatballs",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-西湖醋鱼",
+      "displayName": "西湖醋鱼",
+      "displayNameEn": "West Lake Vinegar Fish",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-佛跳墙",
+      "displayName": "佛跳墙",
+      "displayNameEn": "Buddha Jumps Over the Wall",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-剁椒鱼头",
+      "displayName": "剁椒鱼头",
+      "displayNameEn": "Chopped Chili Fish Head",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-臭鳜鱼",
+      "displayName": "臭鳜鱼",
+      "displayNameEn": "Fermented Mandarin Fish",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-锅包肉",
+      "displayName": "锅包肉",
+      "displayNameEn": "Guo Bao Rou",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-新疆大盘鸡",
+      "displayName": "新疆大盘鸡",
+      "displayNameEn": "Xinjiang Big Plate Chicken",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-过桥米线",
+      "displayName": "过桥米线",
+      "displayNameEn": "Crossing-the-Bridge Rice Noodles",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-肉夹馍",
+      "displayName": "肉夹馍",
+      "displayNameEn": "Roujiamo",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-桂林米粉",
+      "displayName": "桂林米粉",
+      "displayNameEn": "Guilin Rice Noodles",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-海南鸡饭",
+      "displayName": "海南鸡饭",
+      "displayNameEn": "Hainanese Chicken Rice",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-手把肉",
+      "displayName": "手把肉",
+      "displayNameEn": "Hand-Held Mutton",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-瓦罐汤",
+      "displayName": "瓦罐汤",
+      "displayNameEn": "Clay-Pot Soup",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "生活-观星",
+      "displayName": "观星",
+      "displayNameEn": "Stargazing",
+      "category": "生活",
+      "categoryEn": "Life"
     }
   ]
 }
