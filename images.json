@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-03T18:06:50Z",
+  "lastUpdated": "2026-08-04T04:30:00Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -31,9 +31,9 @@
       "categoryEn": "Personal Care"
     },
     {
-      "name": "个护-小柴拉屎",
-      "displayName": "小柴拉屎",
-      "displayNameEn": "Little Shiba Pooping",
+      "name": "个护-如厕",
+      "displayName": "如厕",
+      "displayNameEn": "Using the Toilet",
       "category": "个护",
       "categoryEn": "Personal Care"
     },
@@ -213,9 +213,9 @@
       "categoryEn": "Beijing"
     },
     {
-      "name": "北京-茶",
-      "displayName": "茶",
-      "displayNameEn": "Tea",
+      "name": "北京-天坛",
+      "displayName": "天坛",
+      "displayNameEn": "Temple of Heaven",
       "category": "北京",
       "categoryEn": "Beijing"
     },
@@ -255,16 +255,16 @@
       "categoryEn": "Eating"
     },
     {
-      "name": "吃饭-高碳水",
-      "displayName": "高碳水",
-      "displayNameEn": "High Carb Meal",
+      "name": "吃饭-披萨",
+      "displayName": "披萨",
+      "displayNameEn": "Pizza",
       "category": "吃饭",
       "categoryEn": "Eating"
     },
     {
-      "name": "吃饭-麦当劳",
-      "displayName": "麦当劳",
-      "displayNameEn": "McDonald's",
+      "name": "吃饭-快餐",
+      "displayName": "快餐",
+      "displayNameEn": "Fast Food",
       "category": "吃饭",
       "categoryEn": "Eating"
     },
@@ -1144,8 +1144,8 @@
       "categoryEn": "Life"
     },
     {
-      "name": "社交-Party",
-      "displayName": "Party",
+      "name": "社交-派对",
+      "displayName": "派对",
       "displayNameEn": "Party",
       "category": "社交",
       "categoryEn": "Social"
@@ -1221,8 +1221,8 @@
       "categoryEn": "New York"
     },
     {
-      "name": "纽约-自由女生像",
-      "displayName": "自由女生像",
+      "name": "纽约-自由女神像",
+      "displayName": "自由女神像",
       "displayNameEn": "Statue of Liberty",
       "category": "纽约",
       "categoryEn": "New York"
@@ -1235,8 +1235,8 @@
       "categoryEn": "New York"
     },
     {
-      "name": "美食-taco",
-      "displayName": "taco",
+      "name": "美食-墨西哥卷饼",
+      "displayName": "墨西哥卷饼",
       "displayNameEn": "Taco",
       "category": "美食",
       "categoryEn": "Food"
@@ -1256,9 +1256,9 @@
       "categoryEn": "Food"
     },
     {
-      "name": "美食-两个包子",
-      "displayName": "两个包子",
-      "displayNameEn": "Two Steamed Buns",
+      "name": "美食-双拼包子",
+      "displayName": "双拼包子",
+      "displayNameEn": "Assorted Steamed Buns",
       "category": "美食",
       "categoryEn": "Food"
     },
@@ -1494,9 +1494,9 @@
       "categoryEn": "Food"
     },
     {
-      "name": "美食-粉丝",
-      "displayName": "粉丝",
-      "displayNameEn": "Glass Noodles",
+      "name": "美食-酸辣粉",
+      "displayName": "酸辣粉",
+      "displayNameEn": "Hot and Sour Noodles",
       "category": "美食",
       "categoryEn": "Food"
     },
@@ -1676,9 +1676,9 @@
       "categoryEn": "Finance"
     },
     {
-      "name": "运动-举重🏋🏻",
-      "displayName": "举重🏋🏻",
-      "displayNameEn": "Weightlifting 🏋🏻",
+      "name": "运动-杠铃举重",
+      "displayName": "杠铃举重",
+      "displayNameEn": "Barbell Weightlifting",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -1690,8 +1690,8 @@
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-保龄",
-      "displayName": "保龄",
+      "name": "运动-保龄球",
+      "displayName": "保龄球",
       "displayNameEn": "Bowling",
       "category": "运动",
       "categoryEn": "Sports"
@@ -1760,9 +1760,9 @@
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-园艺",
-      "displayName": "园艺",
-      "displayNameEn": "Gardening",
+      "name": "运动-户外体能训练",
+      "displayName": "户外体能训练",
+      "displayNameEn": "Outdoor Fitness Training",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -1865,9 +1865,9 @@
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-棒球-2",
-      "displayName": "棒球-2",
-      "displayNameEn": "Baseball 2",
+      "name": "运动-挥棒练习",
+      "displayName": "挥棒练习",
+      "displayNameEn": "Batting Practice",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -1963,9 +1963,9 @@
       "categoryEn": "Exercise"
     },
     {
-      "name": "运动-跑步机（0°）",
-      "displayName": "跑步机（0°）",
-      "displayNameEn": "Treadmill (0°)",
+      "name": "运动-跑步机",
+      "displayName": "跑步机",
+      "displayNameEn": "Treadmill",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -1984,9 +1984,9 @@
       "categoryEn": "Sports"
     },
     {
-      "name": "运动-跳舞1",
-      "displayName": "跳舞1",
-      "displayNameEn": "Dancing 1",
+      "name": "运动-居家跳舞",
+      "displayName": "居家跳舞",
+      "displayNameEn": "Dancing at Home",
       "category": "运动",
       "categoryEn": "Sports"
     },
