@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-03T12:26:02Z",
+  "lastUpdated": "2026-08-03T18:06:50Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -682,6 +682,188 @@
       "categoryEn": "Photography"
     },
     {
+      "name": "景点-冰川",
+      "displayName": "冰川",
+      "displayNameEn": "Glacier",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-凯旋门",
+      "displayName": "凯旋门",
+      "displayNameEn": "Arc de Triomphe",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-博物馆",
+      "displayName": "博物馆",
+      "displayNameEn": "Museum",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-古罗马斗兽场",
+      "displayName": "古罗马斗兽场",
+      "displayNameEn": "Roman Colosseum",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-古镇",
+      "displayName": "古镇",
+      "displayNameEn": "Ancient Town",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-吴哥窟",
+      "displayName": "吴哥窟",
+      "displayNameEn": "Angkor Wat",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-埃菲尔铁塔",
+      "displayName": "埃菲尔铁塔",
+      "displayNameEn": "Eiffel Tower",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-城堡",
+      "displayName": "城堡",
+      "displayNameEn": "Castle",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-大教堂",
+      "displayName": "大教堂",
+      "displayNameEn": "Cathedral",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-峡谷",
+      "displayName": "峡谷",
+      "displayNameEn": "Canyon",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-悉尼歌剧院",
+      "displayName": "悉尼歌剧院",
+      "displayNameEn": "Sydney Opera House",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-摩天轮",
+      "displayName": "摩天轮",
+      "displayNameEn": "Ferris Wheel",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-极光",
+      "displayName": "极光",
+      "displayNameEn": "Aurora",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-樱花神社",
+      "displayName": "樱花神社",
+      "displayNameEn": "Cherry Blossom Shrine",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-沙漠金字塔",
+      "displayName": "沙漠金字塔",
+      "displayNameEn": "Desert Pyramids",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-泰姬陵",
+      "displayName": "泰姬陵",
+      "displayNameEn": "Taj Mahal",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-海岛沙滩",
+      "displayName": "海岛沙滩",
+      "displayNameEn": "Island Beach",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-海边灯塔",
+      "displayName": "海边灯塔",
+      "displayNameEn": "Coastal Lighthouse",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-湖泊",
+      "displayName": "湖泊",
+      "displayNameEn": "Alpine Lake",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-瀑布",
+      "displayName": "瀑布",
+      "displayNameEn": "Waterfall",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-火山",
+      "displayName": "火山",
+      "displayNameEn": "Volcano",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-热气球",
+      "displayName": "热气球",
+      "displayNameEn": "Hot Air Balloon",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-竹林",
+      "displayName": "竹林",
+      "displayNameEn": "Bamboo Forest",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-金门大桥",
+      "displayName": "金门大桥",
+      "displayNameEn": "Golden Gate Bridge",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-雪山",
+      "displayName": "雪山",
+      "displayNameEn": "Snow Mountain",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
+      "name": "景点-风车村",
+      "displayName": "风车村",
+      "displayNameEn": "Windmill Village",
+      "category": "景点",
+      "categoryEn": "Attractions"
+    },
+    {
       "name": "生活-下雨出门",
       "displayName": "下雨出门",
       "displayNameEn": "Going Out in the Rain",
@@ -1060,6 +1242,13 @@
       "categoryEn": "Food"
     },
     {
+      "name": "美食-三明治",
+      "displayName": "三明治",
+      "displayNameEn": "Sandwich",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
       "name": "美食-东坡肉",
       "displayName": "东坡肉",
       "displayNameEn": "Dongpo Pork",
@@ -1070,6 +1259,13 @@
       "name": "美食-两个包子",
       "displayName": "两个包子",
       "displayNameEn": "Two Steamed Buns",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-冬阴功汤",
+      "displayName": "冬阴功汤",
+      "displayNameEn": "Tom Yum Soup",
       "category": "美食",
       "categoryEn": "Food"
     },
@@ -1095,6 +1291,90 @@
       "categoryEn": "Food"
     },
     {
+      "name": "美食-华夫饼",
+      "displayName": "华夫饼",
+      "displayNameEn": "Waffles",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-咖喱饭",
+      "displayName": "咖喱饭",
+      "displayNameEn": "Curry Rice",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-奶茶",
+      "displayName": "奶茶",
+      "displayNameEn": "Bubble Milk Tea",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-寿司",
+      "displayName": "寿司",
+      "displayNameEn": "Sushi",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-小笼包",
+      "displayName": "小笼包",
+      "displayNameEn": "Soup Dumplings",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-巧克力",
+      "displayName": "巧克力",
+      "displayNameEn": "Chocolate",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-布丁",
+      "displayName": "布丁",
+      "displayNameEn": "Caramel Pudding",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-意大利面",
+      "displayName": "意大利面",
+      "displayNameEn": "Spaghetti",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-披萨",
+      "displayName": "披萨",
+      "displayNameEn": "Pizza",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-拉面",
+      "displayName": "拉面",
+      "displayNameEn": "Ramen",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-早餐拼盘",
+      "displayName": "早餐拼盘",
+      "displayNameEn": "Breakfast Platter",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-水果拼盘",
+      "displayName": "水果拼盘",
+      "displayNameEn": "Fruit Platter",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
       "name": "美食-汉堡",
       "displayName": "汉堡",
       "displayNameEn": "Burger",
@@ -1109,9 +1389,93 @@
       "categoryEn": "Food"
     },
     {
+      "name": "美食-沙拉",
+      "displayName": "沙拉",
+      "displayNameEn": "Salad",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-油条豆浆",
+      "displayName": "油条豆浆",
+      "displayNameEn": "Fried Dough & Soy Milk",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-火锅",
+      "displayName": "火锅",
+      "displayNameEn": "Hot Pot",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-炒饭",
+      "displayName": "炒饭",
+      "displayNameEn": "Fried Rice",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-炸鸡",
+      "displayName": "炸鸡",
+      "displayNameEn": "Fried Chicken",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-烤串",
+      "displayName": "烤串",
+      "displayNameEn": "Grilled Skewers",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-烤玉米",
+      "displayName": "烤玉米",
+      "displayNameEn": "Grilled Corn",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-烤红薯",
+      "displayName": "烤红薯",
+      "displayNameEn": "Roasted Sweet Potato",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-烤肉",
+      "displayName": "烤肉",
+      "displayNameEn": "Tabletop Barbecue",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
       "name": "美食-烤鸭",
       "displayName": "烤鸭",
       "displayNameEn": "Roast Duck",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-热狗",
+      "displayName": "热狗",
+      "displayNameEn": "Hot Dog",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-煎饼",
+      "displayName": "煎饼",
+      "displayNameEn": "Chinese Savory Crepe",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-牛排",
+      "displayName": "牛排",
+      "displayNameEn": "Steak",
       "category": "美食",
       "categoryEn": "Food"
     },
@@ -1123,6 +1487,13 @@
       "categoryEn": "Food"
     },
     {
+      "name": "美食-甜甜圈",
+      "displayName": "甜甜圈",
+      "displayNameEn": "Doughnuts",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
       "name": "美食-粉丝",
       "displayName": "粉丝",
       "displayNameEn": "Glass Noodles",
@@ -1130,9 +1501,51 @@
       "categoryEn": "Food"
     },
     {
+      "name": "美食-粥",
+      "displayName": "粥",
+      "displayNameEn": "Rice Porridge",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
       "name": "美食-腊肉",
       "displayName": "腊肉",
       "displayNameEn": "Cured Meat",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-芒果冰沙",
+      "displayName": "芒果冰沙",
+      "displayNameEn": "Mango Smoothie",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-薯条",
+      "displayName": "薯条",
+      "displayNameEn": "French Fries",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-蛋糕",
+      "displayName": "蛋糕",
+      "displayNameEn": "Cake",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-螺蛳粉",
+      "displayName": "螺蛳粉",
+      "displayNameEn": "Luosifen",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-越南河粉",
+      "displayName": "越南河粉",
+      "displayNameEn": "Vietnamese Pho",
       "category": "美食",
       "categoryEn": "Food"
     },
@@ -1151,6 +1564,20 @@
       "categoryEn": "Food"
     },
     {
+      "name": "美食-饺子",
+      "displayName": "饺子",
+      "displayNameEn": "Dumplings",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-马卡龙",
+      "displayName": "马卡龙",
+      "displayNameEn": "Macarons",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
       "name": "美食-鱼肉",
       "displayName": "鱼肉",
       "displayNameEn": "Fish",
@@ -1161,6 +1588,13 @@
       "name": "美食-鸭肉",
       "displayName": "鸭肉",
       "displayNameEn": "Duck Meat",
+      "category": "美食",
+      "categoryEn": "Food"
+    },
+    {
+      "name": "美食-麻辣烫",
+      "displayName": "麻辣烫",
+      "displayNameEn": "Malatang",
       "category": "美食",
       "categoryEn": "Food"
     },
@@ -1382,6 +1816,13 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-徒步",
+      "displayName": "徒步",
+      "displayNameEn": "Hiking",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-拉伸",
       "displayName": "拉伸",
       "displayNameEn": "Stretching",
@@ -1445,6 +1886,13 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-游泳",
+      "displayName": "游泳",
+      "displayNameEn": "Swimming",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-滑板",
       "displayName": "滑板",
       "displayNameEn": "Skateboarding",
@@ -1452,9 +1900,23 @@
       "categoryEn": "Sports"
     },
     {
+      "name": "运动-滑雪",
+      "displayName": "滑雪",
+      "displayNameEn": "Skiing",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
       "name": "运动-玩水",
       "displayName": "玩水",
       "displayNameEn": "Playing in Water",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-瑜伽",
+      "displayName": "瑜伽",
+      "displayNameEn": "Yoga",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -1469,6 +1931,13 @@
       "name": "运动-网球户外",
       "displayName": "网球户外",
       "displayNameEn": "Outdoor Tennis",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-羽毛球",
+      "displayName": "羽毛球",
+      "displayNameEn": "Badminton",
       "category": "运动",
       "categoryEn": "Sports"
     },
@@ -1497,6 +1966,13 @@
       "name": "运动-跑步机（0°）",
       "displayName": "跑步机（0°）",
       "displayNameEn": "Treadmill (0°)",
+      "category": "运动",
+      "categoryEn": "Sports"
+    },
+    {
+      "name": "运动-跳绳",
+      "displayName": "跳绳",
+      "displayNameEn": "Jump Rope",
       "category": "运动",
       "categoryEn": "Sports"
     },
