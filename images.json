@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-08-04T13:05:54Z",
+  "version": "1.1.0",
+  "lastUpdated": "2026-09-06T11:29:05Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -2388,6 +2388,706 @@
       "displayNameEn": "Air Pollution",
       "category": "天气",
       "categoryEn": "Weather"
+    },
+    {
+      "name": "交通-乘地铁",
+      "displayName": "乘地铁",
+      "displayNameEn": "Taking the Subway",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-停车",
+      "displayName": "停车",
+      "displayNameEn": "Parking",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-车辆充电",
+      "displayName": "车辆充电",
+      "displayNameEn": "Charging the Car",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-车辆加油",
+      "displayName": "车辆加油",
+      "displayNameEn": "Refueling the Car",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-骑车通勤",
+      "displayName": "骑车通勤",
+      "displayNameEn": "Cycling to Work",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "健康-冰敷",
+      "displayName": "冰敷",
+      "displayNameEn": "Applying an Ice Pack",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-午睡",
+      "displayName": "午睡",
+      "displayNameEn": "Taking a Nap",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-喝水",
+      "displayName": "喝水",
+      "displayNameEn": "Drinking Water",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-工间拉伸",
+      "displayName": "工间拉伸",
+      "displayNameEn": "Stretching at Work",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-拔牙后休息",
+      "displayName": "拔牙后休息",
+      "displayNameEn": "Resting After a Tooth Extraction",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-测体温",
+      "displayName": "测体温",
+      "displayNameEn": "Checking Body Temperature",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-测血压",
+      "displayName": "测血压",
+      "displayNameEn": "Checking Blood Pressure",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-涂防晒",
+      "displayName": "涂防晒",
+      "displayNameEn": "Applying Sunscreen",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-热敷",
+      "displayName": "热敷",
+      "displayNameEn": "Applying a Warm Compress",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-看望病人",
+      "displayName": "看望病人",
+      "displayNameEn": "Visiting Someone in Hospital",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-眼睛休息",
+      "displayName": "眼睛休息",
+      "displayNameEn": "Resting Eyes",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-称体重",
+      "displayName": "称体重",
+      "displayNameEn": "Weighing Yourself",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "公共服务-取干洗衣服",
+      "displayName": "取干洗衣服",
+      "displayNameEn": "Picking Up Dry Cleaning",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-自助打印",
+      "displayName": "自助打印",
+      "displayNameEn": "Self-Service Printing",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-银行办事",
+      "displayName": "银行办事",
+      "displayNameEn": "Banking Errands",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "娱乐-听播客",
+      "displayName": "听播客",
+      "displayNameEn": "Listening to a Podcast",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "娱乐-拼乐高",
+      "displayName": "拼乐高",
+      "displayNameEn": "Building with LEGO",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "娱乐-放风筝",
+      "displayName": "放风筝",
+      "displayNameEn": "Flying a Kite",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "学习-练口语",
+      "displayName": "练口语",
+      "displayNameEn": "Practicing Speaking",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-练字",
+      "displayName": "练字",
+      "displayNameEn": "Practicing Handwriting",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "宠物-喂狗",
+      "displayName": "喂狗",
+      "displayNameEn": "Feeding the Dog",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-清洗食盆",
+      "displayName": "清洗食盆",
+      "displayNameEn": "Washing Pet Bowls",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-给宠物剪指甲",
+      "displayName": "给宠物剪指甲",
+      "displayNameEn": "Trimming a Pet's Nails",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-给狗洗澡",
+      "displayName": "给狗洗澡",
+      "displayNameEn": "Bathing the Dog",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-训练宠物",
+      "displayName": "训练宠物",
+      "displayNameEn": "Training a Pet",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-陪宠物玩",
+      "displayName": "陪宠物玩",
+      "displayNameEn": "Playing with a Pet",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "家务-倒垃圾",
+      "displayName": "倒垃圾",
+      "displayNameEn": "Taking Out the Trash",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-叠衣服",
+      "displayName": "叠衣服",
+      "displayNameEn": "Folding Clothes",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-吸尘",
+      "displayName": "吸尘",
+      "displayNameEn": "Vacuuming",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-垃圾分类",
+      "displayName": "垃圾分类",
+      "displayNameEn": "Sorting Recycling",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-拖地",
+      "displayName": "拖地",
+      "displayNameEn": "Mopping",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-换床单",
+      "displayName": "换床单",
+      "displayNameEn": "Changing Bed Sheets",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-换灯泡",
+      "displayName": "换灯泡",
+      "displayNameEn": "Changing a Light Bulb",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-擦桌子",
+      "displayName": "擦桌子",
+      "displayNameEn": "Wiping the Table",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-擦窗户",
+      "displayName": "擦窗户",
+      "displayNameEn": "Cleaning Windows",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-整理书架",
+      "displayName": "整理书架",
+      "displayNameEn": "Organizing a Bookshelf",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-整理冰箱",
+      "displayName": "整理冰箱",
+      "displayNameEn": "Organizing the Fridge",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-晾衣服",
+      "displayName": "晾衣服",
+      "displayNameEn": "Hanging Laundry",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-洗碗",
+      "displayName": "洗碗",
+      "displayNameEn": "Washing Dishes",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-洗衣服",
+      "displayName": "洗衣服",
+      "displayNameEn": "Doing Laundry",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洁卫生间",
+      "displayName": "清洁卫生间",
+      "displayNameEn": "Cleaning the Bathroom",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洗空调滤网",
+      "displayName": "清洗空调滤网",
+      "displayNameEn": "Cleaning an Air Conditioner Filter",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洗鞋子",
+      "displayName": "清洗鞋子",
+      "displayNameEn": "Cleaning Shoes",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-熨衣服",
+      "displayName": "熨衣服",
+      "displayNameEn": "Ironing Clothes",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-疏通下水道",
+      "displayName": "疏通下水道",
+      "displayNameEn": "Unclogging a Drain",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-组装家具",
+      "displayName": "组装家具",
+      "displayNameEn": "Assembling Furniture",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家庭-探望父母",
+      "displayName": "探望父母",
+      "displayNameEn": "Visiting Parents",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-接送家人",
+      "displayName": "接送家人",
+      "displayNameEn": "Picking Up Family",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-整理相册",
+      "displayName": "整理相册",
+      "displayNameEn": "Organizing Photo Albums",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "工作-做演示文稿",
+      "displayName": "做演示文稿",
+      "displayNameEn": "Making a Presentation",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-写邮件",
+      "displayName": "写邮件",
+      "displayNameEn": "Writing Emails",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-剪辑视频",
+      "displayName": "剪辑视频",
+      "displayNameEn": "Editing a Video",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-客户沟通",
+      "displayName": "客户沟通",
+      "displayNameEn": "Talking to Clients",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-录制视频",
+      "displayName": "录制视频",
+      "displayNameEn": "Recording a Video",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-录音",
+      "displayName": "录音",
+      "displayNameEn": "Recording Audio",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-数据分析",
+      "displayName": "数据分析",
+      "displayNameEn": "Analyzing Data",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-编程",
+      "displayName": "编程",
+      "displayNameEn": "Coding",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-调试",
+      "displayName": "调试",
+      "displayNameEn": "Debugging",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-远程协作",
+      "displayName": "远程协作",
+      "displayNameEn": "Collaborating Remotely",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-面试",
+      "displayName": "面试",
+      "displayNameEn": "Job Interview",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "旅行-收拾行李",
+      "displayName": "收拾行李",
+      "displayNameEn": "Packing Luggage",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "旅行-查看地图",
+      "displayName": "查看地图",
+      "displayNameEn": "Reading a Map",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "旅行-酒店入住",
+      "displayName": "酒店入住",
+      "displayNameEn": "Hotel Check-In",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "旅行-露营搭帐篷",
+      "displayName": "露营搭帐篷",
+      "displayNameEn": "Pitching a Tent",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "生活-买花",
+      "displayName": "买花",
+      "displayNameEn": "Buying Flowers",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-买菜",
+      "displayName": "买菜",
+      "displayNameEn": "Shopping for Produce",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-修手机",
+      "displayName": "修手机",
+      "displayNameEn": "Repairing a Phone",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-修自行车",
+      "displayName": "修自行车",
+      "displayNameEn": "Repairing a Bicycle",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-取快递",
+      "displayName": "取快递",
+      "displayNameEn": "Picking Up a Package",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-拆快递",
+      "displayName": "拆快递",
+      "displayNameEn": "Unboxing a Package",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-洗车",
+      "displayName": "洗车",
+      "displayNameEn": "Washing the Car",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-理发",
+      "displayName": "理发",
+      "displayNameEn": "Getting a Haircut",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-超市采购",
+      "displayName": "超市采购",
+      "displayNameEn": "Grocery Shopping",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-退换货",
+      "displayName": "退换货",
+      "displayNameEn": "Returning an Item",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "社交-接待客人",
+      "displayName": "接待客人",
+      "displayNameEn": "Welcoming Guests",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "社交-朋友倾诉",
+      "displayName": "朋友倾诉",
+      "displayNameEn": "Talking Things Through with a Friend",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "社交-生日庆祝",
+      "displayName": "生日庆祝",
+      "displayNameEn": "Celebrating a Birthday",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "育儿-哄睡",
+      "displayName": "哄睡",
+      "displayNameEn": "Soothing a Baby to Sleep",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-换尿布",
+      "displayName": "换尿布",
+      "displayNameEn": "Changing a Diaper",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-给孩子梳头",
+      "displayName": "给孩子梳头",
+      "displayNameEn": "Combing a Child's Hair",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-给孩子洗澡",
+      "displayName": "给孩子洗澡",
+      "displayNameEn": "Bathing a Child",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-辅导作业",
+      "displayName": "辅导作业",
+      "displayNameEn": "Helping with Homework",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-陪孩子玩积木",
+      "displayName": "陪孩子玩积木",
+      "displayNameEn": "Playing Blocks with a Child",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-陪孩子画画",
+      "displayName": "陪孩子画画",
+      "displayNameEn": "Drawing with a Child",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "艺术-做陶艺",
+      "displayName": "做陶艺",
+      "displayNameEn": "Making Pottery",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "艺术-弹钢琴",
+      "displayName": "弹钢琴",
+      "displayNameEn": "Playing the Piano",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "艺术-拉小提琴",
+      "displayName": "拉小提琴",
+      "displayNameEn": "Playing the Violin",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "艺术-缝纫",
+      "displayName": "缝纫",
+      "displayNameEn": "Sewing",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "规划-写日记",
+      "displayName": "写日记",
+      "displayNameEn": "Journaling",
+      "category": "规划",
+      "categoryEn": "Planning"
+    },
+    {
+      "name": "规划-制定目标",
+      "displayName": "制定目标",
+      "displayNameEn": "Setting Goals",
+      "category": "规划",
+      "categoryEn": "Planning"
+    },
+    {
+      "name": "规划-安排今天",
+      "displayName": "安排今天",
+      "displayNameEn": "Planning Today",
+      "category": "规划",
+      "categoryEn": "Planning"
+    },
+    {
+      "name": "规划-整理待办",
+      "displayName": "整理待办",
+      "displayNameEn": "Organizing To-Dos",
+      "category": "规划",
+      "categoryEn": "Planning"
+    },
+    {
+      "name": "规划-每周复盘",
+      "displayName": "每周复盘",
+      "displayNameEn": "Weekly Review",
+      "category": "规划",
+      "categoryEn": "Planning"
+    },
+    {
+      "name": "财务-取消订阅",
+      "displayName": "取消订阅",
+      "displayNameEn": "Canceling a Subscription",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
+      "name": "财务-核对账单",
+      "displayName": "核对账单",
+      "displayNameEn": "Reviewing Bills",
+      "category": "财务",
+      "categoryEn": "Finance"
     }
   ]
 }
