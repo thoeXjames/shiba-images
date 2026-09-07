@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "lastUpdated": "2026-09-06T11:29:05Z",
+  "version": "1.2.0",
+  "lastUpdated": "2026-09-07T00:25:30Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -3088,6 +3088,356 @@
       "displayNameEn": "Reviewing Bills",
       "category": "财务",
       "categoryEn": "Finance"
+    },
+    {
+      "name": "个护-修眉",
+      "displayName": "修眉",
+      "displayNameEn": "Grooming Eyebrows",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-吹头发",
+      "displayName": "吹头发",
+      "displayNameEn": "Blow-Drying Hair",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-涂护手霜",
+      "displayName": "涂护手霜",
+      "displayNameEn": "Applying Hand Cream",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "做饭-冲咖啡",
+      "displayName": "冲咖啡",
+      "displayNameEn": "Making Pour-Over Coffee",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-分装备餐",
+      "displayName": "分装备餐",
+      "displayNameEn": "Portioning Meal Prep",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-制作果酱",
+      "displayName": "制作果酱",
+      "displayNameEn": "Making Jam",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-包饺子",
+      "displayName": "包饺子",
+      "displayNameEn": "Wrapping Dumplings",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-发酵酸奶",
+      "displayName": "发酵酸奶",
+      "displayNameEn": "Making Yogurt",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-打鸡蛋",
+      "displayName": "打鸡蛋",
+      "displayNameEn": "Whisking Eggs",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-泡燕麦",
+      "displayName": "泡燕麦",
+      "displayNameEn": "Preparing Overnight Oats",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-洗水果",
+      "displayName": "洗水果",
+      "displayNameEn": "Washing Fruit",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-淘米",
+      "displayName": "淘米",
+      "displayNameEn": "Rinsing Rice",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "健康-佩戴护具",
+      "displayName": "佩戴护具",
+      "displayNameEn": "Putting On a Wrist Brace",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-使用牙线",
+      "displayName": "使用牙线",
+      "displayNameEn": "Flossing Teeth",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-冥想",
+      "displayName": "冥想",
+      "displayNameEn": "Meditating",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-呼吸练习",
+      "displayName": "呼吸练习",
+      "displayNameEn": "Practicing Breathing",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-按摩肩颈",
+      "displayName": "按摩肩颈",
+      "displayNameEn": "Massaging the Neck and Shoulders",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-泡脚",
+      "displayName": "泡脚",
+      "displayNameEn": "Soaking Feet",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "娱乐-拼图",
+      "displayName": "拼图",
+      "displayNameEn": "Doing a Jigsaw Puzzle",
+      "category": "娱乐",
+      "categoryEn": "Entertainment"
+    },
+    {
+      "name": "学习-使用显微镜",
+      "displayName": "使用显微镜",
+      "displayNameEn": "Using a Microscope",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-查词典",
+      "displayName": "查词典",
+      "displayNameEn": "Looking Up a Word",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "宠物-喂鱼",
+      "displayName": "喂鱼",
+      "displayNameEn": "Feeding Fish",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-整理宠物用品",
+      "displayName": "整理宠物用品",
+      "displayNameEn": "Organizing Pet Supplies",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-清理鸟笼",
+      "displayName": "清理鸟笼",
+      "displayNameEn": "Cleaning a Birdcage",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-遛猫",
+      "displayName": "遛猫",
+      "displayNameEn": "Walking a Cat",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "家务-整理电线",
+      "displayName": "整理电线",
+      "displayNameEn": "Organizing Cables",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-整理药箱",
+      "displayName": "整理药箱",
+      "displayNameEn": "Organizing a Medicine Kit",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-更换窗帘",
+      "displayName": "更换窗帘",
+      "displayNameEn": "Changing Curtains",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洁微波炉",
+      "displayName": "清洁微波炉",
+      "displayNameEn": "Cleaning the Microwave",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洁烤箱",
+      "displayName": "清洁烤箱",
+      "displayNameEn": "Cleaning the Oven",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洁键盘",
+      "displayName": "清洁键盘",
+      "displayNameEn": "Cleaning a Keyboard",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洗水壶",
+      "displayName": "清洗水壶",
+      "displayNameEn": "Cleaning a Kettle",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-给植物换盆",
+      "displayName": "给植物换盆",
+      "displayNameEn": "Repotting a Plant",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "工作-备份文件",
+      "displayName": "备份文件",
+      "displayNameEn": "Backing Up Files",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-整理收件箱",
+      "displayName": "整理收件箱",
+      "displayNameEn": "Organizing an Email Inbox",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-绘制思维导图",
+      "displayName": "绘制思维导图",
+      "displayNameEn": "Drawing a Mind Map",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "旅行-托运行李",
+      "displayName": "托运行李",
+      "displayNameEn": "Checking In Luggage",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "生活-买电影票",
+      "displayName": "买电影票",
+      "displayNameEn": "Buying Movie Tickets",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-挑选衣服",
+      "displayName": "挑选衣服",
+      "displayNameEn": "Choosing Clothes",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-自助结账",
+      "displayName": "自助结账",
+      "displayNameEn": "Using Self-Checkout",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-试穿鞋子",
+      "displayName": "试穿鞋子",
+      "displayNameEn": "Trying On Shoes",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "生活-验光配眼镜",
+      "displayName": "验光配眼镜",
+      "displayNameEn": "Getting an Eye Exam",
+      "category": "生活",
+      "categoryEn": "Life"
+    },
+    {
+      "name": "社交-写感谢卡",
+      "displayName": "写感谢卡",
+      "displayNameEn": "Writing a Thank-You Card",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "育儿-准备午餐盒",
+      "displayName": "准备午餐盒",
+      "displayNameEn": "Packing a Child's Lunch",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-测量身高",
+      "displayName": "测量身高",
+      "displayNameEn": "Measuring a Child's Height",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-陪孩子刷牙",
+      "displayName": "陪孩子刷牙",
+      "displayNameEn": "Helping a Child Brush Teeth",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-陪孩子玩滑板车",
+      "displayName": "陪孩子玩滑板车",
+      "displayNameEn": "Helping a Child Ride a Scooter",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "艺术-做手账",
+      "displayName": "做手账",
+      "displayNameEn": "Decorating a Journal",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "艺术-折纸",
+      "displayName": "折纸",
+      "displayNameEn": "Folding Origami",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "艺术-织围巾",
+      "displayName": "织围巾",
+      "displayNameEn": "Knitting a Scarf",
+      "category": "艺术",
+      "categoryEn": "Art"
     }
   ]
 }
