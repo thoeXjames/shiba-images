@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "lastUpdated": "2026-09-07T00:25:30Z",
+  "version": "1.3.0",
+  "lastUpdated": "2026-09-07T02:40:45Z",
   "images": [
     {
       "name": "个护-刷牙",
@@ -3438,6 +3438,356 @@
       "displayNameEn": "Knitting a Scarf",
       "category": "艺术",
       "categoryEn": "Art"
+    },
+    {
+      "name": "个护-戴隐形眼镜",
+      "displayName": "戴隐形眼镜",
+      "displayNameEn": "Putting In Contact Lenses",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-扎头发",
+      "displayName": "扎头发",
+      "displayNameEn": "Tying Up Hair",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "个护-清洗化妆刷",
+      "displayName": "清洗化妆刷",
+      "displayNameEn": "Washing Makeup Brushes",
+      "category": "个护",
+      "categoryEn": "Personal Care"
+    },
+    {
+      "name": "交通-戴骑行头盔",
+      "displayName": "戴骑行头盔",
+      "displayNameEn": "Putting On a Cycling Helmet",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-检查胎压",
+      "displayName": "检查胎压",
+      "displayNameEn": "Checking Tire Pressure",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "交通-系安全带",
+      "displayName": "系安全带",
+      "displayNameEn": "Fastening a Seat Belt",
+      "category": "交通",
+      "categoryEn": "Transportation"
+    },
+    {
+      "name": "做饭-削蔬菜皮",
+      "displayName": "削蔬菜皮",
+      "displayNameEn": "Peeling Vegetables",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-拌沙拉",
+      "displayName": "拌沙拉",
+      "displayNameEn": "Tossing a Salad",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-煎鸡蛋",
+      "displayName": "煎鸡蛋",
+      "displayNameEn": "Frying an Egg",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-煮粥",
+      "displayName": "煮粥",
+      "displayNameEn": "Cooking Porridge",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-称量食材",
+      "displayName": "称量食材",
+      "displayNameEn": "Weighing Ingredients",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-腌制食材",
+      "displayName": "腌制食材",
+      "displayNameEn": "Marinating Ingredients",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "做饭-蒸包子",
+      "displayName": "蒸包子",
+      "displayNameEn": "Steaming Bao Buns",
+      "category": "做饭",
+      "categoryEn": "Cooking"
+    },
+    {
+      "name": "健康-整理每周药盒",
+      "displayName": "整理每周药盒",
+      "displayNameEn": "Filling a Weekly Pill Organizer",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-更换创可贴",
+      "displayName": "更换创可贴",
+      "displayNameEn": "Changing a Bandage",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "健康-预约挂号",
+      "displayName": "预约挂号",
+      "displayNameEn": "Booking a Medical Appointment",
+      "category": "健康",
+      "categoryEn": "Health"
+    },
+    {
+      "name": "公共服务-归还图书",
+      "displayName": "归还图书",
+      "displayNameEn": "Returning Library Books",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-自助取号",
+      "displayName": "自助取号",
+      "displayNameEn": "Taking a Queue Ticket",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "公共服务-邮寄明信片",
+      "displayName": "邮寄明信片",
+      "displayNameEn": "Mailing a Postcard",
+      "category": "公共服务",
+      "categoryEn": "Public Services"
+    },
+    {
+      "name": "学习-制作闪卡",
+      "displayName": "制作闪卡",
+      "displayNameEn": "Making Flashcards",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "学习-解数学题",
+      "displayName": "解数学题",
+      "displayNameEn": "Solving Math Problems",
+      "category": "学习",
+      "categoryEn": "Study"
+    },
+    {
+      "name": "宠物-清洗鱼缸",
+      "displayName": "清洗鱼缸",
+      "displayNameEn": "Cleaning a Fish Tank",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "宠物-给宠物戴项圈",
+      "displayName": "给宠物戴项圈",
+      "displayNameEn": "Putting a Collar on a Pet",
+      "category": "宠物",
+      "categoryEn": "Pet Care"
+    },
+    {
+      "name": "家务-擦拭镜子",
+      "displayName": "擦拭镜子",
+      "displayNameEn": "Wiping a Mirror",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-收纳换季衣物",
+      "displayName": "收纳换季衣物",
+      "displayNameEn": "Storing Seasonal Clothes",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-整理餐具",
+      "displayName": "整理餐具",
+      "displayNameEn": "Organizing Cutlery",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洁沙发",
+      "displayName": "清洁沙发",
+      "displayNameEn": "Cleaning a Sofa",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洗加湿器",
+      "displayName": "清洗加湿器",
+      "displayNameEn": "Cleaning a Humidifier",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清洗风扇",
+      "displayName": "清洗风扇",
+      "displayNameEn": "Cleaning an Electric Fan",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家务-清理洗衣机滤网",
+      "displayName": "清理洗衣机滤网",
+      "displayNameEn": "Cleaning a Washing Machine Filter",
+      "category": "家务",
+      "categoryEn": "Housework"
+    },
+    {
+      "name": "家庭-全家合影",
+      "displayName": "全家合影",
+      "displayNameEn": "Taking a Family Photo",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-帮老人推轮椅",
+      "displayName": "帮老人推轮椅",
+      "displayNameEn": "Pushing a Wheelchair for an Elder",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "家庭-陪家人下棋",
+      "displayName": "陪家人下棋",
+      "displayNameEn": "Playing Chess With Family",
+      "category": "家庭",
+      "categoryEn": "Family"
+    },
+    {
+      "name": "工作-扫描文件",
+      "displayName": "扫描文件",
+      "displayNameEn": "Scanning Documents",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "工作-标注设计稿",
+      "displayName": "标注设计稿",
+      "displayNameEn": "Annotating a Design Draft",
+      "category": "工作",
+      "categoryEn": "Work"
+    },
+    {
+      "name": "旅行-机场安检",
+      "displayName": "机场安检",
+      "displayNameEn": "Going Through Airport Security",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "旅行-盖旅行纪念章",
+      "displayName": "盖旅行纪念章",
+      "displayNameEn": "Stamping a Travel Journal",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "旅行-购买纪念品",
+      "displayName": "购买纪念品",
+      "displayNameEn": "Buying a Souvenir",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "旅行-领取行李",
+      "displayName": "领取行李",
+      "displayNameEn": "Collecting Luggage",
+      "category": "旅行",
+      "categoryEn": "Travel"
+    },
+    {
+      "name": "社交-包装礼物",
+      "displayName": "包装礼物",
+      "displayNameEn": "Wrapping a Gift",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "社交-参加读书会",
+      "displayName": "参加读书会",
+      "displayNameEn": "Attending a Book Club",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "社交-布置聚会",
+      "displayName": "布置聚会",
+      "displayNameEn": "Setting Up a Party",
+      "category": "社交",
+      "categoryEn": "Social"
+    },
+    {
+      "name": "育儿-收拾玩具",
+      "displayName": "收拾玩具",
+      "displayNameEn": "Tidying Up Toys",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-教孩子穿鞋",
+      "displayName": "教孩子穿鞋",
+      "displayNameEn": "Teaching a Child to Put On Shoes",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "育儿-陪孩子剪纸",
+      "displayName": "陪孩子剪纸",
+      "displayNameEn": "Helping a Child With Paper Crafts",
+      "category": "育儿",
+      "categoryEn": "Parenting"
+    },
+    {
+      "name": "艺术-制作蜡烛",
+      "displayName": "制作蜡烛",
+      "displayNameEn": "Making Candles",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "艺术-插花",
+      "displayName": "插花",
+      "displayNameEn": "Arranging Flowers",
+      "category": "艺术",
+      "categoryEn": "Art"
+    },
+    {
+      "name": "财务-兑换零钱",
+      "displayName": "兑换零钱",
+      "displayNameEn": "Exchanging Coins",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
+      "name": "财务-制定预算",
+      "displayName": "制定预算",
+      "displayNameEn": "Planning a Budget",
+      "category": "财务",
+      "categoryEn": "Finance"
+    },
+    {
+      "name": "财务-整理发票",
+      "displayName": "整理发票",
+      "displayNameEn": "Organizing Receipts",
+      "category": "财务",
+      "categoryEn": "Finance"
     }
   ]
 }
