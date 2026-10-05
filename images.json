@@ -1,3793 +1,4334 @@
 {
   "version": "1.3.0",
-  "lastUpdated": "2026-09-07T02:40:45Z",
+  "lastUpdated": "2026-10-05T03:01:33Z",
   "images": [
     {
       "name": "个护-刷牙",
       "displayName": "刷牙",
       "displayNameEn": "Brushing Teeth",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "00a14eb627085aac6ad09edede55c798de237881390e3022957d8f6f076f1098"
     },
     {
       "name": "个护-剃须",
       "displayName": "剃须",
       "displayNameEn": "Shaving",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "5dc3a429f566c02da72344edf8ca33b576ea787cead9a06b2350d54b5eb5849b"
     },
     {
       "name": "个护-剪指甲",
       "displayName": "剪指甲",
       "displayNameEn": "Trimming Nails",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "c1a6604a328302392d1fbdf7c38910c92a0887a838498b462598e40443e9ab2d"
     },
     {
       "name": "个护-化妆",
       "displayName": "化妆",
       "displayNameEn": "Putting on Makeup",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "043a0a8f1fd33f51b923735970de2b0fccbd7ba2f67d4a35bea6ec3e24b23338"
     },
     {
       "name": "个护-如厕",
       "displayName": "如厕",
       "displayNameEn": "Using the Toilet",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "8be2c0e1aa4df0c63392b815e5c2224af986895f6a36e15d2a23f27ca3447ed6"
     },
     {
       "name": "个护-快速洗澡",
       "displayName": "快速洗澡",
       "displayNameEn": "Quick Shower",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "9cdf6c90c0bfed38611fc47d6459cd39e094e16d4296bb4be23464d93fcd79ab"
     },
     {
       "name": "个护-收拾衣服",
       "displayName": "收拾衣服",
       "displayNameEn": "Organizing Clothes",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "fc583d23777dbc79bf0e0e8ff080f8bfa392b024e038df6c6b41d764d046e2ba"
     },
     {
       "name": "个护-洗头",
       "displayName": "洗头",
       "displayNameEn": "Washing Hair",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "6e0caf3e961bea0526c5a61883b6bee9c04804eb0470fa06e04da7f08d44fdbe"
     },
     {
       "name": "个护-洗澡",
       "displayName": "洗澡",
       "displayNameEn": "Bathing",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "0c4cd8583f609583882449ea26578e57311fb74fc8b0a14a56c2afffd0af10f7"
     },
     {
       "name": "个护-洗脸护肤",
       "displayName": "洗脸护肤",
       "displayNameEn": "Face Washing & Skincare",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "9b2bd47d68de683ce149b3c24771d25eb89eb3cf1f40cfad791445709779d2c2"
     },
     {
       "name": "个护-面膜",
       "displayName": "面膜",
       "displayNameEn": "Face Mask",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "bf0a25889ed44730c6097a22a1213e5b1c59bc11424d2fb10445f6d635108714"
     },
     {
       "name": "做饭-做蛋糕",
       "displayName": "做蛋糕",
       "displayNameEn": "Baking a Cake",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "3995b567ff45e76daa1b2053d9d4285ad888e9ff2ed868ee7756101ebd93f030"
     },
     {
       "name": "做饭-做饭杂菜",
       "displayName": "做饭杂菜",
       "displayNameEn": "Cooking Mixed Vegetables",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "3e24e308390e954dc2ef057933408e9001754612fcf936dc23b9027bf3a17991"
     },
     {
       "name": "做饭-做饼干",
       "displayName": "做饼干",
       "displayNameEn": "Making Cookies",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "abb761e7a4593afda9003d8b3c552e5351acb75fa74c73bbbe2cc4e75e9ba4a3"
     },
     {
       "name": "做饭-切菜",
       "displayName": "切菜",
       "displayNameEn": "Chopping Vegetables",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "b9db5d384f354db30166dab8a529ebe05d5c2f1ef0756dddbfe6abbcb8cfb33c"
     },
     {
       "name": "做饭-学习菜谱",
       "displayName": "学习菜谱",
       "displayNameEn": "Learning Recipes",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "7a64fbc7ab11ac3fcc2726370263dc0dc6e957b9681d88874f338e05084498b3"
     },
     {
       "name": "做饭-揉面",
       "displayName": "揉面",
       "displayNameEn": "Kneading Dough",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "cfc679c054c8d8131e7417da7c1f7c55ff4e9a7a66391cdf495127e83c91b466"
     },
     {
       "name": "做饭-烘焙",
       "displayName": "烘焙",
       "displayNameEn": "Baking",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "2cc11258813549c4d33e3ff4360edaac3b2a7e5bc6fdd82e23fb2baee8fe90ac"
     },
     {
       "name": "做饭-烤&炒",
       "displayName": "烤&炒",
       "displayNameEn": "Roasting & Stir-frying",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "978fe1bc18f765ed5cbe3ddee76e3445a6c92e2904af9fd6c7c9b654d7c5e981"
     },
     {
       "name": "做饭-烧糊了",
       "displayName": "烧糊了",
       "displayNameEn": "Burned the Food",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "8365e44db51b82807a240c7bdfe33bd23b8646798ec059d839daf37aa27751f9"
     },
     {
       "name": "做饭-煲汤",
       "displayName": "煲汤",
       "displayNameEn": "Making Soup",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "044bd689b5dd3a7c2ce375fea10736e516a2444e778c26b7da69e8006915e15b"
     },
     {
       "name": "健康-体检",
       "displayName": "体检",
       "displayNameEn": "Health Checkup",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "407fbc6ba08f2ff89873d4ded3362c6b2ece470339c3f6daac099702e2770f6c"
     },
     {
       "name": "健康-发烧休息",
       "displayName": "发烧休息",
       "displayNameEn": "Resting with a Fever",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "ef6ed760155258c7d51378e2eac66353bbfdde5aeb11e61cd70761f1de78e26a"
     },
     {
       "name": "健康-受伤休养",
       "displayName": "受伤休养",
       "displayNameEn": "Injury Recovery",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "38dec864c62eb5da66bfb652062c3dd2a86f388855ec900eac9ee03607dda79d"
     },
     {
       "name": "健康-吃药",
       "displayName": "吃药",
       "displayNameEn": "Taking Medicine",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "750a1db0ac73d92e05173b0a6653ddf29e7301757acae7ec81204e024a0c57ea"
     },
     {
       "name": "健康-康复训练",
       "displayName": "康复训练",
       "displayNameEn": "Rehabilitation Exercise",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "034efa6010b08a669fb12dddd6fe22108f439f6a0b58edec9a1d4d489c976958"
     },
     {
       "name": "健康-晕车",
       "displayName": "晕车",
       "displayNameEn": "Motion Sickness",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "d44d23564adf2e27a915b4746545424ade54799dce28fa1a9feb30f5ddaeaa56"
     },
     {
       "name": "健康-看牙医",
       "displayName": "看牙医",
       "displayNameEn": "Dental Visit",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "91f8f9a1f612bf752516e86431fc4ab1d19a38047c0e213ea86e5d3adc565e5c"
     },
     {
       "name": "健康-过敏",
       "displayName": "过敏",
       "displayNameEn": "Allergies",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "fbf2302bfc016c15dfc62a283570411fd26e9eed3765347a77dd30c1d2b3d9c6"
     },
     {
       "name": "北京-天安门",
       "displayName": "天安门",
       "displayNameEn": "Tiananmen",
       "category": "北京",
-      "categoryEn": "Beijing"
+      "categoryEn": "Beijing",
+      "sha256": "35522d0222ba792190c5a9dfe2482134b8e33aab0fa8117bad61788bf39b93c6"
     },
     {
       "name": "北京-天坛",
       "displayName": "天坛",
       "displayNameEn": "Temple of Heaven",
       "category": "北京",
-      "categoryEn": "Beijing"
+      "categoryEn": "Beijing",
+      "sha256": "7580a72a350704e9d39fb657cc3515998bb7b68293f20ee49ccb8d080a819240"
     },
     {
       "name": "北京-长城",
       "displayName": "长城",
       "displayNameEn": "Great Wall",
       "category": "北京",
-      "categoryEn": "Beijing"
+      "categoryEn": "Beijing",
+      "sha256": "12e8ec262fd14dcdbdf9d499bdc6c494a6d1f6d6a6ac03021ab8400b6a38ffd4"
     },
     {
       "name": "吃饭-果汁",
       "displayName": "果汁",
       "displayNameEn": "Juice",
       "category": "吃饭",
-      "categoryEn": "Eating"
+      "categoryEn": "Eating",
+      "sha256": "a65a8e5ee71992a996a9043e1817439ee500c51a2812d855ef94bdf24bc82ba3"
     },
     {
       "name": "吃饭-烧烤",
       "displayName": "烧烤",
       "displayNameEn": "BBQ",
       "category": "吃饭",
-      "categoryEn": "Eating"
+      "categoryEn": "Eating",
+      "sha256": "485ac2055ec0cae42ac1341b989f1d71250379c5e84a7c9ce8771453aeff2a0f"
     },
     {
       "name": "吃饭-野餐",
       "displayName": "野餐",
       "displayNameEn": "Picnic",
       "category": "吃饭",
-      "categoryEn": "Eating"
+      "categoryEn": "Eating",
+      "sha256": "2fc7fde8092f4c659d35a2db7e2512d5a9f9e6f8364ba08a1992bb20269e589e"
     },
     {
       "name": "吃饭-面条",
       "displayName": "面条",
       "displayNameEn": "Noodles",
       "category": "吃饭",
-      "categoryEn": "Eating"
+      "categoryEn": "Eating",
+      "sha256": "1677c55113cde19fd6782e8daef9291fc7c5b1f45884312790237089c42d4117"
     },
     {
       "name": "吃饭-披萨",
       "displayName": "披萨",
       "displayNameEn": "Pizza",
       "category": "吃饭",
-      "categoryEn": "Eating"
+      "categoryEn": "Eating",
+      "sha256": "1dd0bfe3a801ac8bbc7eaae8e5865a77c2fc1489f3da33f1b5f737c57e1e74cf"
     },
     {
       "name": "吃饭-快餐",
       "displayName": "快餐",
       "displayNameEn": "Fast Food",
       "category": "吃饭",
-      "categoryEn": "Eating"
+      "categoryEn": "Eating",
+      "sha256": "a2f1fd5e0475df81321b7055cea602adee0d304d7a8f7a007f76ff2fd1c85aad"
     },
     {
       "name": "学习-上学1",
       "displayName": "上学1",
       "displayNameEn": "Going to School 1",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "0a5f9ae2b10594642a818bdce91aefc712485fc9b46280c2956352b7c17b9d71"
     },
     {
       "name": "学习-上课",
       "displayName": "上课",
       "displayNameEn": "In Class",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "c5a18d30b80cf0bd53c9499b04a67b8471d04e8625043c7471ab3f115f6e36a0"
     },
     {
       "name": "学习-伤心学习",
       "displayName": "伤心学习",
       "displayNameEn": "Sad Studying",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "17e069c55150908071487e2cdca0149546e1935b408679d7c13454d4647319e6"
     },
     {
       "name": "学习-做实验",
       "displayName": "做实验",
       "displayNameEn": "Doing an Experiment",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "501506fd1c2f3031821f77b250bf6fb549d788d14bc21f5aec999637c01e8e51"
     },
     {
       "name": "学习-做笔记",
       "displayName": "做笔记",
       "displayNameEn": "Taking Notes",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "13f61d3293bfd5c5841fa7e96a80646f8dc91df8cc88c117e4ab9a15c220949b"
     },
     {
       "name": "学习-去上学",
       "displayName": "去上学",
       "displayNameEn": "Going to School",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "07d444b7c4dba064d28454b9f95eeb671bb23a43dcd092ec6a3482110e5abc8a"
     },
     {
       "name": "学习-复习",
       "displayName": "复习",
       "displayNameEn": "Reviewing",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "d16828394cffe1759ccf23e86594dd3a6ffdb80f4eeb9f9cc71df5db80749f53"
     },
     {
       "name": "学习-外语",
       "displayName": "外语",
       "displayNameEn": "Foreign Language",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "52e38aeea5587d853aee60778e4914bb31f7257c41035082f24f2243b8d19075"
     },
     {
       "name": "学习-学习走神",
       "displayName": "学习走神",
       "displayNameEn": "Distracted While Studying",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "8748252dbe1c9ffaad9a55e2e91a973bf7211380ecd1a3d7c41f9fda57e7d12c"
     },
     {
       "name": "学习-开心写作业",
       "displayName": "开心写作业",
       "displayNameEn": "Happy Doing Homework",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "dde286fa270980fdf5f055b1eb281d251f88b184e005deccd71f6e87c6ee005a"
     },
     {
       "name": "学习-忘交作业",
       "displayName": "忘交作业",
       "displayNameEn": "Forgot to Submit Homework",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "b41a7c173fce74dca20dfd6316df206be958ba59335f0f5f6149b12ab8dfd06d"
     },
     {
       "name": "学习-查资料",
       "displayName": "查资料",
       "displayNameEn": "Researching",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "f12ae05b990a781a94e82f4dc54f0a6189a6c715510c78d904ac6baf64a40590"
     },
     {
       "name": "学习-熬夜学习",
       "displayName": "熬夜学习",
       "displayNameEn": "Late Night Studying",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "f4867fb5599fff004bdc3ffe87f06e249558d24e8f670e80cd6ee231de5c966c"
     },
     {
       "name": "学习-电脑学习",
       "displayName": "电脑学习",
       "displayNameEn": "Learning on Computer",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "aadb5f34befd12fa6bafafb44f9b13645ed3700e161f8fde0438e47fbacc4344"
     },
     {
       "name": "学习-看书",
       "displayName": "看书",
       "displayNameEn": "Reading Books",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "2d8e7c69e5491cd18b719593eec1a737c930a96890e40b42eb93f84946b154eb"
     },
     {
       "name": "学习-看书&下午茶",
       "displayName": "看书&下午茶",
       "displayNameEn": "Reading & Afternoon Tea",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "87ad910f0cca2f695ee23dcd3d91f218ad8ac723a02e8e3a89246d305a7dd9a7"
     },
     {
       "name": "学习-线上课程",
       "displayName": "线上课程",
       "displayNameEn": "Online Class",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "48cf87b503e44504618dad1c1d72a829c3681a485fad0fddbf87d8ebc0c99191"
     },
     {
       "name": "学习-考试",
       "displayName": "考试",
       "displayNameEn": "Taking an Exam",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "449bbf0c737e62cf6ec13a65e27b5bbae92afeaec13a775cad9d8ddfcee09ba4"
     },
     {
       "name": "学习-考试没准备",
       "displayName": "考试没准备",
       "displayNameEn": "Unprepared for an Exam",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "90df3ca390e065aa75478bc1b76145855c40d6eaebed89cc90d2dab414a356ee"
     },
     {
       "name": "学习-背单词",
       "displayName": "背单词",
       "displayNameEn": "Studying Vocabulary",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "683428a82dec0c003298e1c0fe757bd1dda4f50e22d3ba8b98d51160577989d4"
     },
     {
       "name": "学习-读书",
       "displayName": "读书",
       "displayNameEn": "Reading",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "72666602b3bacf9b395d40265be89db3bd21d9178d3b73d34a7f64f3d915cd50"
     },
     {
       "name": "工作-会议",
       "displayName": "会议",
       "displayNameEn": "Meeting",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "142ccb9d261824e5fa700e7a80548fccc02ea925f8e259025827de45fcb5ffa3"
     },
     {
       "name": "工作-伤心工作",
       "displayName": "伤心工作",
       "displayNameEn": "Sad Working",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "cbe2df8ec7ba90aec55b836e71fdac6f52bc81eea5ce8323ba28ddaaf81fcaa1"
     },
     {
       "name": "工作-修理",
       "displayName": "修理",
       "displayNameEn": "Repairing",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "b1e884538d33b7cc5066d88c87384b4e74159ee6211c59d4733d7e745f6940a4"
     },
     {
       "name": "工作-写作",
       "displayName": "写作",
       "displayNameEn": "Writing",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "4f23bcc3a81534fc59447d291469955b3e5d4453e36ab23b60e479c4b88f7836"
     },
     {
       "name": "工作-出差候机",
       "displayName": "出差候机",
       "displayNameEn": "Waiting for a Business Flight",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "edf863df3e75ab5d8da0c3e7e6ea6018cbfeadf88fa90600b8e113c14fb7b187"
     },
     {
       "name": "工作-厨师",
       "displayName": "厨师",
       "displayNameEn": "Chef",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "0f431a80193eea169e31e8f3839c541a588c8cbb58009449c9acc9b7653baccd"
     },
     {
       "name": "工作-多任务",
       "displayName": "多任务",
       "displayNameEn": "Multitasking",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "7f3fc78450679d8d6fcdba0ca2eacd4f1c4a3c00a58638693a5890e72c72a978"
     },
     {
       "name": "工作-家庭主妇",
       "displayName": "家庭主妇",
       "displayNameEn": "Housewife",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "397a91404e6c067597611336928026b05dd67ed0321007bc7a6da460c30acfbc"
     },
     {
       "name": "工作-居家办公",
       "displayName": "居家办公",
       "displayNameEn": "Working from Home",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "4652ceee74776ed675e9291ed1e09335d0ef930850334697db546093eb5eafd1"
     },
     {
       "name": "工作-开心工作",
       "displayName": "开心工作",
       "displayNameEn": "Happy Working",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "59ca16e6e983fea6154b8cc9951fb0c3968cfa1182dd6a7a3d5865691245aec7"
     },
     {
       "name": "工作-整理文件",
       "displayName": "整理文件",
       "displayNameEn": "Organizing Files",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "4328deba12fb3ce36b7f46db33825150cb6e3ba526b3191c3a6012b83ed4a953"
     },
     {
       "name": "工作-灵感枯竭",
       "displayName": "灵感枯竭",
       "displayNameEn": "Creative Block",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "e8c5f3d1243a233671ddf6cb9d3ee0041a3f31193b6575d7147aba22faadda00"
     },
     {
       "name": "工作-电脑",
       "displayName": "电脑",
       "displayNameEn": "Computer Work",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "619bfb0bc69da18bf86bbc5b0d006008f957848a54ed38de72e6bbc249554591"
     },
     {
       "name": "工作-电话沟通",
       "displayName": "电话沟通",
       "displayNameEn": "Work Phone Call",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "6da54cfadea1c4ae328c4e05f67c30f983bd52818c15b9ff900a7e55aafa3b86"
     },
     {
       "name": "工作-等待反馈",
       "displayName": "等待反馈",
       "displayNameEn": "Waiting for Feedback",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "ec141875b1162f275d8313370fc4d8f7100d9c873e8f2f94ad17100e9c2ba64a"
     },
     {
       "name": "工作-被打断",
       "displayName": "被打断",
       "displayNameEn": "Interrupted at Work",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "068ec2dda1c22536aeea4db2a4970bf45c9baba732f61cfb14eac4557969f729"
     },
     {
       "name": "工作-视频会议",
       "displayName": "视频会议",
       "displayNameEn": "Video Meeting",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "37a8d3c147a110c049100d3a91054ea14581d586f3f7dd72073f8d682bed7112"
     },
     {
       "name": "工作-请假休息",
       "displayName": "请假休息",
       "displayNameEn": "Taking Time Off",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "65be0761306322f92ea89645927db1dcc377e1abaeba54edfae46b9c5dd38326"
     },
     {
       "name": "工作-赶截止日期",
       "displayName": "赶截止日期",
       "displayNameEn": "Racing a Deadline",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "29de9ca2f3856d64aada34f624ef201d3b7dde890340ca12fc0aaa58a20b9a77"
     },
     {
       "name": "工作-返工",
       "displayName": "返工",
       "displayNameEn": "Reworking",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "928bc8361dcddbbe210b5739e0b9c22efcfe4cabcd1497c8c232bca77afddcc1"
     },
     {
       "name": "工作-迟到",
       "displayName": "迟到",
       "displayNameEn": "Late for Work",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "ee3eb00a3bb59eac9f0174e311048c7a5d3bcbc785aeeea823dfdec203886e13"
     },
     {
       "name": "工作-送外卖",
       "displayName": "送外卖",
       "displayNameEn": "Food Delivery",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "9c1068c6eaf04ebc36210303cba1d7149d73e7418734b900fcbe16c18e5969e2"
     },
     {
       "name": "恋爱-下午茶",
       "displayName": "下午茶",
       "displayNameEn": "Afternoon Tea Date",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "f400eaacbdaa62d6c0897d7bf401fc223b63b5b4d58cd1f48077a213475aac76"
     },
     {
       "name": "恋爱-公园",
       "displayName": "公园",
       "displayNameEn": "Park Date",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "f183e440af3d7846bd98707a1fa98bbf5e78a9f3b4696192f7f50bc22d78a6d1"
     },
     {
       "name": "恋爱-吃饭",
       "displayName": "吃饭",
       "displayNameEn": "Dining Together",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "dcf5b9a7fd58b685b02c9572a4ae5f59fe13895fe04992d916728b34400ee857"
     },
     {
       "name": "恋爱-居家吃饭",
       "displayName": "居家吃饭",
       "displayNameEn": "Eating at Home Together",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "7e3ded7e8f6684b5242f7f01f90a4b422bfb0b63af4ec15dfe2cb76d3c1625ad"
     },
     {
       "name": "恋爱-水族馆",
       "displayName": "水族馆",
       "displayNameEn": "Aquarium Date",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "b6eeb5e25aadee756f635ba569aaddbc76d939f7551f3d0918564e5cbc7983d8"
     },
     {
       "name": "恋爱-睡觉",
       "displayName": "睡觉",
       "displayNameEn": "Sleeping Together",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "1a2cf76c951e191e54a1eea54b69008ddb505e75b3c5f3ed15dd8366da8d98cb"
     },
     {
       "name": "恋爱-礼物",
       "displayName": "礼物",
       "displayNameEn": "Giving Gifts",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "cc3bfc4718fd42b18a8ab5e8b592741e32b2b6d71b4029c3895b82ed9a721c56"
     },
     {
       "name": "恋爱-逛街",
       "displayName": "逛街",
       "displayNameEn": "Shopping Date",
       "category": "恋爱",
-      "categoryEn": "Romance"
+      "categoryEn": "Romance",
+      "sha256": "b68ec32f48837a15cc6c2d6f3a4d37d1068fed8a345a6a03d48eb3b23676c696"
     },
     {
       "name": "情绪-失望",
       "displayName": "失望",
       "displayNameEn": "Disappointed",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "04c705ee8487afb434f1c877341f557a912a6501e2815af0f7587e0696f778e2"
     },
     {
       "name": "情绪-委屈",
       "displayName": "委屈",
       "displayNameEn": "Feeling Hurt",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "5f48011d302ac659d7ca1804b35fcb1df2b4e5f55f6f090fa871cedac7f61c00"
     },
     {
       "name": "情绪-愤怒冷静",
       "displayName": "愤怒冷静",
       "displayNameEn": "Calming Down from Anger",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "f4422722bda80907f1e4dd34f7790b7fef6ab973fbf712b52ff616760f9f141d"
     },
     {
       "name": "情绪-焦虑",
       "displayName": "焦虑",
       "displayNameEn": "Anxious",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "1c16accfd0e68af5e54e5d5ff7d5505d2629acc8df6142b3b8496409cc46b3d2"
     },
     {
       "name": "情绪-犹豫纠结",
       "displayName": "犹豫纠结",
       "displayNameEn": "Indecisive",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "67e692a3b2396ff35f2a4531610b9b86c0035c12f0b69ca538d700dc3e0fdd5f"
     },
     {
       "name": "情绪-独自庆祝",
       "displayName": "独自庆祝",
       "displayNameEn": "Celebrating a Personal Win",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "354499825737b06485bad968c61a7f7069fb3e4c27987531181d35fb715d447d"
     },
     {
       "name": "情绪-释然",
       "displayName": "释然",
       "displayNameEn": "Relieved",
       "category": "情绪",
-      "categoryEn": "Emotions"
+      "categoryEn": "Emotions",
+      "sha256": "896c1e413c9513eea4074a685a8415b1572c7f4e5dd13db733f9638013288175"
     },
     {
       "name": "拍照-可爱",
       "displayName": "可爱",
       "displayNameEn": "Cute Photo",
       "category": "拍照",
-      "categoryEn": "Photography"
+      "categoryEn": "Photography",
+      "sha256": "62c08d6376414a709ec1649994c3c8352642b9009472786bed491ab1d4c08bb2"
     },
     {
       "name": "景点-冰川",
       "displayName": "冰川",
       "displayNameEn": "Glacier",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "7bc60eef898c1b2e091181b7e9f03a004b1e461345404c511946e9a6a4d87510"
     },
     {
       "name": "景点-凯旋门",
       "displayName": "凯旋门",
       "displayNameEn": "Arc de Triomphe",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "fe51f770e7c2d014f10c792ec76f14fd71a6fd7b842753656bd7fe78926c7998"
     },
     {
       "name": "景点-博物馆",
       "displayName": "博物馆",
       "displayNameEn": "Museum",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "fbdfd852287ca7f4734548d4a90d50b80925fbf9a427a5ce1d580d143fa2b697"
     },
     {
       "name": "景点-古罗马斗兽场",
       "displayName": "古罗马斗兽场",
       "displayNameEn": "Roman Colosseum",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "acc847e8620dc0428cccabcc640ee62eb069047c94de38aeea351118e79748c2"
     },
     {
       "name": "景点-古镇",
       "displayName": "古镇",
       "displayNameEn": "Ancient Town",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "48ada9c54a7bd0422435bc5689faf6fc4ff753585c2e4e32ee4211537a2751e4"
     },
     {
       "name": "景点-吴哥窟",
       "displayName": "吴哥窟",
       "displayNameEn": "Angkor Wat",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "ea37755be778b9affd45ab484014f6de8b4c55674d49f1bfea2f7262c0ae3447"
     },
     {
       "name": "景点-埃菲尔铁塔",
       "displayName": "埃菲尔铁塔",
       "displayNameEn": "Eiffel Tower",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "f05949451c6e612a3ee18afe960469fc3c8f9e991f9767e25da55577a4049355"
     },
     {
       "name": "景点-城堡",
       "displayName": "城堡",
       "displayNameEn": "Castle",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "b47dffa1ba6bf818c2818bf13009a43e639f5944cefc3fc30c4ef6428c8dc888"
     },
     {
       "name": "景点-大教堂",
       "displayName": "大教堂",
       "displayNameEn": "Cathedral",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "cdc2b9c36a85a2caf00f2458fa6b151d8052cc51bd3499aef1b5b4c4da23e33d"
     },
     {
       "name": "景点-峡谷",
       "displayName": "峡谷",
       "displayNameEn": "Canyon",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "b4e6f04b3e7f67c6a18c31eccbd855ed5aa9db542ff36fec25040ad8b1b2196f"
     },
     {
       "name": "景点-悉尼歌剧院",
       "displayName": "悉尼歌剧院",
       "displayNameEn": "Sydney Opera House",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "aef5b10f8ca8df58b2fc15f3cb5f66be614c834f12eb5db7684ee7d9b7e3aae0"
     },
     {
       "name": "景点-摩天轮",
       "displayName": "摩天轮",
       "displayNameEn": "Ferris Wheel",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "751ba8021162a4c4baeb8befac678860e74fa8bb953d7e02604c6d33f650ff41"
     },
     {
       "name": "景点-极光",
       "displayName": "极光",
       "displayNameEn": "Aurora",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "88f8b34a451c2ee81e3d99c18196ca875f4416dbeb19018ba8fb72e52fb8aecc"
     },
     {
       "name": "景点-樱花神社",
       "displayName": "樱花神社",
       "displayNameEn": "Cherry Blossom Shrine",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "5de67923d9046d90fe3535cd24a0fd2bf133d9f7f512fa0c2d9e7648dab40e0b"
     },
     {
       "name": "景点-沙漠金字塔",
       "displayName": "沙漠金字塔",
       "displayNameEn": "Desert Pyramids",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "b4cecece22b1475fe0322ef5742a866330d98541981401b07b6f7111e1d6b203"
     },
     {
       "name": "景点-泰姬陵",
       "displayName": "泰姬陵",
       "displayNameEn": "Taj Mahal",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "a2f9c274b87c7a36b2679ee2ca69a0ff017c87e744878fb36127ed4617a792ab"
     },
     {
       "name": "景点-海岛沙滩",
       "displayName": "海岛沙滩",
       "displayNameEn": "Island Beach",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "bfb0bdd6e5793464881f7398dfdb64a5ce1b8876d58cec260ec332368b681315"
     },
     {
       "name": "景点-海边灯塔",
       "displayName": "海边灯塔",
       "displayNameEn": "Coastal Lighthouse",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "d0abadd8c9251174d8b053e742003e2e97a1b62fa88adee05be933f312bead21"
     },
     {
       "name": "景点-湖泊",
       "displayName": "湖泊",
       "displayNameEn": "Alpine Lake",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "67853e1f5c7b14a4c2da48d7d0d81e6727768327f690b7b3ac525ec39d61026b"
     },
     {
       "name": "景点-瀑布",
       "displayName": "瀑布",
       "displayNameEn": "Waterfall",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "71be63b3942fa30c282ee4f627d7adb6ebd96511c816a6e0abec46d0ca2c78e7"
     },
     {
       "name": "景点-火山",
       "displayName": "火山",
       "displayNameEn": "Volcano",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "025b703da38b176e37c7383d0c022a67673dbb091a984183d30a88c75f0d3009"
     },
     {
       "name": "景点-热气球",
       "displayName": "热气球",
       "displayNameEn": "Hot Air Balloon",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "0f42b9e583ee96a24653ce1b2e24331141777aea34cc5bd80bb1a1bf287e0f29"
     },
     {
       "name": "景点-竹林",
       "displayName": "竹林",
       "displayNameEn": "Bamboo Forest",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "e45e6bee9dd7c950a6d13e3ce41a7d0fde18364dbf270678173821b4317943c8"
     },
     {
       "name": "景点-金门大桥",
       "displayName": "金门大桥",
       "displayNameEn": "Golden Gate Bridge",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "58d9d1beaec1ac0c0dd37a0af8afb9c7875235fc1f694147993d5a439285c31f"
     },
     {
       "name": "景点-雪山",
       "displayName": "雪山",
       "displayNameEn": "Snow Mountain",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "fba3603b9d87c78d34115a0bc97102d89cba9649f29ba11767055b1908a89ac9"
     },
     {
       "name": "景点-风车村",
       "displayName": "风车村",
       "displayNameEn": "Windmill Village",
       "category": "景点",
-      "categoryEn": "Attractions"
+      "categoryEn": "Attractions",
+      "sha256": "963a95ceb12d279192b917f6901bf9cb3f4e3f8e82d6e87b1a80fc748c799abe"
     },
     {
       "name": "生活-下雨出门",
       "displayName": "下雨出门",
       "displayNameEn": "Going Out in the Rain",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "bf07852311a37625f50d7449abcc45668db27176c87ed9bec5d5d9a9f53a6308"
     },
     {
       "name": "生活-停电",
       "displayName": "停电",
       "displayNameEn": "Power Outage",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "ae54038c3f46cd7f4fa00801bad0a25edd566de094564044c80ece8468c58523"
     },
     {
       "name": "生活-冰箱空了",
       "displayName": "冰箱空了",
       "displayNameEn": "Empty Fridge",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "cea28f7d59168f315fb3dd9a5ebb4490cdd0870fd2cd010efdcc9ad603753a64"
     },
     {
       "name": "生活-出去玩",
       "displayName": "出去玩",
       "displayNameEn": "Going Out",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "c9d8121c388bcfca469d566bb053eb9d256ae003ccd89af263d4040af713453c"
     },
     {
       "name": "生活-听音乐",
       "displayName": "听音乐",
       "displayNameEn": "Listening to Music",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "bb06c009b78710028e9245bbf7f46d09c04608ba862e4921c740bf5d96e0f506"
     },
     {
       "name": "生活-园艺",
       "displayName": "园艺",
       "displayNameEn": "Gardening",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "9e1dc369f281d102154e447a2ed0573afea41ff33341752f38cdac79b2f07da0"
     },
     {
       "name": "生活-堵车",
       "displayName": "堵车",
       "displayNameEn": "Stuck in Traffic",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "f1756bd9f1dabe94336ecf5fe6baee55ef6d73530aef3fcc4ccb3e5fc217d254"
     },
     {
       "name": "生活-失眠",
       "displayName": "失眠",
       "displayNameEn": "Insomnia",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "10d830beb8b296d5dd0678656d6c246c8323432213c36f458d68fe3d990aaa53"
     },
     {
       "name": "生活-忘带钥匙",
       "displayName": "忘带钥匙",
       "displayNameEn": "Forgot the Keys",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "16ba2e93472039b56e35a1ac42d0783f0274103a3125122b6dffccee9ccdd729"
     },
     {
       "name": "生活-忘带雨伞",
       "displayName": "忘带雨伞",
       "displayNameEn": "Forgot the Umbrella",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "3dadedce346c007c31ae3df97688e7a41d37c5557ae38c658c8d1ce7b3e6a614"
     },
     {
       "name": "生活-手机没电",
       "displayName": "手机没电",
       "displayNameEn": "Dead Phone Battery",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "ef397f1d82eb13fceec395de834fd4d06abb514119a22061e418815889ac1fce"
     },
     {
       "name": "生活-打翻饮料",
       "displayName": "打翻饮料",
       "displayNameEn": "Spilled a Drink",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "b3bbfd547bb1659ab3483281b62020c9ab6769406164ae16fc258cd1fcdbfe2f"
     },
     {
       "name": "生活-找不到东西",
       "displayName": "找不到东西",
       "displayNameEn": "Looking for a Lost Item",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "10397689547c421d29a28008a5054f55ab3025c49e219b4fefc66c7657401ec7"
     },
     {
       "name": "生活-排队等待",
       "displayName": "排队等待",
       "displayNameEn": "Waiting in Line",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "23edef54e8bd50fdfdea996a247bc077ea4cebf64f17c1c6e02217e1fec6e3ac"
     },
     {
       "name": "生活-搬家打包",
       "displayName": "搬家打包",
       "displayNameEn": "Packing to Move",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "412dfbac4aa1d0df4cf128c36329fabc5fd8d1e4b681b3428c3214f04851fbb6"
     },
     {
       "name": "生活-收拾家里",
       "displayName": "收拾家里",
       "displayNameEn": "Tidying Up Home",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "9b64489846853f2dec92eb2f225a9fc10ed6ef813c8e604e9028570b6738a3bd"
     },
     {
       "name": "生活-旅行",
       "displayName": "旅行",
       "displayNameEn": "Traveling",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "1b65ab7fd37770b48ba6103f53f535f338e779aa5403d4e630746f196f1b945f"
     },
     {
       "name": "生活-水管漏水",
       "displayName": "水管漏水",
       "displayNameEn": "Leaking Pipe",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "bdf4f35cf2556b8ca5e646e2a781d1e18c012bd4181c520597c00f09ed05d54a"
     },
     {
       "name": "生活-泡澡澡",
       "displayName": "泡澡澡",
       "displayNameEn": "Taking a Bath",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "92eb046af0fbbcb3700d952fabfab307c542c32ce42b0c80076a99fd70458722"
     },
     {
       "name": "生活-洗衣机故障",
       "displayName": "洗衣机故障",
       "displayNameEn": "Broken Washing Machine",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "31ab90eea56809cb3a3487b77accd5db6cd2c63fb6d11c3abe69b170b94aace4"
     },
     {
       "name": "生活-爬楼梯",
       "displayName": "爬楼梯",
       "displayNameEn": "Taking the Stairs",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "b8bb7325a891729f535f41d830956cec635f10640b76469bee0165d5d8bae93a"
     },
     {
       "name": "生活-玩手机",
       "displayName": "玩手机",
       "displayNameEn": "Scrolling Phone",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "720af6895ab9d9d29858b29e706b97d3c9960896d20933cf9d50e705bf92069c"
     },
     {
       "name": "生活-看医生",
       "displayName": "看医生",
       "displayNameEn": "Seeing a Doctor",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "3a8ac401dcec0b569dd5eef2df09ac99dd685a2273503db720a6e2551a5a0bd1"
     },
     {
       "name": "生活-看电视",
       "displayName": "看电视",
       "displayNameEn": "Watching TV",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "76f6c893fb8fef4e8a35149713240136ac74a57158bd2c39c277719e44f21e7f"
     },
     {
       "name": "生活-睡觉1",
       "displayName": "睡觉1",
       "displayNameEn": "Sleeping 1",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "0f4b36efde35f12cea38609cdcce14b596fae01a8bb9c4d691147a3c1a8e8673"
     },
     {
       "name": "生活-睡觉2",
       "displayName": "睡觉2",
       "displayNameEn": "Sleeping 2",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "cbab786ac06cf2526d0d327a7ebc6ada107e98890555509fa3a9eb646ae81812"
     },
     {
       "name": "生活-睡过头",
       "displayName": "睡过头",
       "displayNameEn": "Overslept",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "160b7f9e2269cf6ad2e703c4ac71e16bf081961db9cfa3d96dcc5ed264932198"
     },
     {
       "name": "生活-社交",
       "displayName": "社交",
       "displayNameEn": "Socializing",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "f4164693e7b3821030de8599c5df656809226765efba557de2b9041f43804c3e"
     },
     {
       "name": "生活-种树",
       "displayName": "种树",
       "displayNameEn": "Planting Trees",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "1dd922aa248a79ba73a3e207969f40e2d58e18c370e918469e7b3d75adfaeedc"
     },
     {
       "name": "生活-种花",
       "displayName": "种花",
       "displayNameEn": "Growing Flowers",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "1f9423eca2661d3ddaeffaef72ce6058910766d9cf63822d809de680726cebde"
     },
     {
       "name": "生活-等公交",
       "displayName": "等公交",
       "displayNameEn": "Waiting for the Bus",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "e8f7149deb26aeb228c7c6dbd79afe9daea0b63a2bbbd2ae65d10e986c8bf0d8"
     },
     {
       "name": "生活-等待快递",
       "displayName": "等待快递",
       "displayNameEn": "Waiting for a Delivery",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "6f0ac26d8b88c835fb2e3271b544ec61a993d4325efc2835274649612cf9572f"
     },
     {
       "name": "生活-维修家里",
       "displayName": "维修家里",
       "displayNameEn": "Home Repair",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "98625818d0801e199b1777293af8c100a43c23920315fc0ee862fac8d88d0673"
     },
     {
       "name": "生活-网络故障",
       "displayName": "网络故障",
       "displayNameEn": "Internet Outage",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "67fd92e317366e83fdf5975730830f7436c1a65f8597f84f24b7a0ce68d6b1b8"
     },
     {
       "name": "生活-行李超重",
       "displayName": "行李超重",
       "displayNameEn": "Overweight Luggage",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "85c06fadc47a5e7a4217c5ec1538945d77a99205fab2f3d2174a4aa364375a40"
     },
     {
       "name": "生活-计划取消",
       "displayName": "计划取消",
       "displayNameEn": "Canceled Plans",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "412cd322d8f0901810cbe7c25929257f87309b9d8e8dfcafad7245106380b52a"
     },
     {
       "name": "生活-迷路",
       "displayName": "迷路",
       "displayNameEn": "Lost",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "c70fa9f3a9cbf36f2ecca3f367d68a7addad538364d10728bdedc07aea8e6a52"
     },
     {
       "name": "生活-通勤",
       "displayName": "通勤",
       "displayNameEn": "Commuting",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "b08cd048531435fa9b39750592b7affd695ac78b1cd81ce2a266901e79e32d09"
     },
     {
       "name": "生活-逛街",
       "displayName": "逛街",
       "displayNameEn": "Shopping",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "75af220566272c477831e4b64b64a1c21971950dd305b167d350a6a93c54bf0a"
     },
     {
       "name": "生活-遛狗",
       "displayName": "遛狗",
       "displayNameEn": "Walking the Dog",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "b3149f74ef10ee911e513c69bdb4ed653888e0e77dbd85b6a85599a23ceafcc0"
     },
     {
       "name": "社交-派对",
       "displayName": "派对",
       "displayNameEn": "Party",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "f917eb362f631a258ca8d1a6eaa92b59ff53046181a1081d9e8193c52083a66d"
     },
     {
       "name": "社交-唱歌",
       "displayName": "唱歌",
       "displayNameEn": "Singing",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "bafe6ee2a686d7bd3a396d683ee340caa8abe41482d67782de5e5784723bc47a"
     },
     {
       "name": "社交-喝茶",
       "displayName": "喝茶",
       "displayNameEn": "Drinking Tea",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "4f1c3927cbd19e5c3f563b445fbc2d4ee79d30030fb7b4552a478d1f73ad1d7a"
     },
     {
       "name": "社交-帮助",
       "displayName": "帮助",
       "displayNameEn": "Helping Others",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "4fa8a6dd7a24c5223ba674074da18a527c40bbb695e33ee44529ccb73cf35cb2"
     },
     {
       "name": "社交-打招呼",
       "displayName": "打招呼",
       "displayNameEn": "Greeting",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "043f74000736112a6dd6efb9d797b4c90acf137701ece600fa68a0307bc83af7"
     },
     {
       "name": "社交-演讲",
       "displayName": "演讲",
       "displayNameEn": "Speech",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "7ae0043ede2658ce816eac8afb0c9a07384f645f900d9b822bd15ad8805153b1"
     },
     {
       "name": "社交-讨论",
       "displayName": "讨论",
       "displayNameEn": "Discussion",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "7bacca5ad6adf5c71f62ee15bf1a9e2ca63e6c0dca1ead588f76a0993510b609"
     },
     {
       "name": "纽约-地铁",
       "displayName": "地铁",
       "displayNameEn": "Subway",
       "category": "纽约",
-      "categoryEn": "New York"
+      "categoryEn": "New York",
+      "sha256": "7dcbbb9c7eecec3868ebe67c86a7d3079a19815a667305c5c290aaf08469e8e0"
     },
     {
       "name": "纽约-大厦",
       "displayName": "大厦",
       "displayNameEn": "Skyscraper",
       "category": "纽约",
-      "categoryEn": "New York"
+      "categoryEn": "New York",
+      "sha256": "e0976000261334859f6e55334b06cf91fa3c7f01abd1bc7cc601fdec452ad5e8"
     },
     {
       "name": "纽约-大桥",
       "displayName": "大桥",
       "displayNameEn": "Bridge",
       "category": "纽约",
-      "categoryEn": "New York"
+      "categoryEn": "New York",
+      "sha256": "1e6236ba9328c6a79fa476f992f6bbc3378b712a8b7b80f8ace4626f00e88944"
     },
     {
       "name": "纽约-时代广场",
       "displayName": "时代广场",
       "displayNameEn": "Times Square",
       "category": "纽约",
-      "categoryEn": "New York"
+      "categoryEn": "New York",
+      "sha256": "1751a7a17fc882b723080a4dcad6a5b216731209b3066b1f15f44cc6e9b10bb5"
     },
     {
       "name": "纽约-自由女神像",
       "displayName": "自由女神像",
       "displayNameEn": "Statue of Liberty",
       "category": "纽约",
-      "categoryEn": "New York"
+      "categoryEn": "New York",
+      "sha256": "92cd7224ef8e66d02b6d0bec1b78a4f2a7914125518c63e11100b98770fb6e59"
     },
     {
       "name": "纽约-马车",
       "displayName": "马车",
       "displayNameEn": "Horse Carriage",
       "category": "纽约",
-      "categoryEn": "New York"
+      "categoryEn": "New York",
+      "sha256": "8b664b427d3a3529b7fe2ba5f1f0767f4eda7d0e58fc93eb4dad30af3abb3ad5"
     },
     {
       "name": "美食-墨西哥卷饼",
       "displayName": "墨西哥卷饼",
       "displayNameEn": "Taco",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "20c939759ad40ed6fc4127e8e99a2028819d1c6386328e9379d570b3d0a1be1b"
     },
     {
       "name": "美食-三明治",
       "displayName": "三明治",
       "displayNameEn": "Sandwich",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "bbe1671fabd2c08fab0b581945192fcda80bf3b68b2c34082a0be3232ccdac56"
     },
     {
       "name": "美食-东坡肉",
       "displayName": "东坡肉",
       "displayNameEn": "Dongpo Pork",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "9181fe3a444f6a44e565b006e7909598675a5eed001ead055bf05b23a3c5c997"
     },
     {
       "name": "美食-双拼包子",
       "displayName": "双拼包子",
       "displayNameEn": "Assorted Steamed Buns",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "28ec199e63f588f2cf4936fa9fad73951548c0378f5c95867e5f7c0e5abf46b5"
     },
     {
       "name": "美食-冬阴功汤",
       "displayName": "冬阴功汤",
       "displayNameEn": "Tom Yum Soup",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "1534bb6a902d9b76cdec362e271ea5efb5fcb8f834de2854fec0d0a143fe1ac3"
     },
     {
       "name": "美食-冰激凌",
       "displayName": "冰激凌",
       "displayNameEn": "Ice Cream",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "0b407703eb39ec57defa24c6b91c90a8734ed0131e654faa75f4fca872771f2b"
     },
     {
       "name": "美食-冷面",
       "displayName": "冷面",
       "displayNameEn": "Cold Noodles",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "998f9f2b41af2dcf6c61b1e2388b7e59e1c9b74f62949558eb19754a4bde7ad0"
     },
     {
       "name": "美食-包子",
       "displayName": "包子",
       "displayNameEn": "Steamed Bun",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "5c18dc78132eb4ccf43eb74f9bfc6a902ed8472e326ee69ea989d6a55924e1ce"
     },
     {
       "name": "美食-华夫饼",
       "displayName": "华夫饼",
       "displayNameEn": "Waffles",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "8cf92138e3565f0e894b74cf9da6e83a6805c5c68c28e181848d5c4f13f44809"
     },
     {
       "name": "美食-咖喱饭",
       "displayName": "咖喱饭",
       "displayNameEn": "Curry Rice",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "430f3997ff84581ce95c5a284f7f3cf6bf1f2d516ce35beb31cdc2820c7640b2"
     },
     {
       "name": "美食-奶茶",
       "displayName": "奶茶",
       "displayNameEn": "Bubble Milk Tea",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "46c189bc50798cbb14bdb2319402dacca510c7fa2dfacdcff6eb36708f454889"
     },
     {
       "name": "美食-寿司",
       "displayName": "寿司",
       "displayNameEn": "Sushi",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "26e08e7a3fdb19bb5e8bec199cb80d4e328cd1b8aa0e7e1733bfe34904f1867b"
     },
     {
       "name": "美食-小笼包",
       "displayName": "小笼包",
       "displayNameEn": "Soup Dumplings",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "de5251f894d5fe2113598628d2777161b28292d9d516b47899961a85b8d36bec"
     },
     {
       "name": "美食-巧克力",
       "displayName": "巧克力",
       "displayNameEn": "Chocolate",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "ed9b6cf1fa04b727578e13911219abe768136ed97a8c35fc7e09de7e01fdc5aa"
     },
     {
       "name": "美食-布丁",
       "displayName": "布丁",
       "displayNameEn": "Caramel Pudding",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "22c2994044b438e61343b8efca3023f7b204da1047aff63ef7f3482ae0fbb23c"
     },
     {
       "name": "美食-意大利面",
       "displayName": "意大利面",
       "displayNameEn": "Spaghetti",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "66178da99019714e781291e339ac75080a6d04826185ca7c2e6b1b1374feac45"
     },
     {
       "name": "美食-披萨",
       "displayName": "披萨",
       "displayNameEn": "Pizza",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "296143a2fd3445402e2292bae0eb2eb9283fce1c3fc3ba707a7024952d21a887"
     },
     {
       "name": "美食-拉面",
       "displayName": "拉面",
       "displayNameEn": "Ramen",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "3c36ba51c2b753b6c0c6c8d4e369a855bd27892b4bf803b1455d2d761aa681aa"
     },
     {
       "name": "美食-早餐拼盘",
       "displayName": "早餐拼盘",
       "displayNameEn": "Breakfast Platter",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "f8852058a9a90ab1e443009f75fb7ff2572be244a7572169094459fb6cbd4607"
     },
     {
       "name": "美食-水果拼盘",
       "displayName": "水果拼盘",
       "displayNameEn": "Fruit Platter",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "6ff68e64e7c05c6f1335d83ee513dad31af4a5fe8065c84d339a738ea8caf36d"
     },
     {
       "name": "美食-汉堡",
       "displayName": "汉堡",
       "displayNameEn": "Burger",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "109fc98b871273aef26e3dd33de9881e15538def9f986f455593874a88da4012"
     },
     {
       "name": "美食-汤",
       "displayName": "汤",
       "displayNameEn": "Soup",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "f0a1c217944ec5ecf2d440c85da1ad3e9a92a5ab866e749e320379896472bb5f"
     },
     {
       "name": "美食-沙拉",
       "displayName": "沙拉",
       "displayNameEn": "Salad",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "3cdf80be645e2617e4e3323602efad7b868d6c012b5a97d25adde7bec810a191"
     },
     {
       "name": "美食-油条豆浆",
       "displayName": "油条豆浆",
       "displayNameEn": "Fried Dough & Soy Milk",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "e237548678268a30dd20d873c0c5c1cd2b3054e48daa3daf6f8be87e0ae0720e"
     },
     {
       "name": "美食-火锅",
       "displayName": "火锅",
       "displayNameEn": "Hot Pot",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "c90eb6b71ff737eff2ea5c3a1e01f98aba514d4099c2facc836d51b6edddd12c"
     },
     {
       "name": "美食-炒饭",
       "displayName": "炒饭",
       "displayNameEn": "Fried Rice",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "47de5d05488793db10ee7b62d336b06d596b367fac8b6011939618fac974f5d4"
     },
     {
       "name": "美食-炸鸡",
       "displayName": "炸鸡",
       "displayNameEn": "Fried Chicken",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "032d609c61e5794492cb7e227c0b9d8b3f1893082a9abc5a2e1ff0e1fdb71969"
     },
     {
       "name": "美食-烤串",
       "displayName": "烤串",
       "displayNameEn": "Grilled Skewers",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "18ffb4e97aa52494b4426c7b2836369fc424bc25f6b9808f3794b9fc8ce61574"
     },
     {
       "name": "美食-烤玉米",
       "displayName": "烤玉米",
       "displayNameEn": "Grilled Corn",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "8da66d7acba72c2f86f753edf252bf8cd6a0a51a855ce4ee639b7d83459a13a9"
     },
     {
       "name": "美食-烤红薯",
       "displayName": "烤红薯",
       "displayNameEn": "Roasted Sweet Potato",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "fcc55873f7df6beaece36480ec4b8e31cfe43d324b60ec692efb49e380e89304"
     },
     {
       "name": "美食-烤肉",
       "displayName": "烤肉",
       "displayNameEn": "Tabletop Barbecue",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "ef4edf931d3070fd54ad074fbe1e41648a1b3169aa016bd7ea746280ab85015f"
     },
     {
       "name": "美食-烤鸭",
       "displayName": "烤鸭",
       "displayNameEn": "Roast Duck",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "d89a883a1fb74ec103c4decb07fe8650c341aa9423d7a24c2a0759efcdddeab2"
     },
     {
       "name": "美食-热狗",
       "displayName": "热狗",
       "displayNameEn": "Hot Dog",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "bbf49b8e4a7c12bb0221fee6782927fabc0244be035aa03f5c75d0f8119f514d"
     },
     {
       "name": "美食-煎饼",
       "displayName": "煎饼",
       "displayNameEn": "Chinese Savory Crepe",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "bb998f326c920d7313f46a258258d37bcb2b5162e7e317456affcc96e505e860"
     },
     {
       "name": "美食-牛排",
       "displayName": "牛排",
       "displayNameEn": "Steak",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "6e2922b86ce02d261fd4ec340dd1c38b518843c1a34ecbfba0eac708c04653f5"
     },
     {
       "name": "美食-牛角面包",
       "displayName": "牛角面包",
       "displayNameEn": "Croissant",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "e84c13c371cc0188754205513f8f1abe3db5c1fa5bac3f062682da16a5df97cd"
     },
     {
       "name": "美食-甜甜圈",
       "displayName": "甜甜圈",
       "displayNameEn": "Doughnuts",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "ac06dd40bf38ebc9f216c5fc6f020f0e494fa4ac2d4a16074b8254ec7e5c1e59"
     },
     {
       "name": "美食-酸辣粉",
       "displayName": "酸辣粉",
       "displayNameEn": "Hot and Sour Noodles",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "dc3a92d6abb47f5473e7de7d2b5da16035d326af83356e5066fb5f25c8ef1ff4"
     },
     {
       "name": "美食-粥",
       "displayName": "粥",
       "displayNameEn": "Rice Porridge",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "70482025e64133502e0cc9f2a2bb3a4400ac84339d81c7c7cc9a31cf82347360"
     },
     {
       "name": "美食-腊肉",
       "displayName": "腊肉",
       "displayNameEn": "Cured Meat",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "7330b4fed96cf608b85c965e4dee73914bd0511fe4887c492f9b9952c971cc34"
     },
     {
       "name": "美食-芒果冰沙",
       "displayName": "芒果冰沙",
       "displayNameEn": "Mango Smoothie",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "f3cbb5a18dd335c4fae26cc9bbbcd502ef19fbf492df40d5e45dc28b11c140ba"
     },
     {
       "name": "美食-薯条",
       "displayName": "薯条",
       "displayNameEn": "French Fries",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "9771b597ddb243dee1d6c796da0e85d7cc4a68c21e7766dc1706b400c13518cb"
     },
     {
       "name": "美食-蛋糕",
       "displayName": "蛋糕",
       "displayNameEn": "Cake",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "3fdcd25dfe27b54bb3a806f88300dd4633bb2671c821d9d3f79bedbb0360ba24"
     },
     {
       "name": "美食-螺蛳粉",
       "displayName": "螺蛳粉",
       "displayNameEn": "Luosifen",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "0e869dfa59e5763567ecdc0e96272e457385244a0ac8b7e07ac3e7599483f4bf"
     },
     {
       "name": "美食-越南河粉",
       "displayName": "越南河粉",
       "displayNameEn": "Vietnamese Pho",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "91bbfee214296dbfd41f81d54efba9f1c332af85a407d04f6495f050c45b3a07"
     },
     {
       "name": "美食-野餐",
       "displayName": "野餐",
       "displayNameEn": "Picnic Food",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "fb8be6b579582fde64d871ca924cfd192464100113986fb3ddf8ce4eb1a2ed03"
     },
     {
       "name": "美食-面条",
       "displayName": "面条",
       "displayNameEn": "Noodles",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "78c42b61a50ec3fa513a47afc86e54b59ecee4a0c4ac0834d0500ff6915553e7"
     },
     {
       "name": "美食-饺子",
       "displayName": "饺子",
       "displayNameEn": "Dumplings",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "2957ac8e32c8c153f2ede73476b61751d0d12e4c19eca97ae6e7f4e69a255d94"
     },
     {
       "name": "美食-马卡龙",
       "displayName": "马卡龙",
       "displayNameEn": "Macarons",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "a5d238cfbf98a62e4ba8af58402601b3b4341a54459c1bb6ea5839988feceaf8"
     },
     {
       "name": "美食-鱼肉",
       "displayName": "鱼肉",
       "displayNameEn": "Fish",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "44d8e87760ecdb9d8b0a0554c458150c24617b15ec4d859491f61f79b6993611"
     },
     {
       "name": "美食-鸭肉",
       "displayName": "鸭肉",
       "displayNameEn": "Duck Meat",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "7290263c501dc08829aafdfafec590b5fe35aeb5609a0df0842e652bee3a5796"
     },
     {
       "name": "美食-麻辣烫",
       "displayName": "麻辣烫",
       "displayNameEn": "Malatang",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "3f8c2655358622f4d2c3a67f99178af29245d1b37abf6eb28ec6c04e05325647"
     },
     {
       "name": "艺术-弹唱",
       "displayName": "弹唱",
       "displayNameEn": "Playing & Singing",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "185da6a8c54d7bfbccd8d5afed235f30e6bcd026ad0b5f9fe288be422a1f5512"
     },
     {
       "name": "艺术-梦想",
       "displayName": "梦想",
       "displayNameEn": "Dream",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "e0edf971edca71203f5997c443901400db05070ccfedc7b1c0b02bc1a8766cf1"
     },
     {
       "name": "艺术-画画",
       "displayName": "画画",
       "displayNameEn": "Drawing",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "79918b199bff23f034f744439a9ddafa84427e01ce30b53fe0ff98f19da6ad29"
     },
     {
       "name": "艺术-表演魔术",
       "displayName": "表演魔术",
       "displayNameEn": "Magic Performance",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "d5cc8aaf321ddc2c35b5f351650f5e019b35c4fa19176c16b4154c4fe8ba2fd8"
     },
     {
       "name": "节日-万圣节",
       "displayName": "万圣节",
       "displayNameEn": "Halloween",
       "category": "节日",
-      "categoryEn": "Holidays"
+      "categoryEn": "Holidays",
+      "sha256": "e3b19b1364ea824b0e450887f93c30ab26c95b39e746021e9a796b1492454dd3"
     },
     {
       "name": "节日-圣诞树",
       "displayName": "圣诞树",
       "displayNameEn": "Christmas Tree",
       "category": "节日",
-      "categoryEn": "Holidays"
+      "categoryEn": "Holidays",
+      "sha256": "00dde316e7a9be0eaf13a6d0d555df95c0609d0c1b10c2b0bba1cc45bbcb536a"
     },
     {
       "name": "节日-圣诞火炉",
       "displayName": "圣诞火炉",
       "displayNameEn": "Christmas Fireplace",
       "category": "节日",
-      "categoryEn": "Holidays"
+      "categoryEn": "Holidays",
+      "sha256": "01e4253a53af2cb4d2f2c917695c3234ffa963d5a3b94087c4c252e238c4e802"
     },
     {
       "name": "财务-存钱",
       "displayName": "存钱",
       "displayNameEn": "Saving Money",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "ba87fee092ccce35f15cfbeb0dbcf9b4000f50c53ea520dfba73342c27f7c45c"
     },
     {
       "name": "财务-缴账单",
       "displayName": "缴账单",
       "displayNameEn": "Paying Bills",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "a178787543af7f304cc5c3d4b92932b9a099b0485c28f5906e486cd817cc8104"
     },
     {
       "name": "财务-记账",
       "displayName": "记账",
       "displayNameEn": "Tracking Expenses",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "1573e6b67016fc68a97f7a6cbf4b999e64e4bbbaeb5b69bacd008223d41f0f05"
     },
     {
       "name": "财务-超支",
       "displayName": "超支",
       "displayNameEn": "Over Budget",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "6fe92ec2a768fd60e41c29a7421ba74032d945bde5b497224fcec22983978cb8"
     },
     {
       "name": "运动-杠铃举重",
       "displayName": "杠铃举重",
       "displayNameEn": "Barbell Weightlifting",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "9396f7dc8296e9e353ef958946c9a292a64fcb423bb4713ea4b0ced163f4fe03"
     },
     {
       "name": "运动-乒乓球",
       "displayName": "乒乓球",
       "displayNameEn": "Table Tennis",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "6715d4da9366dfd703220665cdb2b4cd0a528b7b49167e295b715deed5b80ae4"
     },
     {
       "name": "运动-保龄球",
       "displayName": "保龄球",
       "displayNameEn": "Bowling",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "7580236796672509e96ab30e786f9955a37bb658a6422fcbbec962ec98f48c7f"
     },
     {
       "name": "运动-冲浪",
       "displayName": "冲浪",
       "displayNameEn": "Surfing",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "93fbea52f54e4824a3c69ead7d4689f077389216e988c1a07de3437da1e18797"
     },
     {
       "name": "运动-划船机",
       "displayName": "划船机",
       "displayNameEn": "Rowing Machine",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "9210cf21a0a4a228d7a82ab2e9317ffb3906688a6c9a7d2139876353335edd7a"
     },
     {
       "name": "运动-动感单车",
       "displayName": "动感单车",
       "displayNameEn": "Spin Bike",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "3bb5198b96f80ede66c07605d783f400c46515905c3bc973700b7377f0b5da1a"
     },
     {
       "name": "运动-卷腹机器",
       "displayName": "卷腹机器",
       "displayNameEn": "Ab Crunch Machine",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "a83f5fd03e030f6845fcb2455fe890e5a78237e3033c78efe909e0fdde74ef08"
     },
     {
       "name": "运动-哑铃",
       "displayName": "哑铃",
       "displayNameEn": "Dumbbell",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "9eb78ed64f4d089dab06b75615e745739fb9273abb42888caa83113c6e740220"
     },
     {
       "name": "运动-啦啦队",
       "displayName": "啦啦队",
       "displayNameEn": "Cheerleading",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "b83b92180118e0d7324b982014127f0819a007072c13398963b89947b61c4772"
     },
     {
       "name": "运动-器材上推",
       "displayName": "器材上推",
       "displayNameEn": "Machine Overhead Press",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "923560adb37f875047f5dd856d039f28ba5da80fbf0ee274ba49666c49998724"
     },
     {
       "name": "运动-器材平举",
       "displayName": "器材平举",
       "displayNameEn": "Machine Lateral Raise",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "26d866ef6ed85b386fb6619e4c7116f038fcd8531b3987c2a64adab873f7b91f"
     },
     {
       "name": "运动-器材练背",
       "displayName": "器材练背",
       "displayNameEn": "Machine Back Exercise",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "c241afa6f760aafe36796766dd38295640efa66936208c103d31374a1f3c5a54"
     },
     {
       "name": "运动-户外体能训练",
       "displayName": "户外体能训练",
       "displayNameEn": "Outdoor Fitness Training",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "2ddfd8a04d6a4e7eb1742738464a241d88abc91309a07f26ad2c0b43342d6360"
     },
     {
       "name": "运动-坐姿推胸",
       "displayName": "坐姿推胸",
       "displayNameEn": "Seated Chest Press",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "615c3b71950e153cc7e0bd3e4c28221c76b276beeef89f43bfc78f46cd4ddb06"
     },
     {
       "name": "运动-壶铃",
       "displayName": "壶铃",
       "displayNameEn": "Kettlebell",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "a8cbc262db3c95000f87773e926f740739152064bd3c2883a0c4523f0ba83e37"
     },
     {
       "name": "运动-好天气划船",
       "displayName": "好天气划船",
       "displayNameEn": "Rowing on a Nice Day",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "5a5fe6d78321dd4161da7df1def992363301414c5698d375069c9ea9178245cd"
     },
     {
       "name": "运动-射箭",
       "displayName": "射箭",
       "displayNameEn": "Archery",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "0806c559d549e5e8a6c6a233ac4eabc7774617e2c2cf2ec94accb96d7dd09de6"
     },
     {
       "name": "运动-平躺举重",
       "displayName": "平躺举重",
       "displayNameEn": "Bench Press",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "314c3e2cd39527106c59b0f49fd2d73f9443486efc265c89f821a0c6bf27fd40"
     },
     {
       "name": "运动-引体向上",
       "displayName": "引体向上",
       "displayNameEn": "Pull-ups",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "2f3248fecec798c686406b6a5d4e82d6b3cea5cd2f9b3072c59f4dd56bc1caa9"
     },
     {
       "name": "运动-弹力绳夹胸",
       "displayName": "弹力绳夹胸",
       "displayNameEn": "Resistance Band Chest Fly",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "d5459c6da46216bd3db23478c3130445d25c870b1c6e8cb027aeae60dff0eace"
     },
     {
       "name": "运动-徒步",
       "displayName": "徒步",
       "displayNameEn": "Hiking",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "9d26fe234e2c86fb05ea060f7659a9e499c3374156ab6ebbedc2e117fae2cca5"
     },
     {
       "name": "运动-拉伸",
       "displayName": "拉伸",
       "displayNameEn": "Stretching",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "e5e87a684add4082c13b0827c52e5f0080acdaed37bf575b9b4ec22f5c09f912"
     },
     {
       "name": "运动-排球",
       "displayName": "排球",
       "displayNameEn": "Volleyball",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "d20f7d985630bdfb86fc4afe2422140487cdf645bbde5cdd9a1357fb60255dbe"
     },
     {
       "name": "运动-推肩机",
       "displayName": "推肩机",
       "displayNameEn": "Shoulder Press Machine",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "2a27ac9eb485ba57ed4f81e231df2315a7c251b865cf14e11d08711667a87926"
     },
     {
       "name": "运动-撸铁",
       "displayName": "撸铁",
       "displayNameEn": "Lifting Weights",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "f82f9a9325075c440a34b2b11f85c8fce5d18cccafa9949bd43f669d10b84b6b"
     },
     {
       "name": "运动-攀岩",
       "displayName": "攀岩",
       "displayNameEn": "Rock Climbing",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "a7d025e0434f8a8e1f5cd8888a4133a4a83084acbb11f6e477c6aae1ed7d9b19"
     },
     {
       "name": "运动-棒球",
       "displayName": "棒球",
       "displayNameEn": "Baseball",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "9af38a3fed6bf78e3a94f0ed9ecfaa288429a5ed4862cec9eab2521375ae4c5c"
     },
     {
       "name": "运动-挥棒练习",
       "displayName": "挥棒练习",
       "displayNameEn": "Batting Practice",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "2d8286d1e0b9726ab0c356fd2f9147f81f359bf61fc930c9552a6ef561a1ab72"
     },
     {
       "name": "运动-椭圆仪",
       "displayName": "椭圆仪",
       "displayNameEn": "Elliptical Machine",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "abff4bf277e32f1edacf46894b10802cc7a0046c5ed53d43f9f9be6a3767e2a2"
     },
     {
       "name": "运动-泡沫轴细腿",
       "displayName": "泡沫轴细腿",
       "displayNameEn": "Foam Roller Leg Slim",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "439f0f018e9639a3da024c09d43857089d4709067323d2b473269dc055b36ad7"
     },
     {
       "name": "运动-游泳",
       "displayName": "游泳",
       "displayNameEn": "Swimming",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "a3605d77932f0f0a8019d6711995f01d152f90d4c713fdc6c5191b6cbd8d3fd6"
     },
     {
       "name": "运动-滑板",
       "displayName": "滑板",
       "displayNameEn": "Skateboarding",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "82218178defd93f9d418ccb1a7150b0610fda26fd40dcc06f61ca5e707888a7b"
     },
     {
       "name": "运动-滑雪",
       "displayName": "滑雪",
       "displayNameEn": "Skiing",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "f5b41e2662e08a95f54a89f498d38399b400689792efe4964c34c586cc2a10a7"
     },
     {
       "name": "运动-玩水",
       "displayName": "玩水",
       "displayNameEn": "Playing in Water",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "5c830ba94cfc834f236866534dabc8b386d8ebb7e4df9094a1e099ac9d4d1702"
     },
     {
       "name": "运动-瑜伽",
       "displayName": "瑜伽",
       "displayNameEn": "Yoga",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "8bbe2d6a32d9158c42e22aebbe013fe8883035ffe5aade779c5e7a4753d792f3"
     },
     {
       "name": "运动-篮球",
       "displayName": "篮球",
       "displayNameEn": "Basketball",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "7b8ba4b2a0a1168de3d2740c034535a4d37b1a7d5aa9da7b1c3072e2cc67aa52"
     },
     {
       "name": "运动-网球户外",
       "displayName": "网球户外",
       "displayNameEn": "Outdoor Tennis",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "0d3d90b384edcc1a06231e221f883c35c578fc250c717e8ca95a3c02a2240598"
     },
     {
       "name": "运动-羽毛球",
       "displayName": "羽毛球",
       "displayNameEn": "Badminton",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "f61a0134c5bc564f7523ee67227f482ff7b06e6b276ec1fca58bfb42763b138e"
     },
     {
       "name": "运动-蝶式夹胸",
       "displayName": "蝶式夹胸",
       "displayNameEn": "Butterfly Chest Fly",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "6da735ecd92253e6d9b1ba7955122b7206b0778c81660a2dc156c7cba957d618"
     },
     {
       "name": "运动-足球",
       "displayName": "足球",
       "displayNameEn": "Soccer",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "ee62ad8a509807b0edf90a4263ea760cd538c1396bd4661658b77285f479a250"
     },
     {
       "name": "运动-跑步",
       "displayName": "跑步",
       "displayNameEn": "Running",
       "category": "运动",
-      "categoryEn": "Exercise"
+      "categoryEn": "Exercise",
+      "sha256": "f9a194d8d4828a623d28eaa4131ccdae56a91135400d3f745d553458ee22114e"
     },
     {
       "name": "运动-跑步机",
       "displayName": "跑步机",
       "displayNameEn": "Treadmill",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "66264c382f812b6c2f86ec0365f9bb0416f5f38cdd6f0449aa7127d3c5d31042"
     },
     {
       "name": "运动-跳绳",
       "displayName": "跳绳",
       "displayNameEn": "Jump Rope",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "caf134d5b190813d9c2c50fa184048adc4c144c8e0404e9baf4dcd7717c4c7df"
     },
     {
       "name": "运动-跳舞",
       "displayName": "跳舞",
       "displayNameEn": "Dancing",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "7bde072b52fc2d385fbb053204dfbb39d7060c1b32d19f1d8a39df5ef0455ab5"
     },
     {
       "name": "运动-居家跳舞",
       "displayName": "居家跳舞",
       "displayNameEn": "Dancing at Home",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "e5488cf0023451c0a4ee3db4b0861df14edfc4565515ccc7a232d9d0972ca792"
     },
     {
       "name": "运动-辅助引体向上",
       "displayName": "辅助引体向上",
       "displayNameEn": "Assisted Pull-ups",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "a0fcfa51762486cebafc29da6fded9e2074c0857bb2bb9d2d81ec7743add19db"
     },
     {
       "name": "运动-钓鱼",
       "displayName": "钓鱼",
       "displayNameEn": "Fishing",
       "category": "运动",
-      "categoryEn": "Sports"
+      "categoryEn": "Sports",
+      "sha256": "dca26aac0807226766124eac5ac57798beca7f9a1456976930a098ffb8f77c81"
     },
     {
       "name": "运动-骑行",
       "displayName": "骑行",
       "displayNameEn": "Cycling",
       "category": "运动",
-      "categoryEn": "Exercise"
+      "categoryEn": "Exercise",
+      "sha256": "f95b67e4a85ed7e0987f6ea5138b0cf31bc34845c26d7dbbcbabb4b4e25336c8"
     },
     {
       "name": "美食-麻婆豆腐",
       "displayName": "麻婆豆腐",
       "displayNameEn": "Mapo Tofu",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "28e4e4cc0661f68a68430a416cffa1d9b1bb1a78f49ec193258d07e97d9a2401"
     },
     {
       "name": "美食-广式早茶",
       "displayName": "广式早茶",
       "displayNameEn": "Cantonese Dim Sum",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "4e41482b6eef56661b460308660876542fdba371d2332f4b08327713df543874"
     },
     {
       "name": "美食-糖醋鲤鱼",
       "displayName": "糖醋鲤鱼",
       "displayNameEn": "Sweet and Sour Carp",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "b226f10a61acac53a85219994d39120ecfd6dc87ebc17e786053c6ab421dc3e9"
     },
     {
       "name": "美食-狮子头",
       "displayName": "狮子头",
       "displayNameEn": "Braised Lion's Head Meatballs",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "5b4018d4df4b1427bcaf1b2f3f6875faae48dfc62ceae0e58b6e754d644c84f8"
     },
     {
       "name": "美食-西湖醋鱼",
       "displayName": "西湖醋鱼",
       "displayNameEn": "West Lake Vinegar Fish",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "aeb65e720503fee1a4c7b9ec92d9c4e3539c74b62ed77187e53938ca747aae63"
     },
     {
       "name": "美食-佛跳墙",
       "displayName": "佛跳墙",
       "displayNameEn": "Buddha Jumps Over the Wall",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "39bd38c5f6028fc8cef56663d2ed3010f7cd724d8d04b34e0a90d85640bc0d79"
     },
     {
       "name": "美食-剁椒鱼头",
       "displayName": "剁椒鱼头",
       "displayNameEn": "Chopped Chili Fish Head",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "d54e32a1a85448b7c593f31eddfb9bff661da5b025214b35271ccee67d623b72"
     },
     {
       "name": "美食-臭鳜鱼",
       "displayName": "臭鳜鱼",
       "displayNameEn": "Fermented Mandarin Fish",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "f60d8fe28a3a8ff5d1660269a4fbcfe24c1065bed0af13a9b471efd7549abb34"
     },
     {
       "name": "美食-锅包肉",
       "displayName": "锅包肉",
       "displayNameEn": "Guo Bao Rou",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "69f1eee7a5f744c94eee8680ca2a8e4967b5e6589931aa39827d3bb95ba420a5"
     },
     {
       "name": "美食-新疆大盘鸡",
       "displayName": "新疆大盘鸡",
       "displayNameEn": "Xinjiang Big Plate Chicken",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "19e8a3c4528a43bedac5a0dbc6c7add1ab3f3b05190fa8d221609875115e8c71"
     },
     {
       "name": "美食-过桥米线",
       "displayName": "过桥米线",
       "displayNameEn": "Crossing-the-Bridge Rice Noodles",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "10421536dd72ed497f7fcd46e651c600aa73b626da09729a62bbd7e03d034dc4"
     },
     {
       "name": "美食-肉夹馍",
       "displayName": "肉夹馍",
       "displayNameEn": "Roujiamo",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "3a7e6487bab30a9f240a0a24fe1e7bf814a122bf5c9265ea2dec67972879dce7"
     },
     {
       "name": "美食-桂林米粉",
       "displayName": "桂林米粉",
       "displayNameEn": "Guilin Rice Noodles",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "4d75dc59f0f49bacd8e01bc26038818fc050e222715cb297811cce9064040975"
     },
     {
       "name": "美食-海南鸡饭",
       "displayName": "海南鸡饭",
       "displayNameEn": "Hainanese Chicken Rice",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "1a0346522c6abfb260ea126b5c28a70bf74da194c05ed85680e8a16252f684ee"
     },
     {
       "name": "美食-手把肉",
       "displayName": "手把肉",
       "displayNameEn": "Hand-Held Mutton",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "40d8ff0295bfcb87ca0ff20fcbdce1c715f9a647dd2b3b850095e539abe9b12d"
     },
     {
       "name": "美食-瓦罐汤",
       "displayName": "瓦罐汤",
       "displayNameEn": "Clay-Pot Soup",
       "category": "美食",
-      "categoryEn": "Food"
+      "categoryEn": "Food",
+      "sha256": "81b038420dfb540020e34e026351506b9e61bb0d0a05d75a1b0b028f9300a05b"
     },
     {
       "name": "生活-观星",
       "displayName": "观星",
       "displayNameEn": "Stargazing",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "cdef95b5c59afb25815d8b2dcebe2794a877dccba55ef3e5b7713ddf2581c5cf"
     },
     {
       "name": "交通-开车",
       "displayName": "开车",
       "displayNameEn": "Driving",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "207739703ccbd756033938bb31f27041302fd3f82e3b86b4d6db3f3bb05cecf8"
     },
     {
       "name": "交通-乘高铁",
       "displayName": "乘高铁",
       "displayNameEn": "High-Speed Train",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "e542c1556765b7e38d90a8ec76b07600c05a5135c1f584cb2765d3f42f7a9126"
     },
     {
       "name": "交通-乘飞机",
       "displayName": "乘飞机",
       "displayNameEn": "Flying",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "4843582cce7f909dad6f65e80692e4c8a489fa0012eeb35d781197030c98b056"
     },
     {
       "name": "交通-打车",
       "displayName": "打车",
       "displayNameEn": "Taking a Taxi",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "9fe55ea959448013c76b39bdd626e8bf53bbb13d7dc71a5eef17def5c6d9cfbb"
     },
     {
       "name": "家庭-家庭聚餐",
       "displayName": "家庭聚餐",
       "displayNameEn": "Family Dinner",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "b70ee3d279038a481799743a67557564c9a87427aee693fbd2820fab04ac406a"
     },
     {
       "name": "家庭-陪伴孩子",
       "displayName": "陪伴孩子",
       "displayNameEn": "Spending Time with Children",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "fdaa400cf36d2115451408741f12a748ed94811996ede0606e2bd5ae5a4e117e"
     },
     {
       "name": "家庭-照顾老人",
       "displayName": "照顾老人",
       "displayNameEn": "Caring for an Elder",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "12c383d7a2189048fb4d71ac0f017c4b5f1fdf3b8099fe521599196570624643"
     },
     {
       "name": "家庭-家庭视频通话",
       "displayName": "家庭视频通话",
       "displayNameEn": "Family Video Call",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "dad2c773aa9b4791d263ffa4c3cb6fe4da70da2509607efb1bacbcefc9300e00"
     },
     {
       "name": "宠物-喂猫",
       "displayName": "喂猫",
       "displayNameEn": "Feeding a Cat",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "703b3a43d9078f813f216999f665cca6beffe5a5f47ed0c0be211f7d443ab957"
     },
     {
       "name": "宠物-宠物看医生",
       "displayName": "宠物看医生",
       "displayNameEn": "Veterinary Visit",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "56236f4044d4bbe039cd60c2a4329cec3d93f13fec4dbe21a23a7caf04110151"
     },
     {
       "name": "宠物-给猫梳毛",
       "displayName": "给猫梳毛",
       "displayNameEn": "Brushing a Cat",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "b872ba389c16fd8af11a2187f7b7e12fa0cfcf3bb5c38453671817d14331170e"
     },
     {
       "name": "宠物-清理猫砂",
       "displayName": "清理猫砂",
       "displayNameEn": "Cleaning the Litter Box",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "6fe3f24a3119c241831b7a2e5cfa6c7750a2899b7c85e45766ef0c7bce573445"
     },
     {
       "name": "娱乐-玩电子游戏",
       "displayName": "玩电子游戏",
       "displayNameEn": "Playing Video Games",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "d4d4ba3f1fed9d46c6e9d2e4f526e9d218578e86f44c10645a12d204772ca6b5"
     },
     {
       "name": "娱乐-看演出",
       "displayName": "看演出",
       "displayNameEn": "Watching a Performance",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "334e0dede5f3c18803af4277e37c644d58acc88e6c09bbd59713a36b35a11788"
     },
     {
       "name": "娱乐-游乐园",
       "displayName": "游乐园",
       "displayNameEn": "Amusement Park",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "3286fdad8a122108f1bcc8e21cbb73a5e1d2ac8d5147153cd890ab67ae369c17"
     },
     {
       "name": "娱乐-泡温泉",
       "displayName": "泡温泉",
       "displayNameEn": "Hot Spring",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "9a9e97fee204ede30026568b1d3f9fd22b60f6ea660c639737748f48aa0a3d0e"
     },
     {
       "name": "安全-急救包",
       "displayName": "急救包",
       "displayNameEn": "First-Aid Kit",
       "category": "安全",
-      "categoryEn": "Safety"
+      "categoryEn": "Safety",
+      "sha256": "5baa23e29fcf550173f7e9a17f5d2795346543746a9527fe5a9f65e1c87c7447"
     },
     {
       "name": "安全-消防演练",
       "displayName": "消防演练",
       "displayNameEn": "Fire Drill",
       "category": "安全",
-      "categoryEn": "Safety"
+      "categoryEn": "Safety",
+      "sha256": "5da1e0cdb51527b42c36a115ca0688b168fa338b5a5a59130714207a69d86c6f"
     },
     {
       "name": "安全-地震避险",
       "displayName": "地震避险",
       "displayNameEn": "Earthquake Safety",
       "category": "安全",
-      "categoryEn": "Safety"
+      "categoryEn": "Safety",
+      "sha256": "cbd57312f1fda08174ecd7157805792fc96b9bbbfdfcb05e46557eff62d3fba3"
     },
     {
       "name": "安全-检查门窗",
       "displayName": "检查门窗",
       "displayNameEn": "Checking Doors and Windows",
       "category": "安全",
-      "categoryEn": "Safety"
+      "categoryEn": "Safety",
+      "sha256": "f2ea950ecaf5798b7b171780c295a8acb82cf04b8aedeee8df2e8a6bafab1b5b"
     },
     {
       "name": "育儿-喂奶",
       "displayName": "喂奶",
       "displayNameEn": "Bottle Feeding",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "05b75632e94c1e0770f7bd433dce717124454a774c4b79c29ec3a3052c8873ae"
     },
     {
       "name": "育儿-推婴儿车",
       "displayName": "推婴儿车",
       "displayNameEn": "Pushing a Stroller",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "5ed15928b8bfe1f32c9fb1bdaac5269863333c3545f7513a1e0c2e0396b6eaf7"
     },
     {
       "name": "育儿-亲子阅读",
       "displayName": "亲子阅读",
       "displayNameEn": "Parent-Child Reading",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "56e5002e44fa010f501dad32eae167d65834a399c9156ae7314c0a08b601324c"
     },
     {
       "name": "育儿-接孩子放学",
       "displayName": "接孩子放学",
       "displayNameEn": "School Pickup",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "0ed9a8eb1c961a16b1a9cad4423265c593ab0d63ed441aeceb932cdbfbb556cb"
     },
     {
       "name": "公共服务-寄快递",
       "displayName": "寄快递",
       "displayNameEn": "Sending a Parcel",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "2debb9fa0938a6ab6f8f855182f70785ccec09634734ba6a9c21b09a1ac41197"
     },
     {
       "name": "公共服务-办理证件",
       "displayName": "办理证件",
       "displayNameEn": "Applying for Documents",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "0d188c49a23178048051388c1cd8d50835f8f79d7ef6bd0e411baf8d02d71624"
     },
     {
       "name": "公共服务-社区咨询",
       "displayName": "社区咨询",
       "displayNameEn": "Community Information",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "d688a05dae6f33400249c306ca001c79a9adec0261091c75319f96485042c8bf"
     },
     {
       "name": "公共服务-图书馆借书",
       "displayName": "图书馆借书",
       "displayNameEn": "Borrowing Library Books",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "e1bcedab238384c234a780149de3790a49fa57777a496263cca4abf3c15284bb"
     },
     {
       "name": "公益-社区志愿者",
       "displayName": "社区志愿者",
       "displayNameEn": "Community Volunteering",
       "category": "公益",
-      "categoryEn": "Community Service"
+      "categoryEn": "Community Service",
+      "sha256": "0a663326ab4aac97b52bc022caccbd1c51b04a5d96e2207c10627731ec488898"
     },
     {
       "name": "公益-捐赠物品",
       "displayName": "捐赠物品",
       "displayNameEn": "Donating Items",
       "category": "公益",
-      "categoryEn": "Community Service"
+      "categoryEn": "Community Service",
+      "sha256": "01000ad54d1aeecc3a4e5fcfce3712bc6e7d5c7da97af67505a1404129c0e87a"
     },
     {
       "name": "公益-清理公园",
       "displayName": "清理公园",
       "displayNameEn": "Cleaning a Park",
       "category": "公益",
-      "categoryEn": "Community Service"
+      "categoryEn": "Community Service",
+      "sha256": "4ae17fe3dad0eb3737cee40f23e2a99f03aff1c0ef36055779c2c60fecab06a5"
     },
     {
       "name": "公益-帮助迷路者",
       "displayName": "帮助迷路者",
       "displayNameEn": "Helping a Lost Traveler",
       "category": "公益",
-      "categoryEn": "Community Service"
+      "categoryEn": "Community Service",
+      "sha256": "1fe4a6b354c1a794532c385164ea7728b03fe8cdfd932150cf194d14afaea848"
     },
     {
       "name": "社交-面对面交流",
       "displayName": "面对面交流",
       "displayNameEn": "Face-to-Face Conversation",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "4fe63ef8afbe0e2c1196d3d59b4f2fb566337d4b212097f67001db9c551c838b"
     },
     {
       "name": "天气-高温防暑",
       "displayName": "高温防暑",
       "displayNameEn": "Heat Safety",
       "category": "天气",
-      "categoryEn": "Weather"
+      "categoryEn": "Weather",
+      "sha256": "253aeb27576b13aac192d0ddd5075082bf09748456d9c5ea050a915781538a51"
     },
     {
       "name": "天气-大雪出行",
       "displayName": "大雪出行",
       "displayNameEn": "Traveling in Heavy Snow",
       "category": "天气",
-      "categoryEn": "Weather"
+      "categoryEn": "Weather",
+      "sha256": "27d18d7a216262714225608dd377688bdcc9b60fc8f98e4b9ec876e20d99cbad"
     },
     {
       "name": "天气-大风天气",
       "displayName": "大风天气",
       "displayNameEn": "Strong Wind",
       "category": "天气",
-      "categoryEn": "Weather"
+      "categoryEn": "Weather",
+      "sha256": "cc21487ddcf3115cd94a435a3aa42c72be88936d806b9c36fd38617e6bf68cf5"
     },
     {
       "name": "天气-空气污染",
       "displayName": "空气污染",
       "displayNameEn": "Air Pollution",
       "category": "天气",
-      "categoryEn": "Weather"
+      "categoryEn": "Weather",
+      "sha256": "24e77716d0d47006de49b270b5a4ee477ec2108d8b622b8d1670b77ac94b661b"
     },
     {
       "name": "交通-乘地铁",
       "displayName": "乘地铁",
       "displayNameEn": "Taking the Subway",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "6f53b72b5d3655b3e6ba321811afe38573d02f2d0badfe69ab3c949624278ca2"
     },
     {
       "name": "交通-停车",
       "displayName": "停车",
       "displayNameEn": "Parking",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "7bd41bee8593be1112ed16d9862b50b5c66c3e7efc4d264e1d14751f832d3c8f"
     },
     {
       "name": "交通-车辆充电",
       "displayName": "车辆充电",
       "displayNameEn": "Charging the Car",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "dc559f6ab6e6d349427a446e8f73f24dc3c4a1b80809cba231f078a45a65c467"
     },
     {
       "name": "交通-车辆加油",
       "displayName": "车辆加油",
       "displayNameEn": "Refueling the Car",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "f108544065f4d898923e3002f95930c25f8e09620f27e53930cb273d7ae5ca7c"
     },
     {
       "name": "交通-骑车通勤",
       "displayName": "骑车通勤",
       "displayNameEn": "Cycling to Work",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "90de153d8bc91a39a8756a4b0d4659270e594f9f5d1fd0348b5cf9f67d45b921"
     },
     {
       "name": "健康-冰敷",
       "displayName": "冰敷",
       "displayNameEn": "Applying an Ice Pack",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "65f03ddd54d3cf940367b2f56ca3f68c2278eb40ef79e9a9c77056fa967fbbfb"
     },
     {
       "name": "健康-午睡",
       "displayName": "午睡",
       "displayNameEn": "Taking a Nap",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "1f0b4d76df8a14767da96472351deedb966fbbc4a8986ff3fc54e1debb9e8e6c"
     },
     {
       "name": "健康-喝水",
       "displayName": "喝水",
       "displayNameEn": "Drinking Water",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "2873857da70014a46690d01a652504014c1aaba9e402156c4733c76260c24341"
     },
     {
       "name": "健康-工间拉伸",
       "displayName": "工间拉伸",
       "displayNameEn": "Stretching at Work",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "56787d088ca3269c610c08bd3a5f79dea45079c509485aec46ede0feaffca14d"
     },
     {
       "name": "健康-拔牙后休息",
       "displayName": "拔牙后休息",
       "displayNameEn": "Resting After a Tooth Extraction",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "3d78eadfd2852f2f5a8c86ccd74bcc879b66729b59d8a9eac06231c8109beea1"
     },
     {
       "name": "健康-测体温",
       "displayName": "测体温",
       "displayNameEn": "Checking Body Temperature",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "35d35f7ac91a062f1fe67077a8b5ebef5ada2498adb4d69e60a1d41b0e719c5c"
     },
     {
       "name": "健康-测血压",
       "displayName": "测血压",
       "displayNameEn": "Checking Blood Pressure",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "1a56ca604d7a4b33191257071ac83a64a8b40ea9657f14b038b708c217f91018"
     },
     {
       "name": "健康-涂防晒",
       "displayName": "涂防晒",
       "displayNameEn": "Applying Sunscreen",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "67690e76c8e2add4829b5b1e3ac49a0b217a8314ed31c5cdc8b6d6c1cdef7ac0"
     },
     {
       "name": "健康-热敷",
       "displayName": "热敷",
       "displayNameEn": "Applying a Warm Compress",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "3edcfe116de3cbf0392f88bcc02aa1f15b1808518e88a1e4fdca28555c41d854"
     },
     {
       "name": "健康-看望病人",
       "displayName": "看望病人",
       "displayNameEn": "Visiting Someone in Hospital",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "53bd17dc9dc9f6cd5b689d8aa3b51760354e5256df6b93bf3c9ef5b0356485e9"
     },
     {
       "name": "健康-眼睛休息",
       "displayName": "眼睛休息",
       "displayNameEn": "Resting Eyes",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "f940a343a26f2b949a84ddb06789cf54f957a265726201a67673acab7fb3ed72"
     },
     {
       "name": "健康-称体重",
       "displayName": "称体重",
       "displayNameEn": "Weighing Yourself",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "094913ee75916db5c71771865c347e45c74491cf439b2acdd666cb95c9f27471"
     },
     {
       "name": "公共服务-取干洗衣服",
       "displayName": "取干洗衣服",
       "displayNameEn": "Picking Up Dry Cleaning",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "5e5792d0b6e67aa13fe994e89d1ccee3a8b42eb6d61166a5b6226435039ea20a"
     },
     {
       "name": "公共服务-自助打印",
       "displayName": "自助打印",
       "displayNameEn": "Self-Service Printing",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "b93e10765b8895ee5cbad50c3869bc3807f75a0d6951bca3d10cc78fbf274c9f"
     },
     {
       "name": "公共服务-银行办事",
       "displayName": "银行办事",
       "displayNameEn": "Banking Errands",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "4750ecb295a1bc7db63af13c61f9aeb50cbbcbd77c7e76ddbe01bd9baef74e82"
     },
     {
       "name": "娱乐-听播客",
       "displayName": "听播客",
       "displayNameEn": "Listening to a Podcast",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "4090d13ee5e5fc1e248cccc6d296221fcbba881566f5f50556803f6b57bb8a9b"
     },
     {
       "name": "娱乐-拼乐高",
       "displayName": "拼乐高",
       "displayNameEn": "Building with LEGO",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "6c6044ff7a2806c990f3f1f705cb65361b6166892bd22f372b11c9c2a47c52ea"
     },
     {
       "name": "娱乐-放风筝",
       "displayName": "放风筝",
       "displayNameEn": "Flying a Kite",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "41ff13a3518b69061e887d52bc5c8abf77b556fb17687ef93544838baee16b05"
     },
     {
       "name": "学习-练口语",
       "displayName": "练口语",
       "displayNameEn": "Practicing Speaking",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "9614ea9ebc5582c8f58cdfc36fbc0402791c044d94139c94b0d3fbda1df9709b"
     },
     {
       "name": "学习-练字",
       "displayName": "练字",
       "displayNameEn": "Practicing Handwriting",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "4e396e437ce47f87e6f805237170cd85518971ecd7a1f44eb7d53f3d5026c6bd"
     },
     {
       "name": "宠物-喂狗",
       "displayName": "喂狗",
       "displayNameEn": "Feeding the Dog",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "efb8d0b7dd8489fe6c71e6701b4051de71b77ce9a30d321ddc1be8ea97508c9a"
     },
     {
       "name": "宠物-清洗食盆",
       "displayName": "清洗食盆",
       "displayNameEn": "Washing Pet Bowls",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "c71740e81b83239b58b45658e15ba57f8886ff6039bb1788885060b8a922c2e4"
     },
     {
       "name": "宠物-给宠物剪指甲",
       "displayName": "给宠物剪指甲",
       "displayNameEn": "Trimming a Pet's Nails",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "4fb1822fb6d3fb6969adb7fc3bd0606b592df3207fd4502ae46174290fd44fa8"
     },
     {
       "name": "宠物-给狗洗澡",
       "displayName": "给狗洗澡",
       "displayNameEn": "Bathing the Dog",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "985bddd1dc1ea4cdd520c07aaf794ddc2155c721fdf6d486dfc0dd469d1af0ac"
     },
     {
       "name": "宠物-训练宠物",
       "displayName": "训练宠物",
       "displayNameEn": "Training a Pet",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "19ec1b2c6ae50cdf180f1296976e1e9eba7b7220c6445e3a4a26334e8a716eb9"
     },
     {
       "name": "宠物-陪宠物玩",
       "displayName": "陪宠物玩",
       "displayNameEn": "Playing with a Pet",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "b943ff29a3c60d53fd74f229322b965bc99159d922317128e714c8494fb91714"
     },
     {
       "name": "家务-倒垃圾",
       "displayName": "倒垃圾",
       "displayNameEn": "Taking Out the Trash",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "61afd4f9f07d3d96a06111621ea4c0a36254170ee4728a138144935e463df317"
     },
     {
       "name": "家务-叠衣服",
       "displayName": "叠衣服",
       "displayNameEn": "Folding Clothes",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "2b225f6dde4f261b8b22083c305047eb1b48fcb6c870b2bad28f5dd88b8c67d5"
     },
     {
       "name": "家务-吸尘",
       "displayName": "吸尘",
       "displayNameEn": "Vacuuming",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "26c71903c623dfc24dec806fc6a8ef53360a939f852d54d2b86737af0d86472b"
     },
     {
       "name": "家务-垃圾分类",
       "displayName": "垃圾分类",
       "displayNameEn": "Sorting Recycling",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "2f31fa691f95ac334eadde50e14752f36b0218cea4956f47b175f87c7a6f9bdc"
     },
     {
       "name": "家务-拖地",
       "displayName": "拖地",
       "displayNameEn": "Mopping",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "cbb3d04eff2471e6101a5f5a1e9b4aa8439c002a230a3d2767296e1d97a3b776"
     },
     {
       "name": "家务-换床单",
       "displayName": "换床单",
       "displayNameEn": "Changing Bed Sheets",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "219f54657dffb8243269fd2b69efa0a9ec7d43e1f85b1265d934c75aa945d7b9"
     },
     {
       "name": "家务-换灯泡",
       "displayName": "换灯泡",
       "displayNameEn": "Changing a Light Bulb",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "a55d7c32542dde0366883883ee1b4017671d110518688b915f98d35b6d753843"
     },
     {
       "name": "家务-擦桌子",
       "displayName": "擦桌子",
       "displayNameEn": "Wiping the Table",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "82f9c8d63e4123cfb972da6a40b7492d5c011b3eb63bbe0fe7d3a761ee61d831"
     },
     {
       "name": "家务-擦窗户",
       "displayName": "擦窗户",
       "displayNameEn": "Cleaning Windows",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "dc2470791b23f0b7782723e6eaf3280ca164a84bdb4dde82ce5a94aee45637a1"
     },
     {
       "name": "家务-整理书架",
       "displayName": "整理书架",
       "displayNameEn": "Organizing a Bookshelf",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "1c049c6078298f6fadb56d6829d14c3668379a38c628cbc7926c718c1b9e7cb4"
     },
     {
       "name": "家务-整理冰箱",
       "displayName": "整理冰箱",
       "displayNameEn": "Organizing the Fridge",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "0c5f82ea293832bc15ba4b043af63bc0f1bdb5e8dd6c92e3b9bb694f1965ea63"
     },
     {
       "name": "家务-晾衣服",
       "displayName": "晾衣服",
       "displayNameEn": "Hanging Laundry",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "5a7820c4bd10f782acb20fadbd1f9dd3d6bf19691acb65dc4b25a5098a53eda2"
     },
     {
       "name": "家务-洗碗",
       "displayName": "洗碗",
       "displayNameEn": "Washing Dishes",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "675758411e23cbebeb6cec8c46aea1c749d5f73a665adba017cc5f30e0a6e70a"
     },
     {
       "name": "家务-洗衣服",
       "displayName": "洗衣服",
       "displayNameEn": "Doing Laundry",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "17470834c068f901dde793c27241efe26a6559850c4a9722922d63bfe7d8e304"
     },
     {
       "name": "家务-清洁卫生间",
       "displayName": "清洁卫生间",
       "displayNameEn": "Cleaning the Bathroom",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "83706b760d2dabe89096baed88e455c6f90c4be664a9a390449720bf866e5ed4"
     },
     {
       "name": "家务-清洗空调滤网",
       "displayName": "清洗空调滤网",
       "displayNameEn": "Cleaning an Air Conditioner Filter",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "678b4d4ec83b2cd24ce37ad8a739a4dc9500723edb1e23e58033a9ffdb9385e5"
     },
     {
       "name": "家务-清洗鞋子",
       "displayName": "清洗鞋子",
       "displayNameEn": "Cleaning Shoes",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "c7e0f58f39ea9cdbe2881ebe3eebada209a057b5f7bbec163bf3332d5c4686a8"
     },
     {
       "name": "家务-熨衣服",
       "displayName": "熨衣服",
       "displayNameEn": "Ironing Clothes",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "14ff85401e4790c4a82098896f29606dc9a750f63f6e213b5c0dc8b340efca91"
     },
     {
       "name": "家务-疏通下水道",
       "displayName": "疏通下水道",
       "displayNameEn": "Unclogging a Drain",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "f3a207a27a1236ff33b565d62cbd76a613cc1ae2c33ea319b5fa572d66d309f3"
     },
     {
       "name": "家务-组装家具",
       "displayName": "组装家具",
       "displayNameEn": "Assembling Furniture",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "491f537db098e0fe8bef5a639cdeccb272fb0eca2e5fac50265039429ec9912a"
     },
     {
       "name": "家庭-探望父母",
       "displayName": "探望父母",
       "displayNameEn": "Visiting Parents",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "c7b87b993a0a0cb8b6389fd26b6f783f464f854f245c101d452fb71dc33443aa"
     },
     {
       "name": "家庭-接送家人",
       "displayName": "接送家人",
       "displayNameEn": "Picking Up Family",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "bd3feaeeff186566eb11b85fae9d176054b68cc9abe205efd032753e1a28d04d"
     },
     {
       "name": "家庭-整理相册",
       "displayName": "整理相册",
       "displayNameEn": "Organizing Photo Albums",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "4f1db58c0b1f82ee3d2ec3830370a4fea9fe93d2e42ef5d365aaf469bc6b66fb"
     },
     {
       "name": "工作-做演示文稿",
       "displayName": "做演示文稿",
       "displayNameEn": "Making a Presentation",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "d269cf6f7481adece3d422cfe690fc0bf3661eae94e8a0e1c0f9603a9ec90392"
     },
     {
       "name": "工作-写邮件",
       "displayName": "写邮件",
       "displayNameEn": "Writing Emails",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "74b7020454287fa11d6b9c3343133b96ddfaa17528028cf14c9e927dff062c06"
     },
     {
       "name": "工作-剪辑视频",
       "displayName": "剪辑视频",
       "displayNameEn": "Editing a Video",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "74a86f95485e80d2af4299f6e161c0bd89911e237e2c6f776b85603612243724"
     },
     {
       "name": "工作-客户沟通",
       "displayName": "客户沟通",
       "displayNameEn": "Talking to Clients",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "c4058bf6d3c700e71c0d052dddb38002664786ba1ad57b8b88805ea9cc86450d"
     },
     {
       "name": "工作-录制视频",
       "displayName": "录制视频",
       "displayNameEn": "Recording a Video",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "9a41436a61f3a5c1964dc154788b9f11f72ec913a53508fce79e4b5049fb2a32"
     },
     {
       "name": "工作-录音",
       "displayName": "录音",
       "displayNameEn": "Recording Audio",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "e7b32b624155a214725489e79fb00b93c5f72c1efd78d8a5534f61fb15a2da89"
     },
     {
       "name": "工作-数据分析",
       "displayName": "数据分析",
       "displayNameEn": "Analyzing Data",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "39f911a3e061e9abd789c7bc5a231b4b559d1964686a9fe820b08d3d2d2f0c61"
     },
     {
       "name": "工作-编程",
       "displayName": "编程",
       "displayNameEn": "Coding",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "c0588904a1f9955185d8461e35ea5314d94530fe03df87626de6aee43aecfde1"
     },
     {
       "name": "工作-调试",
       "displayName": "调试",
       "displayNameEn": "Debugging",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "fc491a4b92e0f66fd1eeba0449a8f52f31d089d77c0a8aaaf7fc99fa78433fc2"
     },
     {
       "name": "工作-远程协作",
       "displayName": "远程协作",
       "displayNameEn": "Collaborating Remotely",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "68fad264cf5d84cccc975311e0663ca6656e1aecc442d4b7a12dafdcebc44faa"
     },
     {
       "name": "工作-面试",
       "displayName": "面试",
       "displayNameEn": "Job Interview",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "a313eeb90a6e1e22ecdada82dd0c0a987b6ed8f695a059e0fe902826c02919d6"
     },
     {
       "name": "旅行-收拾行李",
       "displayName": "收拾行李",
       "displayNameEn": "Packing Luggage",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "bdb323ff9fd6076fca6bc4638b01745199727ca235db9bf58b132284042ba0b8"
     },
     {
       "name": "旅行-查看地图",
       "displayName": "查看地图",
       "displayNameEn": "Reading a Map",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "6bfd370faae72c64831d4730e328833b513379105a1c9308f18fdc1216077f9e"
     },
     {
       "name": "旅行-酒店入住",
       "displayName": "酒店入住",
       "displayNameEn": "Hotel Check-In",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "f3137808b2452da0b4def81c5240e6d2f725994b43e0a0cfaa14f8e4b072f3ec"
     },
     {
       "name": "旅行-露营搭帐篷",
       "displayName": "露营搭帐篷",
       "displayNameEn": "Pitching a Tent",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "82338cde83cff1707bdd32f8cf4fff9e1956b958715ee998e13def4a054026ad"
     },
     {
       "name": "生活-买花",
       "displayName": "买花",
       "displayNameEn": "Buying Flowers",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "cf91f058f90bd789c3cfd079266fc80974d07740ea2a5fa337dc16adc4750c54"
     },
     {
       "name": "生活-买菜",
       "displayName": "买菜",
       "displayNameEn": "Shopping for Produce",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "16c20668d9d083d4d9792229151e3a0c66c31549c24abe59c05a7a77c7663b5a"
     },
     {
       "name": "生活-修手机",
       "displayName": "修手机",
       "displayNameEn": "Repairing a Phone",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "a4d8c44a71a870efd543a500acdc6037afefa7576d02a6b782aec3994c6cb09f"
     },
     {
       "name": "生活-修自行车",
       "displayName": "修自行车",
       "displayNameEn": "Repairing a Bicycle",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "48e3e804235b2fb3cc2902debc4e9ed718b832951c2a559966ab20c9b9bff4f8"
     },
     {
       "name": "生活-取快递",
       "displayName": "取快递",
       "displayNameEn": "Picking Up a Package",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "1f6a82d7ca5a3a73c2cf889863090f74ea9ee8ef5f572ab1d81216c58ee56ada"
     },
     {
       "name": "生活-拆快递",
       "displayName": "拆快递",
       "displayNameEn": "Unboxing a Package",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "9e2efc0d26ea0ee652d41403675cd5b3a1b507d2b314037cb7da4abd5405a471"
     },
     {
       "name": "生活-洗车",
       "displayName": "洗车",
       "displayNameEn": "Washing the Car",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "46fa52726d420ff63253fc2463f828674d387094161517bdf680d098b20476b3"
     },
     {
       "name": "生活-理发",
       "displayName": "理发",
       "displayNameEn": "Getting a Haircut",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "521e020e531f2bc5ea36054a4ec32c0e56f2cab0de665037efc481df66c5cc53"
     },
     {
       "name": "生活-超市采购",
       "displayName": "超市采购",
       "displayNameEn": "Grocery Shopping",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "e414760edbf1508e365e163ca4f97ffa7f83fa6b11fe7fb9fd8aa0c585193503"
     },
     {
       "name": "生活-退换货",
       "displayName": "退换货",
       "displayNameEn": "Returning an Item",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "9c7fcac7c2608377a3ec0f702792238094f3c489306c8e6361ed70708554c83b"
     },
     {
       "name": "社交-接待客人",
       "displayName": "接待客人",
       "displayNameEn": "Welcoming Guests",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "d9eff6b9e9dca5fe21a2fa7ea58b317955033bf28849317ad3e228a9a0b4a152"
     },
     {
       "name": "社交-朋友倾诉",
       "displayName": "朋友倾诉",
       "displayNameEn": "Talking Things Through with a Friend",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "b3cb78d2e95d1f700f837f8b70e4782c328efb18f2b67d4be1a7239f6f15f976"
     },
     {
       "name": "社交-生日庆祝",
       "displayName": "生日庆祝",
       "displayNameEn": "Celebrating a Birthday",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "84a4f81566ab40adc07d30043a6c9b5be343c8e4083873cb9bc74710683cbbbf"
     },
     {
       "name": "育儿-哄睡",
       "displayName": "哄睡",
       "displayNameEn": "Soothing a Baby to Sleep",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "c85f52955fa4274eb6b6dd2493abea5c1f60c4ef50955e9428ebd87f675a9fae"
     },
     {
       "name": "育儿-换尿布",
       "displayName": "换尿布",
       "displayNameEn": "Changing a Diaper",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "f0c7ea43c4a53d771f641a479a2cee9967c18391a232cfcfaab72df65ed4c1be"
     },
     {
       "name": "育儿-给孩子梳头",
       "displayName": "给孩子梳头",
       "displayNameEn": "Combing a Child's Hair",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "6f9f9f02208a7f59af36a7f2b55d0651ccdc05a620ee9361d46ba761f4cbb980"
     },
     {
       "name": "育儿-给孩子洗澡",
       "displayName": "给孩子洗澡",
       "displayNameEn": "Bathing a Child",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "47e5c282f0a2ae378d7c98a94adb4a55311a4c30dd5f8b246e127d1305061c92"
     },
     {
       "name": "育儿-辅导作业",
       "displayName": "辅导作业",
       "displayNameEn": "Helping with Homework",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "52693856f8ac333ecb2ee2c43fc8d50bab8b926ee8113f6374259fec20f254a8"
     },
     {
       "name": "育儿-陪孩子玩积木",
       "displayName": "陪孩子玩积木",
       "displayNameEn": "Playing Blocks with a Child",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "e33dbadb04534bf672871f5377943f75e0aaa58961c2df23936b12e7ce38dbb6"
     },
     {
       "name": "育儿-陪孩子画画",
       "displayName": "陪孩子画画",
       "displayNameEn": "Drawing with a Child",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "261ae3a68a78fc8b8952228c73625ae6d028f81f10579eb11534ab1275356857"
     },
     {
       "name": "艺术-做陶艺",
       "displayName": "做陶艺",
       "displayNameEn": "Making Pottery",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "ca93914a4e060b826add19a4f5f6ace7ab555a4e5a0cd8d6e2df9588e38374e3"
     },
     {
       "name": "艺术-弹钢琴",
       "displayName": "弹钢琴",
       "displayNameEn": "Playing the Piano",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "d06157dc115fd6d82cc340858a43936c5bec660a1d5033aaf0624c8759cf8502"
     },
     {
       "name": "艺术-拉小提琴",
       "displayName": "拉小提琴",
       "displayNameEn": "Playing the Violin",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "4b7625d53cf864e26b0af8bbf0c1d78a5fb22f5fc543a9ce9f78d3387787df8c"
     },
     {
       "name": "艺术-缝纫",
       "displayName": "缝纫",
       "displayNameEn": "Sewing",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "5438580de79b47f5c1cf91c7db26ff4088187ae67a89014f62fddeeaa67b056a"
     },
     {
       "name": "规划-写日记",
       "displayName": "写日记",
       "displayNameEn": "Journaling",
       "category": "规划",
-      "categoryEn": "Planning"
+      "categoryEn": "Planning",
+      "sha256": "29c352e2f885b553ecbee8bbae1d8b2f89276fd479fe69a9e18e59b170cd76d4"
     },
     {
       "name": "规划-制定目标",
       "displayName": "制定目标",
       "displayNameEn": "Setting Goals",
       "category": "规划",
-      "categoryEn": "Planning"
+      "categoryEn": "Planning",
+      "sha256": "8d6c4e3e0b6bc859d375f4d21adf92ce26bed6a2156f36b47438d435d86b6234"
     },
     {
       "name": "规划-安排今天",
       "displayName": "安排今天",
       "displayNameEn": "Planning Today",
       "category": "规划",
-      "categoryEn": "Planning"
+      "categoryEn": "Planning",
+      "sha256": "b1f49c8dc21b3c9a2bb2f6f5626594e704c924501963e92ff903beb3c6e71199"
     },
     {
       "name": "规划-整理待办",
       "displayName": "整理待办",
       "displayNameEn": "Organizing To-Dos",
       "category": "规划",
-      "categoryEn": "Planning"
+      "categoryEn": "Planning",
+      "sha256": "a3960f98bf508c61b42fb0f9172f70b716ff3d44b234b050e928120aa9ce2691"
     },
     {
       "name": "规划-每周复盘",
       "displayName": "每周复盘",
       "displayNameEn": "Weekly Review",
       "category": "规划",
-      "categoryEn": "Planning"
+      "categoryEn": "Planning",
+      "sha256": "311399c0e947f020c03b24a30de11f0b43ae465baa2258fbc996625463179694"
     },
     {
       "name": "财务-取消订阅",
       "displayName": "取消订阅",
       "displayNameEn": "Canceling a Subscription",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "7ea562cee7adadfe7924f4e94253288aaecf09714ba3fb12dcb4943ff8bb1734"
     },
     {
       "name": "财务-核对账单",
       "displayName": "核对账单",
       "displayNameEn": "Reviewing Bills",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "9feb18cb1de36d4235ba7f5795b88c60890064fab8306fc5f83e65eb982d9883"
     },
     {
       "name": "个护-修眉",
       "displayName": "修眉",
       "displayNameEn": "Grooming Eyebrows",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "69fa9440b3190929bdc896f180f5c95f593daa7fc70b173cbd33a1a2af87046c"
     },
     {
       "name": "个护-吹头发",
       "displayName": "吹头发",
       "displayNameEn": "Blow-Drying Hair",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "a556d565fb601503ef1229dc8d42042f2e43ea456b84a887290b64d4b6261472"
     },
     {
       "name": "个护-涂护手霜",
       "displayName": "涂护手霜",
       "displayNameEn": "Applying Hand Cream",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "9eec852336b48de83f276df8fc3bcfcd79a58fec61e73f2148bffff4a9912fbd"
     },
     {
       "name": "做饭-冲咖啡",
       "displayName": "冲咖啡",
       "displayNameEn": "Making Pour-Over Coffee",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "a2d8000efcea2f402a324458368cb2185684322acaea67d5eeb5ea915e996525"
     },
     {
       "name": "做饭-分装备餐",
       "displayName": "分装备餐",
       "displayNameEn": "Portioning Meal Prep",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "d47fbdfb804cb2c6ce9f51b6d6a95682cf6c0a693d12485567996c0a77f59146"
     },
     {
       "name": "做饭-制作果酱",
       "displayName": "制作果酱",
       "displayNameEn": "Making Jam",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "10c0ddae61bf270b40b9c072024a60215554d61b9564837ce05a97e3f5890985"
     },
     {
       "name": "做饭-包饺子",
       "displayName": "包饺子",
       "displayNameEn": "Wrapping Dumplings",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "c91c1832fe0777e9bc81891ef47eb96e3b8847a3db709245eb1700eb212c1263"
     },
     {
       "name": "做饭-发酵酸奶",
       "displayName": "发酵酸奶",
       "displayNameEn": "Making Yogurt",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "b275df3de8649c2f7ea29e399d5ab2a3674fd326dd083e4c9efb3c162e3be49e"
     },
     {
       "name": "做饭-打鸡蛋",
       "displayName": "打鸡蛋",
       "displayNameEn": "Whisking Eggs",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "617765469f7617b0888761462c20733c822398e92ce6fa6f95717339a878f300"
     },
     {
       "name": "做饭-泡燕麦",
       "displayName": "泡燕麦",
       "displayNameEn": "Preparing Overnight Oats",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "2bb1b70151bc96abc14a11eb0e90ca59dc9ade7404f651b3ffe73270a07d8b55"
     },
     {
       "name": "做饭-洗水果",
       "displayName": "洗水果",
       "displayNameEn": "Washing Fruit",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "bed72f6c5fa27790e9d27aa0e501ae6ec812bb6a65732adbb27151fa72dbbdac"
     },
     {
       "name": "做饭-淘米",
       "displayName": "淘米",
       "displayNameEn": "Rinsing Rice",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "a248a638cdcabf986d8bcb108a28a8e906edb77d106bab0e4c92b3eebe96b399"
     },
     {
       "name": "健康-佩戴护具",
       "displayName": "佩戴护具",
       "displayNameEn": "Putting On a Wrist Brace",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "d4b5ec188f78ff12df86cb1a2e0a9e78e7a9bf9042d87f2bd4e02102fab523d2"
     },
     {
       "name": "健康-使用牙线",
       "displayName": "使用牙线",
       "displayNameEn": "Flossing Teeth",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "73e8a636adc9ef3dfaf71b2b55f2861b21c210eba25cb3059b71b11b289ca198"
     },
     {
       "name": "健康-冥想",
       "displayName": "冥想",
       "displayNameEn": "Meditating",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "cbe49b691332d29884427520e57849f0a83786a93e15c6e69c237d09e6df99a0"
     },
     {
       "name": "健康-呼吸练习",
       "displayName": "呼吸练习",
       "displayNameEn": "Practicing Breathing",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "6ce619f995ffc17c08ca4094635c4de1cad656444589ac62383e089dec1ee0df"
     },
     {
       "name": "健康-按摩肩颈",
       "displayName": "按摩肩颈",
       "displayNameEn": "Massaging the Neck and Shoulders",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "193f8d81419ffa14602b82b7df36fefed3510aa3dac1c9859e9718cbbcb58fba"
     },
     {
       "name": "健康-泡脚",
       "displayName": "泡脚",
       "displayNameEn": "Soaking Feet",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "f24c3a5d156e6b15bd33e659abbaf84a1f968670bc55636b2c507da43ae938cc"
     },
     {
       "name": "娱乐-拼图",
       "displayName": "拼图",
       "displayNameEn": "Doing a Jigsaw Puzzle",
       "category": "娱乐",
-      "categoryEn": "Entertainment"
+      "categoryEn": "Entertainment",
+      "sha256": "49cd2f65e364091f5dea014b0fa4379c6844517dc8f32441f7209673a0f0d77a"
     },
     {
       "name": "学习-使用显微镜",
       "displayName": "使用显微镜",
       "displayNameEn": "Using a Microscope",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "3e0caeffa6496c3d953894988b4140e0301951bee2b3de0ba49314e20bc38e30"
     },
     {
       "name": "学习-查词典",
       "displayName": "查词典",
       "displayNameEn": "Looking Up a Word",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "0b16f5c6604c8c2129d4ee9eb0f3ebb99441b1941508dd612214a5d99264666d"
     },
     {
       "name": "宠物-喂鱼",
       "displayName": "喂鱼",
       "displayNameEn": "Feeding Fish",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "af11ca9b8c4d92493adb41f122111a0585bd6203168e23b7a1d5f7c0527e6c52"
     },
     {
       "name": "宠物-整理宠物用品",
       "displayName": "整理宠物用品",
       "displayNameEn": "Organizing Pet Supplies",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "17314b5d95564fee40aaa5ca88f42505bacb207ea84b162cbe2ae33bd7eb8632"
     },
     {
       "name": "宠物-清理鸟笼",
       "displayName": "清理鸟笼",
       "displayNameEn": "Cleaning a Birdcage",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "87d22884c3a009612c192b7920fcfd2a9bd369f2ed16d6243ebea0cfde36bfa4"
     },
     {
       "name": "宠物-遛猫",
       "displayName": "遛猫",
       "displayNameEn": "Walking a Cat",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "a3f01d38c9e6ad11f8b99d039a040868ca4cf2ac475fc6df2c4b863763c3157f"
     },
     {
       "name": "家务-整理电线",
       "displayName": "整理电线",
       "displayNameEn": "Organizing Cables",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "5ffaeba6ee3d0e742a35ca4619f3fcbebded4cdac767ccda1480178914052e98"
     },
     {
       "name": "家务-整理药箱",
       "displayName": "整理药箱",
       "displayNameEn": "Organizing a Medicine Kit",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "e17555505f756d271edd2bc83f52616c0aad47519f8233b4fda9117c5197ef1f"
     },
     {
       "name": "家务-更换窗帘",
       "displayName": "更换窗帘",
       "displayNameEn": "Changing Curtains",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "10d81f4e2d6a9af96f92f69427bf54d1388fde0185438d2b28bd33ea2cbf7c75"
     },
     {
       "name": "家务-清洁微波炉",
       "displayName": "清洁微波炉",
       "displayNameEn": "Cleaning the Microwave",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "a65b12065fdcb858ee85076e231c1abf47d63b7491102a1f62c5c2b021ae7637"
     },
     {
       "name": "家务-清洁烤箱",
       "displayName": "清洁烤箱",
       "displayNameEn": "Cleaning the Oven",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "a3832787e204b37f1ca717819cc049ef5bf77283455ea80f7c4fb8ea4be1a01c"
     },
     {
       "name": "家务-清洁键盘",
       "displayName": "清洁键盘",
       "displayNameEn": "Cleaning a Keyboard",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "91f195b599de60d58df3d757bfc60bcb6cd4c8b245133cbc76e2986ac622e7b9"
     },
     {
       "name": "家务-清洗水壶",
       "displayName": "清洗水壶",
       "displayNameEn": "Cleaning a Kettle",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "513d0eaa88d4ed67fa82e1f779efdd5ab18cb0e6f27a5356de826a0fa91d6302"
     },
     {
       "name": "家务-给植物换盆",
       "displayName": "给植物换盆",
       "displayNameEn": "Repotting a Plant",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "3cc2d060c577fe5a4ae505f16a733972758768d9d51aef513e9be7322d58d2c5"
     },
     {
       "name": "工作-备份文件",
       "displayName": "备份文件",
       "displayNameEn": "Backing Up Files",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "22045a52bce09b346ec72d4c29f315a7d1ebe53665977736e2a52f19ff8d9786"
     },
     {
       "name": "工作-整理收件箱",
       "displayName": "整理收件箱",
       "displayNameEn": "Organizing an Email Inbox",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "fc025057efb9289b09009c7c33a0c5f8ff1d6948cbb04b05ee96e01ca8b78f5c"
     },
     {
       "name": "工作-绘制思维导图",
       "displayName": "绘制思维导图",
       "displayNameEn": "Drawing a Mind Map",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "bb2aa41385b72a7a0c6124b233a199f950198537d5e226b166bd1e5390c89b58"
     },
     {
       "name": "旅行-托运行李",
       "displayName": "托运行李",
       "displayNameEn": "Checking In Luggage",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "ce5c4c739dccb36ae77c2ea07f5f53c8b0affe286f5616fe84e596c6096cd637"
     },
     {
       "name": "生活-买电影票",
       "displayName": "买电影票",
       "displayNameEn": "Buying Movie Tickets",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "988546209196c8af4ec496dec9f563099d10b07aaebed7153e64267401754a11"
     },
     {
       "name": "生活-挑选衣服",
       "displayName": "挑选衣服",
       "displayNameEn": "Choosing Clothes",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "f2ae48669ee1e46e6c033817736862a49393f744e7d12c5c5231d30ca09fb688"
     },
     {
       "name": "生活-自助结账",
       "displayName": "自助结账",
       "displayNameEn": "Using Self-Checkout",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "8c0e284ccd4e51402746418b711c74462421e181b456e8780620d5ce409aeaff"
     },
     {
       "name": "生活-试穿鞋子",
       "displayName": "试穿鞋子",
       "displayNameEn": "Trying On Shoes",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "308cebe1716a649c3ae4cd71c10343b8f8771aeae5cda72f15db354e17b6f6ed"
     },
     {
       "name": "生活-验光配眼镜",
       "displayName": "验光配眼镜",
       "displayNameEn": "Getting an Eye Exam",
       "category": "生活",
-      "categoryEn": "Life"
+      "categoryEn": "Life",
+      "sha256": "af28272591769af7baddee362075d844a58d2b6a905dccf20575fb3df0148e60"
     },
     {
       "name": "社交-写感谢卡",
       "displayName": "写感谢卡",
       "displayNameEn": "Writing a Thank-You Card",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "51ac1797796c463df858716631f65945c1fe9d1611fdeed6e56ea356e427cc2b"
     },
     {
       "name": "育儿-准备午餐盒",
       "displayName": "准备午餐盒",
       "displayNameEn": "Packing a Child's Lunch",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "0cc4369694aed476ba45828829c8925db5f0ae0d1a7f4200b4d73e6efe9fc0b9"
     },
     {
       "name": "育儿-测量身高",
       "displayName": "测量身高",
       "displayNameEn": "Measuring a Child's Height",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "c9e45937a7165be66f4530cfae38b4c69e1f9a5b55252044da17441e00658005"
     },
     {
       "name": "育儿-陪孩子刷牙",
       "displayName": "陪孩子刷牙",
       "displayNameEn": "Helping a Child Brush Teeth",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "97b5003f04074999e9ffb098db1395f2fbcc9778056a16082e18abf14044016e"
     },
     {
       "name": "育儿-陪孩子玩滑板车",
       "displayName": "陪孩子玩滑板车",
       "displayNameEn": "Helping a Child Ride a Scooter",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "2f06106d989e8a5f2985540f2a3352d4fac964cf92dd6e381a5d8f043e3e7c83"
     },
     {
       "name": "艺术-做手账",
       "displayName": "做手账",
       "displayNameEn": "Decorating a Journal",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "1522807fd56549878b2049472beb76f9efe97ec2f8bf0d218036cbb4e53e5164"
     },
     {
       "name": "艺术-折纸",
       "displayName": "折纸",
       "displayNameEn": "Folding Origami",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "8738a89a17878d1856ea23da2b63fdbeeecf71a2206ff06a51ab3f9aeb77bae4"
     },
     {
       "name": "艺术-织围巾",
       "displayName": "织围巾",
       "displayNameEn": "Knitting a Scarf",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "2a24765a336dbaa71ac1905561acbb12706ec81151038d1bee37b42ab4ac3f81"
     },
     {
       "name": "个护-戴隐形眼镜",
       "displayName": "戴隐形眼镜",
       "displayNameEn": "Putting In Contact Lenses",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "85ea23171ccdf3923e75e273383614523dde6b00ea855b3b0cbbca6fd2ccc7de"
     },
     {
       "name": "个护-扎头发",
       "displayName": "扎头发",
       "displayNameEn": "Tying Up Hair",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "daa2702e810fd6122a2887149a6834bb8f82264a7bd5503011be74945ac96834"
     },
     {
       "name": "个护-清洗化妆刷",
       "displayName": "清洗化妆刷",
       "displayNameEn": "Washing Makeup Brushes",
       "category": "个护",
-      "categoryEn": "Personal Care"
+      "categoryEn": "Personal Care",
+      "sha256": "25607cfb1cd231396f2f9b8e576de0e54514e7a240c5d4fa9b1d0f1bc38f2a9d"
     },
     {
       "name": "交通-戴骑行头盔",
       "displayName": "戴骑行头盔",
       "displayNameEn": "Putting On a Cycling Helmet",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "c2cc6837ee635b31419bf822bfe62ce75f32d3cd396d9904135a33eb887754b6"
     },
     {
       "name": "交通-检查胎压",
       "displayName": "检查胎压",
       "displayNameEn": "Checking Tire Pressure",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "f6c5ac0ab4a3cd2b8326aa2a2a8775e2d7c57bcecc4ff11d39b27ccd0450b77d"
     },
     {
       "name": "交通-系安全带",
       "displayName": "系安全带",
       "displayNameEn": "Fastening a Seat Belt",
       "category": "交通",
-      "categoryEn": "Transportation"
+      "categoryEn": "Transportation",
+      "sha256": "58ddcf4360234a7930606e9027ed2849538c2f2cffb6f8432d3eb7cb06563715"
     },
     {
       "name": "做饭-削蔬菜皮",
       "displayName": "削蔬菜皮",
       "displayNameEn": "Peeling Vegetables",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "2b3e621921ff10b9740b315135ed952aca775a5eda196b1223e0039ece28b51f"
     },
     {
       "name": "做饭-拌沙拉",
       "displayName": "拌沙拉",
       "displayNameEn": "Tossing a Salad",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "b76555bfd410ffadbbdd067697731d21af945c3a8a0407eda300848842b1d604"
     },
     {
       "name": "做饭-煎鸡蛋",
       "displayName": "煎鸡蛋",
       "displayNameEn": "Frying an Egg",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "5c75b47ac3feebe080ac9e2907d737887a92b7bb31bf88834c0822b09031a30a"
     },
     {
       "name": "做饭-煮粥",
       "displayName": "煮粥",
       "displayNameEn": "Cooking Porridge",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "425566af5598fa661b4b72ffab9f027f47c63c41329b689e662a3ffda4bf340d"
     },
     {
       "name": "做饭-称量食材",
       "displayName": "称量食材",
       "displayNameEn": "Weighing Ingredients",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "6c7c318f6f987deb28fb7b2b54ce2e35edfcdee2f67c1569d1b5d616c1ae4216"
     },
     {
       "name": "做饭-腌制食材",
       "displayName": "腌制食材",
       "displayNameEn": "Marinating Ingredients",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "bb45c185d00d2e389d7c915ea01cae6f779c38722405a528dcc2b12026780501"
     },
     {
       "name": "做饭-蒸包子",
       "displayName": "蒸包子",
       "displayNameEn": "Steaming Bao Buns",
       "category": "做饭",
-      "categoryEn": "Cooking"
+      "categoryEn": "Cooking",
+      "sha256": "cdf46f9ec5a3841320a841f45f7a3615d52b244488a3bd97e7007f8eb235c8ba"
     },
     {
       "name": "健康-整理每周药盒",
       "displayName": "整理每周药盒",
       "displayNameEn": "Filling a Weekly Pill Organizer",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "f842153995349840dd6150de578675b71c1156968e39017e05d231eda5974286"
     },
     {
       "name": "健康-更换创可贴",
       "displayName": "更换创可贴",
       "displayNameEn": "Changing a Bandage",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "c4f1ac5ab0c093c31ceb8305e5b8c8582665fec4068dd9228793d3412229c473"
     },
     {
       "name": "健康-预约挂号",
       "displayName": "预约挂号",
       "displayNameEn": "Booking a Medical Appointment",
       "category": "健康",
-      "categoryEn": "Health"
+      "categoryEn": "Health",
+      "sha256": "3a6b9be898ed2b32f060ada9f9f662a54addf6f48c019e6cdf353b39b65cd212"
     },
     {
       "name": "公共服务-归还图书",
       "displayName": "归还图书",
       "displayNameEn": "Returning Library Books",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "fbac2fb4c7741d190a732a6e658412f706add203a6066d17c5a85a1f55799c38"
     },
     {
       "name": "公共服务-自助取号",
       "displayName": "自助取号",
       "displayNameEn": "Taking a Queue Ticket",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "99d507280b06aab4482fd456b4994ec606647663e5adefdeb0c0e3fc6741dd97"
     },
     {
       "name": "公共服务-邮寄明信片",
       "displayName": "邮寄明信片",
       "displayNameEn": "Mailing a Postcard",
       "category": "公共服务",
-      "categoryEn": "Public Services"
+      "categoryEn": "Public Services",
+      "sha256": "a6647502143ed9fcd2a96816dad6723217c7d5697d15363a3c4b7aef385de0d6"
     },
     {
       "name": "学习-制作闪卡",
       "displayName": "制作闪卡",
       "displayNameEn": "Making Flashcards",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "1ecab4dd5c07febc95b58083feaa09a8bcefa108784ced3572b30fab79b7be2c"
     },
     {
       "name": "学习-解数学题",
       "displayName": "解数学题",
       "displayNameEn": "Solving Math Problems",
       "category": "学习",
-      "categoryEn": "Study"
+      "categoryEn": "Study",
+      "sha256": "93d2883345b41c045c3cdbdfc4644bcc3eb31a3f4fff89671e814009500c5dec"
     },
     {
       "name": "宠物-清洗鱼缸",
       "displayName": "清洗鱼缸",
       "displayNameEn": "Cleaning a Fish Tank",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "fd535b751aaa70509e069bb28dba3c2b3f4ed5ff2d44aab1ab2e7dfb991d7bb3"
     },
     {
       "name": "宠物-给宠物戴项圈",
       "displayName": "给宠物戴项圈",
       "displayNameEn": "Putting a Collar on a Pet",
       "category": "宠物",
-      "categoryEn": "Pet Care"
+      "categoryEn": "Pet Care",
+      "sha256": "203a697e98cb3c2f795d33b3a534e6a6dad6aaac635b3838be1337092f177d5a"
     },
     {
       "name": "家务-擦拭镜子",
       "displayName": "擦拭镜子",
       "displayNameEn": "Wiping a Mirror",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "5976b6619a431c79b36216d74a3b9f2f081d1f6ffed99ea0072567907acc962c"
     },
     {
       "name": "家务-收纳换季衣物",
       "displayName": "收纳换季衣物",
       "displayNameEn": "Storing Seasonal Clothes",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "cda51cf8e83d858b9e94c0b867f81628e68aeb36e3d8f0c67803fa27c6e5d505"
     },
     {
       "name": "家务-整理餐具",
       "displayName": "整理餐具",
       "displayNameEn": "Organizing Cutlery",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "c97ca606ec3c62e18698a0284d0391097655c1f5cd05c4196dc2b6768041adcb"
     },
     {
       "name": "家务-清洁沙发",
       "displayName": "清洁沙发",
       "displayNameEn": "Cleaning a Sofa",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "5ea7c43b9f564a64727f97760370de67281cd67d9b05db172272b8aea3b5b1d5"
     },
     {
       "name": "家务-清洗加湿器",
       "displayName": "清洗加湿器",
       "displayNameEn": "Cleaning a Humidifier",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "fc0e0a6e81597f1366ad0b1335b6e39ae448f930ac4926f59281fd19ab6b6efc"
     },
     {
       "name": "家务-清洗风扇",
       "displayName": "清洗风扇",
       "displayNameEn": "Cleaning an Electric Fan",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "e21ca720817863c3b336032e0a36a92ba25f19cb59eac6559f26b0bf077bef17"
     },
     {
       "name": "家务-清理洗衣机滤网",
       "displayName": "清理洗衣机滤网",
       "displayNameEn": "Cleaning a Washing Machine Filter",
       "category": "家务",
-      "categoryEn": "Housework"
+      "categoryEn": "Housework",
+      "sha256": "e648d08fee3bf785050c2aa64f728b4d7d74315489260f3385d9eae90657ba0b"
     },
     {
       "name": "家庭-全家合影",
       "displayName": "全家合影",
       "displayNameEn": "Taking a Family Photo",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "9640fed7b684eb7132192e751dc021d1d33a67f4777537a71d7cfd480f8ec092"
     },
     {
       "name": "家庭-帮老人推轮椅",
       "displayName": "帮老人推轮椅",
       "displayNameEn": "Pushing a Wheelchair for an Elder",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "afd8522513ef7b57a057db879af43411f899e7ec77fdd844b120c2c81b637dd2"
     },
     {
       "name": "家庭-陪家人下棋",
       "displayName": "陪家人下棋",
       "displayNameEn": "Playing Chess With Family",
       "category": "家庭",
-      "categoryEn": "Family"
+      "categoryEn": "Family",
+      "sha256": "a593fcd240b4cef9547008c682cf3b893670ac408cf5e27eab0b41f460abc083"
     },
     {
       "name": "工作-扫描文件",
       "displayName": "扫描文件",
       "displayNameEn": "Scanning Documents",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "6e2a95b358f93485bcd9649fbcc82e977b7ffc61a66162d636b344309683f098"
     },
     {
       "name": "工作-标注设计稿",
       "displayName": "标注设计稿",
       "displayNameEn": "Annotating a Design Draft",
       "category": "工作",
-      "categoryEn": "Work"
+      "categoryEn": "Work",
+      "sha256": "c7d1bf98195591d406d7f9c84f11a391c2ed50220a5bd2808e1d1348f6c602d5"
     },
     {
       "name": "旅行-机场安检",
       "displayName": "机场安检",
       "displayNameEn": "Going Through Airport Security",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "e78c4ce2f76d19ded9adfa8c9b128f776d3d95b128fb5ac7dfe7fc57a3f08d4b"
     },
     {
       "name": "旅行-盖旅行纪念章",
       "displayName": "盖旅行纪念章",
       "displayNameEn": "Stamping a Travel Journal",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "76c68a5da9d9b44d40a4de7aa6c01e203e4c954fd726686f39c753d566828681"
     },
     {
       "name": "旅行-购买纪念品",
       "displayName": "购买纪念品",
       "displayNameEn": "Buying a Souvenir",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "d53f245f9a0ac669f921b00ea10db81f47aa3d9813f7c206b588f9f0092f4d3a"
     },
     {
       "name": "旅行-领取行李",
       "displayName": "领取行李",
       "displayNameEn": "Collecting Luggage",
       "category": "旅行",
-      "categoryEn": "Travel"
+      "categoryEn": "Travel",
+      "sha256": "404ba5a09014d217d1594d659cfdcdb6122c57c215a11efdff1cbf6cf7d1cad0"
     },
     {
       "name": "社交-包装礼物",
       "displayName": "包装礼物",
       "displayNameEn": "Wrapping a Gift",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "8b9658eb2893ce5e2970d7745634e2d48454d917b6aae7a7be26d71c637429ff"
     },
     {
       "name": "社交-参加读书会",
       "displayName": "参加读书会",
       "displayNameEn": "Attending a Book Club",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "dbe26e0f03f1f88131ff20ddd5d136af9e0749e22a6d5d66673e9e5a2f33e003"
     },
     {
       "name": "社交-布置聚会",
       "displayName": "布置聚会",
       "displayNameEn": "Setting Up a Party",
       "category": "社交",
-      "categoryEn": "Social"
+      "categoryEn": "Social",
+      "sha256": "7f8c738fbe0ff1ae0f6003045e04077ef82fb1af302192a59dde528fcb318bfb"
     },
     {
       "name": "育儿-收拾玩具",
       "displayName": "收拾玩具",
       "displayNameEn": "Tidying Up Toys",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "1359c0806dbed040f520c15552918be082d2f79fa04e260850363e79bd8501e9"
     },
     {
       "name": "育儿-教孩子穿鞋",
       "displayName": "教孩子穿鞋",
       "displayNameEn": "Teaching a Child to Put On Shoes",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "c7d58c45b379ee359c3fa0e2071d7ac0941bf243d94c243bb17ded759f8dc601"
     },
     {
       "name": "育儿-陪孩子剪纸",
       "displayName": "陪孩子剪纸",
       "displayNameEn": "Helping a Child With Paper Crafts",
       "category": "育儿",
-      "categoryEn": "Parenting"
+      "categoryEn": "Parenting",
+      "sha256": "d99d3e95383155030892dc3c2e1ae12706024050c0fa33dbbb3978b5ab04f22d"
     },
     {
       "name": "艺术-制作蜡烛",
       "displayName": "制作蜡烛",
       "displayNameEn": "Making Candles",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "eb0a1269d9acdfd786a4cd24cf96f475b1b3c647baee4f7d2ac42053643ec0ab"
     },
     {
       "name": "艺术-插花",
       "displayName": "插花",
       "displayNameEn": "Arranging Flowers",
       "category": "艺术",
-      "categoryEn": "Art"
+      "categoryEn": "Art",
+      "sha256": "11a0251d1af4f4458efd9ae0245b296dc230ae22acb908f075d0a98eaedc0b18"
     },
     {
       "name": "财务-兑换零钱",
       "displayName": "兑换零钱",
       "displayNameEn": "Exchanging Coins",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "fe4843c113c39c3f2d17c7f78c6092c0191d70c4a2c54edffaa0e24461685641"
     },
     {
       "name": "财务-制定预算",
       "displayName": "制定预算",
       "displayNameEn": "Planning a Budget",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "4bb29ca82a294e8865dd68b33ee158ab110a5e21710495d19f03ccc5888a2d20"
     },
     {
       "name": "财务-整理发票",
       "displayName": "整理发票",
       "displayNameEn": "Organizing Receipts",
       "category": "财务",
-      "categoryEn": "Finance"
+      "categoryEn": "Finance",
+      "sha256": "79e947d6bc6bf0561ee03ad3e7f66952bf7c3b677b65d79ff2b2bad768d5d375"
     }
   ]
 }
